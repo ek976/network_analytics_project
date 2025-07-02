@@ -10,14 +10,17 @@ Please run conda env create -f environment.yml inside terminal to set up an iden
 
 #### Homework 2
 * The Following information is provided to satisfy the requirements of Homework 2 for Team Members: 
-  * **Group member-1: Morgan Dreiss**
-    * **article_title, current_number_of citation, year_published, first_author, last_author, journal_name**
-    * **article_title, current_number_of citation, year_published, first_author, last_author, journal_name**
-    * **article_title, current_number_of citation, year_published, first_author, last_author, journal_name**
-  * **Group member-2: Liz Kovalchuk**
-    * **article_title, current_number_of citation, year_published, first_author, last_author, journal_name**
-    * **article_title, current_number_of citation, year_published, first_author, last_author, journal_name**
-    * **article_title, current_number_of citation, year_published, first_author, last_author, journal_name**
+**Group member-1: Morgan Dreiss**
+    * **Chasing the Fish Oil—Do Bunker Vessels Hold the Key to Fisheries Crime Networks?, 9, 2018-08-03, Jessica H. Ford, Chris Wilcox, Frontiers in Marine Science**
+    * **Building navigation networks from multi-vessel trajectory data,  31 , 2021-01-01, Iraklis Varlamis, Stan Matwin, GeoInformatica**
+    * **Casting a net to better understand fisheries management: An affiliation network analysis of the Great Lakes Fishery Commission, 10, 2015-07-01, Kate K. Mulvaney, Linda S. Prokopy, Marine Policy**
+
+**Group member-2: Liz Kovalchuk**
+    * **Network approach for understanding small-scale fisheries governance: The case of the Chilean coastal co-management system, 100 , 2010-09-01, Andrés Marín, Fikret Berkes, Marine Policy**
+    * **The international trade and fishery management of spiny dogfish: A social network approach, 19, 2013-08-01, Andrea Dell'Apa, Roger A. Rulifson, Ocean & Coastal Management**
+    * **Dynamics of Fisheries in the Azores Islands: A Network Analysis Approach, 1, 2024-11-16, Brenda Nogueira, Gui M. Menezes, Progress In Artificial Intelligence**
+
+
 
 #### Homework 3 
 * Each member should start to read their papers and make a summary outline for each.
