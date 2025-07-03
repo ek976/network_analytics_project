@@ -26,3 +26,18 @@ Please run conda env create -f environment.yml inside terminal to set up an iden
 * Each member should start to read their papers and make a summary outline for each.
   * This summary won't be submitted until HW-3. 
   * As part of HW-3, your group will be asked to write a 2 to 3 page draft of your paper's "introduction" section by summarizing the publications above. 
+
+  * **Title+Authors**: With institution affiliation as footnotes
+* **Abstract**: A "teaser" paragraphs summarizing the work (see below for more detail). 
+  * The work isn't finished so this can just be an initial draft
+  * An abstract is a 150 to 250-word paragraph that provides readers with a quick overview of your essay or report and its organization. It should express your thesis (or central idea) and your key points; it should also suggest any implications or applications of the research you discuss in the paper.
+  * The function of an abstract is to describe, not to evaluate or defend, the paper.
+  * The abstract should begin with a brief but precise statement of the problem or issue, followed by a description of the research method and design, the major findings, and the conclusions reached.
+  * For more see: https://writingcenter.gmu.edu/guides/writing-an-abstract#:~:text=The%20function%20of%20an%20abstract,findings%2C%20and%20the%20conclusions%20reached.
+* **Keywords**: Provide a list of keywords relevant to your work. 
+  * Think of these as "search terms" that other researchers might google to find your paper. 
+* **Introduction**: 
+  * Summary of the topic, why it is important, why the reader should continue, what work has been done in the past by other research groups, what are the “different points of views”/interpretations in the literature, what are you exploring, what questions are you trying to address, what are your goals and hypothesis, etc
+  * Part of the introduction is a concise literature review. Therefore, along with the points mentioned above, make sure to summarize the nine publications (three per person) that you discussed in HW-1. 
+* **References**: 
+  * Make sure to include internal citations to all textbooks and peer-reviewed articles with a list of references at the end.
