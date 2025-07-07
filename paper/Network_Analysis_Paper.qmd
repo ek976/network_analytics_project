@@ -61,3 +61,9 @@ Provide a list of keywords relevant to your work.
 
 
 ## Literature Review
+
+A 2018 paper @ford_chasing_2018 utilized Social Network Analysis (SNA) to identify key ships within the fishing industry in the Indian Ocean. The researchers utilized AIS data to infer relationships for vessel who operated in close proximity and found that Reefer (Refrigerated Cargo Vessels) and Bunkering (Fuel Resupply Ships) play a key role in the vessel network as identified by their eigenvector centrality.
+
+Another paper @mulvaney_casting_2015 utilized survey data to establish connections between players in the Great Lake's local fisheries network. The paper discussed heavily their methodology constraints with the survey, but also concluded that the fisheries network included many informal and formal relationships, with the informal relationships forming a significant portion of the edges.
+
+This paper @varlamis_building_2021 was interesting and was a deep dive on how they utilized AIS to create vessel traffic networks, but ultimately not helpful for this topic. 
