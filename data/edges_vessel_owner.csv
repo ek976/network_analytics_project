@@ -1,0 +1,3127 @@
+source,target,relationship
+vessel_12098,owner_MED BFT VESSEL LIMITED,owned_by
+vessel_10572,"owner_Oakcity Tuna Fishing Corporation, S.A. de C.V.",owned_by
+vessel_4655,owner_OAKCITY TUNA FISHING CORPORATION S.A de C.V.,owned_by
+vessel_4656,owner_OAKCITY TUNA FISHING CORPORATION S.A de C.V.,owned_by
+vessel_9975,"owner_HAI CHAN YANG FISHERY CO.,LTD",owned_by
+vessel_881,owner_KOCHI KEN,owned_by
+vessel_1630,"owner_FUJITA GYOGYOU COMPANY., Ltd.",owned_by
+vessel_11463,"owner_CHINA SOUTHERN FISHERY(SHENZHEN)  CO.,LTD",owned_by
+vessel_12117,owner_TSP LIVESTOCK & DEVELOPMENT CORPORATION,owned_by
+vessel_4316,owner_DANG FISHERY INC,owned_by
+vessel_4317,owner_NGUYEN FISHERY INC,owned_by
+vessel_12038,"owner_Zhejiang Xingpeng Ocean Fishery CO.,LTD",owned_by
+vessel_10179,"owner_Zhejiang Xingpeng Ocean Fishery CO.,LTD",owned_by
+vessel_11751,owner_GUANGZHOU PELAGIC FISHERY CO. LTD.,owned_by
+vessel_9739,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_9738,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_9825,owner_Pan Pacific Fishing (RMI) INC.,owned_by
+vessel_4276,owner_JK PACIFIC FISHERY LTD,owned_by
+vessel_10706,"owner_CHINA SOUTHERN FISHERY (SHENZHEN)CO.,LTD.",owned_by
+vessel_10705,"owner_CHINA SOUTHERN FISHERY (SHENZHEN)CO.,LTD.",owned_by
+vessel_10704,"owner_CHINA SOUTHERN FISHERY (SHENZHEN)CO.,LTD.",owned_by
+vessel_10647,"owner_China Southern Fishery (Shenzhen) Co.,Ltd",owned_by
+vessel_10646,"owner_China Southern Fishery (Shenzhen) Co.,Ltd",owned_by
+vessel_10645,"owner_China Southern Fishery (Shenzhen) Co.,ltd",owned_by
+vessel_133,"owner_ZHE JIANG NEW TIMES INTERNATIONAL FISHERIES CO., LTD.",owned_by
+vessel_131,"owner_ZHEJIANG NEW TIMES INTERNATIONAL FISHERIES CO., LTD.",owned_by
+vessel_11701,"owner_Zhoushan Haihong Ocean Fisheries CO., LTD",owned_by
+vessel_11995,owner_GUANGZHOU PELAGIC FISHERY CO. LTD.,owned_by
+vessel_11827,owner_FAIR RICH INTERNATIONAL GROUP LTD,owned_by
+vessel_10883,"owner_LIANCHENG OVERSEAS FISHERY(SHENZHEN)CO.,LTD.",owned_by
+vessel_10884,"owner_LIANCHENG OVERSEAS FISHERY(SHENZHEN)CO.,LTD.",owned_by
+vessel_11461,"owner_CHINA SOUTHERN FISHERY(SHENZHEN)  CO.,LTD",owned_by
+vessel_11455,"owner_CHINA SOUTHERN FISHERY(SHENZHEN)  CO.,LTD",owned_by
+vessel_11454,"owner_CHINA SOUTHERN FISHERY(SHENZHEN)  CO.,LTD",owned_by
+vessel_11905,"owner_CHINA SOUTHERN FISHERY(SHENZHEN)  CO.,LTD",owned_by
+vessel_12181,owner_AOMORI-KEN,owned_by
+vessel_12446,owner_MIYA SUISAN KO,owned_by
+vessel_11636,"owner_WEI FONG SHIPPING CO., LIMITED",owned_by
+vessel_11453,owner_ACONCAGUA BAY SHIPPING COMPANY B.V. (Foreign Maritime Entity),owned_by
+vessel_434,"owner_DONGWON FISHERIES CO.,LTD",owned_by
+vessel_2105,owner_DONGWON FISHERIES CO.LTD.,owned_by
+vessel_1381,"owner_DONGWON FISHERIES Co., Ltd",owned_by
+vessel_912,"owner_DONGWON FISHERIES  Co., Ltd",owned_by
+vessel_906,"owner_DONGWON FISHERIES  Co., Ltd",owned_by
+vessel_902,"owner_DONGWON FISHERIES  Co., Ltd",owned_by
+vessel_1906,owner_TAIJIN GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_10910,owner_SHAN DONG LIDAO OCEANIC TECHNOLOGY COMPANY LIMITED,owned_by
+vessel_10909,owner_SHAN DONG LIDAO OCEANIC TECHNOLOGY COMPANY LIMITED,owned_by
+vessel_11027,owner_GUANGZHOU PELAGIC FISHERY CO. LTD.,owned_by
+vessel_11996,owner_GUANGZHOU PELAGIC FISHERY CO. LTD.,owned_by
+vessel_1726,owner_ASANO SUISAN INC,owned_by
+vessel_1766,owner_TAKAMARU SUISAN INC,owned_by
+vessel_305,owner_YUGENGAISHA  HIROYA,owned_by
+vessel_9235,"owner_GREEN WORLD CO.,LTD",owned_by
+vessel_10612,"owner_Rongcheng Mashan Ocean Fishery Co.,ltd",owned_by
+vessel_11465,"owner_Rongcheng Mashan Ocean Fishery Co., LTD",owned_by
+vessel_11464,"owner_Rongcheng Mashan Ocean Fishery Co., LTD",owned_by
+vessel_12276,"owner_AOXIAN(SHENZHEN)FISHERY CO.,LTD",owned_by
+vessel_1915,"owner_KYOKUYO SUISAN CO.,LTD.",owned_by
+vessel_10145,"owner_CHINA SOUTHERN FISHERY (SHENZHEN)CO.,LTD.",owned_by
+vessel_10144,"owner_CHINA SOUTHERN FISHERY (SHENZHEN)CO.,LTD.",owned_by
+vessel_10143,"owner_CHINA SOUTHERN FISHERY (SHENZHEN)CO.,LTD.",owned_by
+vessel_10118,"owner_CHINA SOUTHERN FISHERY (SHENZHEN)CO.,LTD",owned_by
+vessel_10117,"owner_CHINA SOUTHERN FISHERY (SHENZHEN)CO.,LTD.",owned_by
+vessel_10104,"owner_CHINA SOUTHERN FISHERY (SHENZHEN)CO.,LTD.",owned_by
+vessel_10103,"owner_CHINA SOUTHERN FISHERY (SHENZHEN)CO.,LTD.",owned_by
+vessel_9875,"owner_CHINA SOUTHERN FISHERY(SHENZHEN) CO.,LTD.",owned_by
+vessel_9874,"owner_CHINA SOUTHERN FISHERY(SHENZHEN) CO.,LTD.",owned_by
+vessel_10885,"owner_LIANCHENG OVERSEAS FISHERY(SHENZHEN)CO.,LTD.",owned_by
+vessel_10841,"owner_LIANCHENG OVERSEAS FISHERY(SHENZHEN)CO.,LTD.",owned_by
+vessel_10840,"owner_LIANCHENG OVERSEAS FISHERY(SHENZHEN)CO.,LTD.",owned_by
+vessel_12349,"owner_CNFC OVERSEAS FISHERIES CO.,LTD",owned_by
+vessel_11732,"owner_CNFC Overseas Fisheries Co., Ltd.",owned_by
+vessel_11894,"owner_SHENZHEN RONGHENG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_10407,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_10822,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_10821,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_10819,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_12078,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_11776,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_11756,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_11224,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_10550,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_9925,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_9924,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_9923,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_9922,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_12445,owner_KABUSHIKI KAISHA GOEIMARU,owned_by
+vessel_1611,owner_MYOEI,owned_by
+vessel_12444,owner_NISSYO,owned_by
+vessel_10512,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_10908,owner_SHAN DONG LIDAO OCEANIC TECHNOLOGY COMPANY LIMITED,owned_by
+vessel_12417,owner_Shandong Lidao Oceanic Technology Company Limited,owned_by
+vessel_12420,owner_Shandong Lidao Oceanic Technology Company Limited,owned_by
+vessel_12419,owner_Shandong Lidao Oceanic Technology Company Limited,owned_by
+vessel_12418,owner_Shandong Lidao Oceanic Technology Company Limited,owned_by
+vessel_11458,"owner_ShanDong  LiDao  Oceanic Technology  Co.,LTD",owned_by
+vessel_3994,"owner_CHIEN PAO OCEAN ENTERPRISE CO., LTD.",owned_by
+vessel_3691,"owner_HUANG, CHIU CHU",owned_by
+vessel_3783,"owner_CHEN, XIAO-YUN",owned_by
+vessel_4098,owner_BETTY H LLP,owned_by
+vessel_4269,owner_PACIFIC PRINCESS PARTNERSHIP LTD,owned_by
+vessel_12074,owner_PROSPERITY MARINE PTE. LTD,owned_by
+vessel_11431,owner_Aomori Prefectual Industrial Technology Research Center,owned_by
+vessel_488,"owner_TAIKEIMARU SUISAN CO.,LTD",owned_by
+vessel_10845,owner_FRABELLE FISHING CORPORATION,owned_by
+vessel_12431,"owner_Yellow Sea Fisheries Research Institute , Chinese Academy of Fishery Sciences",owned_by
+vessel_10911,owner_SHAN DONG LIDAO OCEANIC TECHNOLOGY COMPANY LIMITED,owned_by
+vessel_10618,owner_Shandong Lidao Oceanic Technology Company Limited,owned_by
+vessel_10617,owner_Shandong Lidao Oceanic Technology Company Limited,owned_by
+vessel_10616,owner_Shandong Lidao Oceanic Technology Company Limited,owned_by
+vessel_10615,owner_Shandong Lidao Oceanic Technology Company Limited,owned_by
+vessel_5125,owner_TUNA FISHING AUSTRALIA PTY LTD,owned_by
+vessel_3791,owner_SAN SHENG OCEAN LTD.,owned_by
+vessel_12344,"owner_ZHOUSHAN JIAHANG MARINE CO.,LTD",owned_by
+vessel_10707,owner_NANYOSUISAN KABUSHIKI KAISHA,owned_by
+vessel_3898,"owner_WU, ZONG HE",owned_by
+vessel_3345,"owner_CHEN, JIA-JYUN",owned_by
+vessel_3723,"owner_TIEN, YU-CHIANG",owned_by
+vessel_4620,"owner_LIN, CHIA-YU",owned_by
+vessel_8796,"owner_CHANG, YA-HUI",owned_by
+vessel_11704,"owner_Zhoushan Haihong Ocean Fisheries CO., LTD",owned_by
+vessel_5942,"owner_Zhoushan Haihong Ocean Fisheries CO., LTD",owned_by
+vessel_9827,"owner_WU, SHI-XIANG",owned_by
+vessel_11542,"owner_CHINA SOUTHERN FISHERY(SHENZHEN)CO.,LTD",owned_by
+vessel_11543,"owner_CHINA SOUTHERN FISHERY(SHENZHEN)CO.,LTD",owned_by
+vessel_10765,owner_Sierra Lara Shipping Company N.V.,owned_by
+vessel_12302,owner_HONGKONG SEA RUN SHIPPING LIMITED,owned_by
+vessel_2141,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_930,"owner_SILLA Co., Ltd",owned_by
+vessel_11685,owner_HAI SOON OIL PTE LTD,owned_by
+vessel_4296,"owner_TUNAGO FISHERY CO., LTD",owned_by
+vessel_9822,"owner_WINSON SEA BUNKER CO., LTD",owned_by
+vessel_11810,owner_NITRO COMET LIMITED,owned_by
+vessel_355,owner_Grand East Fishery Co. LTD,owned_by
+vessel_12307,owner_SINOPEC FUEL OIL (SINGAPORE) PTE.LTD,owned_by
+vessel_4291,"owner_YI FA FISHERY CO., LTD.,",owned_by
+vessel_11286,owner_IRON LADY LLC,owned_by
+vessel_11497,owner_HAPPY HAWAIIAN SEAFOOD LLC,owned_by
+vessel_9856,"owner_HARDER, JOHN",owned_by
+vessel_9854,owner_V&A INC.,owned_by
+vessel_3800,"owner_TSAI, KUN-YUAN",owned_by
+vessel_3007,"owner_LIANG, YI-LAN",owned_by
+vessel_5058,owner_LAVALLE FISHERIES PTY LTD,owned_by
+vessel_12443,owner_CAIANO SHIPPING AS,owned_by
+vessel_12442,owner_GREEN SHIPPING AS,owned_by
+vessel_12441,owner_GREEN SHIPPING AS,owned_by
+vessel_12440,owner_GREEN SHIPPING AS,owned_by
+vessel_12439,owner_GREEN SHIPPING AS,owned_by
+vessel_12438,owner_GREEN CHILE SHIPPING COMPANY N.V.,owned_by
+vessel_12437,owner_CAIANO SHIPPING AS,owned_by
+vessel_12436,owner_DOMINIC R. SALAZAR,owned_by
+vessel_12378,owner_Kiribati Tuna Fishing Company Limited,owned_by
+vessel_12377,owner_Kiribati Tuna Fishing Company Limited,owned_by
+vessel_12135,owner_KIRIBATI TUNA FISHING COMPANY LTD,owned_by
+vessel_12106,owner_Kiribati Tuna Fishing Company Limited,owned_by
+vessel_12068,owner_Kiribati Tuna Fishing Company Limited,owned_by
+vessel_11767,"owner_TACHIBANAYA CO., LTD. (95%)",owned_by
+vessel_11904,owner_HE TAI SHIPPING LIMITED,owned_by
+vessel_11830,"owner_DONGWON INDUSTRIES CO., LTD.",owned_by
+vessel_11854,"owner_DONGWON INDUSTRIES CO., LTD",owned_by
+vessel_3717,owner_WANG CHIH CHIANG,owned_by
+vessel_12435,owner_GREEN SHIPPING AS,owned_by
+vessel_12090,owner_HABITAT INTERNATIONAL CORP.,owned_by
+vessel_11149,owner_HABITAT INTERNATIONAL CORP.,owned_by
+vessel_12434,owner_SK SHIPHOLDING S.A.,owned_by
+vessel_12121,owner_TRANS-PACIFIC JOURNEY FISHING COPORATION,owned_by
+vessel_9214,owner_QUEEN TUVALU INC.,owned_by
+vessel_11397,"owner_SEIN SHIPPING CO., LTD.",owned_by
+vessel_11017,"owner_GREEN WORLD CO., LTD.",owned_by
+vessel_3694,owner_HUANG LIN LI FEN,owned_by
+vessel_3503,"owner_CHEN, HUNG-YU",owned_by
+vessel_2102,"owner_DAEHAE FISHERIES CO.,LTD",owned_by
+vessel_9455,owner_TOEI REEFER LINE LTD.,owned_by
+vessel_10111,owner_TOEI REEFER LINE LTD.,owned_by
+vessel_10606,owner_Super Shine Development Limited,owned_by
+vessel_12433,"owner_RUNO PESCA, SL (Company)",owned_by
+vessel_12319,"owner_Ministry of Agriculture, Forestry and Fisheries",owned_by
+vessel_11468,"owner_THAISEVEN TRADE CO.,LTD",owned_by
+vessel_12432,"owner_SAN LORENZO RUIZ FISHING INDUSTRY, INC.",owned_by
+vessel_2241,owner_TUDO Fisheries Co. Pty. Ltd.,owned_by
+vessel_5251,owner_SCA KEYALA ARMEMENT,owned_by
+vessel_5455,owner_SARL FETU ARMEMENT,owned_by
+vessel_10941,"owner_JIH YU FISHERY CO., LTD.",owned_by
+vessel_3303,"owner_HONG, YA-WEN",owned_by
+vessel_3548,owner_LI MING CAI,owned_by
+vessel_3842,"owner_LIU, CHUN-CHENG",owned_by
+vessel_11256,"owner_ZHE JIANG OCEAN FAMILY CO., LTD.",owned_by
+vessel_11290,"owner_ZHE JIANG OCEAN FAMILY CO., LTD.",owned_by
+vessel_4432,"owner_ZHEJIANG OCEAN FAMILY CO.,LTD.",owned_by
+vessel_4435,"owner_ZHEJIANG OCEAN FAMILY CO.,LTD.",owned_by
+vessel_9952,"owner_Ace Marine Holdings Co., Ltd",owned_by
+vessel_9244,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_4194,owner_NGUYEN FISHERY INC,owned_by
+vessel_9459,owner_TUDDAL REEFER AS,owned_by
+vessel_9487,owner_SEA ROAD LINE INC.,owned_by
+vessel_369,"owner_DAEHAE FISHERIES CO.,LTD",owned_by
+vessel_2138,"owner_SEA SKY MULSAN CO., LTD.",owned_by
+vessel_11647,owner_FUKUSHIMAKEN KYOUIKUINKAI,owned_by
+vessel_866,owner_IBARAKI KEN,owned_by
+vessel_10717,owner_SHIMANEKEN　KYOIKUIINKAI　,owned_by
+vessel_11555,owner_Hokkaido Prefecture,owned_by
+vessel_9758,owner_SHIZUOKA KEN,owned_by
+vessel_10394,owner_KOKURITSUDAIGAKUHOJIN KAGOSHIMA DAIGAKU,owned_by
+vessel_10670,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_11456,"owner_ShanDong  LiDao  Oceanic Technology  Co.,LTD",owned_by
+vessel_9907,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_10537,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_4533,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_11955,"owner_CNFC Overseas Fisheries Co., Ltd.",owned_by
+vessel_11954,"owner_CNFC Overseas Fisheries Co., Ltd.",owned_by
+vessel_11953,"owner_CNFC Overseas Fisheries Co., Ltd.",owned_by
+vessel_1382,"owner_KHD KOREA CO.,LTD",owned_by
+vessel_5434,"owner_KHD KOREA CO.,LTD",owned_by
+vessel_2127,"owner_KHD KOREA CO.,LTD",owned_by
+vessel_12221,owner_OCEAN PRINCE OVERSEAS S.A.,owned_by
+vessel_5023,owner_TUNAGO SHIPPING CO. LTD,owned_by
+vessel_4054,owner_TUNAGO SHIPPING CO. LTD,owned_by
+vessel_11793,owner_BY BERING S.A,owned_by
+vessel_11813,owner_BY ALASKA S.A.,owned_by
+vessel_11000,"owner_FAIR BRAVO FISHERY CO., LTD",owned_by
+vessel_3524,owner_SYU YU FAN,owned_by
+vessel_11784,"owner_YU HSIANG FISHERY CO., LTD",owned_by
+vessel_5347,"owner_WU, KUO-YUAN",owned_by
+vessel_12018,owner_Zhongyu Global Seafood Corporation,owned_by
+vessel_12017,owner_Zhongyu Global Seafood Corporation,owned_by
+vessel_11819,owner_Success Global Holding Limited,owned_by
+vessel_11787,"owner_YU HSIANG FISHERY CO., LTD",owned_by
+vessel_4608,owner_UNITED LION FISHERY (PNG) LIMITED,owned_by
+vessel_8949,owner_UNITED JAGUAR FISHERY (PNG) LIMITED,owned_by
+vessel_8849,owner_Winmax Fishery (PNG) Limited,owned_by
+vessel_1917,owner_UNITED BEAR FISHERY (PNG) LIMITED,owned_by
+vessel_2087,owner_FISHERIES RESEARCH AGENCY,owned_by
+vessel_10168,"owner_SILLA Co., Ltd",owned_by
+vessel_4272,"owner_DA YU FISHERY CO,. LTD",owned_by
+vessel_11797,"owner_Weihai Huanhai Aquatic CO.,Ltd.",owned_by
+vessel_11796,"owner_Weihai Huanhai Aquatic CO.,Ltd.",owned_by
+vessel_11213,"owner_Weihai Huanhai Aquatic CO.,Ltd.",owned_by
+vessel_11944,"owner_Weihai Huanhai Aquatic CO.,Ltd.",owned_by
+vessel_10546,"owner_Weihai Huanhai Aquatic CO.,Ltd.",owned_by
+vessel_10552,"owner_Weihai Huanhai Aquatic CO.,Ltd.",owned_by
+vessel_11975,"owner_Weihai City Hengyuan Fishery Co.,Ltd",owned_by
+vessel_11973,"owner_Weihai City Hengyuan Fishery Co.,Ltd",owned_by
+vessel_11971,"owner_Weihai City Hengyuan Fishery Co.,Ltd",owned_by
+vessel_12430,"owner_STARINDO JAYA MAJU, PT.",owned_by
+vessel_12429,"owner_Starindo Jaya Sukses, PT.",owned_by
+vessel_4476,"owner_GUAYATUNA, S.A.",owned_by
+vessel_10712,owner_GAME OVER LLC,owned_by
+vessel_12041,owner_HOKKAIDO UNIVERSITY,owned_by
+vessel_11459,"owner_ShanDong  LiDao  Oceanic Technology  Co.,LTD",owned_by
+vessel_11457,"owner_ShanDong  LiDao  Oceanic Technology  Co.,LTD",owned_by
+vessel_11163,"owner_SILLA CO., LTD",owned_by
+vessel_11702,"owner_Zhoushan Haihong Ocean Fisheries CO., LTD",owned_by
+vessel_11895,"owner_SHENZHEN RONGHENG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_11892,"owner_SHENZHEN RONGHENG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_11612,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_124,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_11227,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_11223,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_10549,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_10548,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_10474,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_3550,"owner_CHEN, CHIEN-JEN",owned_by
+vessel_3386,"owner_HUANG, YI FUN",owned_by
+vessel_11348,owner_Southern Seas Logistics Ltd,owned_by
+vessel_12428,"owner_South Pacific Venture Co., Ltd",owned_by
+vessel_9428,"owner_NOK CO., LTD. S.A",owned_by
+vessel_10451,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_12423,"owner_TUNA MANZAI CO., LTD.",owned_by
+vessel_12425,"owner_SKIPJACK MANZAI CO., LTD.",owned_by
+vessel_12426,"owner_NAURU MANZAI CO., LTD.",owned_by
+vessel_10778,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION (THIDCOR),owned_by
+vessel_10809,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_10939,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_11646,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT COPPORATION,owned_by
+vessel_10781,owner_TRINITY HOME INDUSRTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_11433,owner_TRINITY HOME INDUSTRIAL DEV`T. CORP. (THIDCOR),owned_by
+vessel_11276,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_8775,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_7159,owner_TSP MARINE INDUSTRIES,owned_by
+vessel_9568,owner_TSP LIVESTOCK & DEVELOPMENT CORPORATION,owned_by
+vessel_7157,owner_TSP MARINE INDUSTRIES,owned_by
+vessel_9454,"owner_SEIN SHIPPING CO., LTD.",owned_by
+vessel_7229,owner_TSP LIVESTOCK & DEVELOPMENT CORPORATION,owned_by
+vessel_7158,owner_TSP MARINE INDUSTRIES,owned_by
+vessel_7219,owner_DOMINGO TENG FISHING INDUSTRIES,owned_by
+vessel_2383,owner_TSP LIVESTOCK & DEV'T. CORP./TSP MARINE INDUSTRIES,owned_by
+vessel_10420,"owner_DOMINGO TENG FISHING INDUSTRY, INC.",owned_by
+vessel_1885,"owner_DOMINGO TENG FISHING INDUSTRY, INC.",owned_by
+vessel_10151,"owner_Pingtairong Ocean Fishery Group Co., LTD",owned_by
+vessel_9734,"owner_AOXIAN(SHENZHEN)FISHERY CO.,LTD",owned_by
+vessel_4001,"owner_HSIANG HSIN FISHERY CO., LTD",owned_by
+vessel_3998,"owner_MING CHUN FISHERY CO., LTD.",owned_by
+vessel_3995,"owner_YING CHUN FISHERY CO., LTD.",owned_by
+vessel_3546,"owner_CHEN, LI-MIN",owned_by
+vessel_3349,owner_CHEN SHU MIAN,owned_by
+vessel_3925,"owner_SUNG WENG MARINE PRODUCTS CO., LTD.",owned_by
+vessel_10535,owner_SUZUKO GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_4125,"owner_MOORE, JOSHUA;LUTHER, RICHARD",owned_by
+vessel_4140,owner_HAPPY BOAT LLC,owned_by
+vessel_5723,"owner_FINBACK FISHERIES, LLC",owned_by
+vessel_4503,"owner_A & M FISHING COMPANY, INC.",owned_by
+vessel_3957,owner_PAC RIM LEASING LLC,owned_by
+vessel_4108,owner_RBKL INC,owned_by
+vessel_4322,owner_LADY MARIA HAWAII LLC,owned_by
+vessel_4377,owner_LADY OF THE SEA LLC,owned_by
+vessel_4252,owner_VIKING V INC,owned_by
+vessel_12126,owner_LNNK FISHERY LLC,owned_by
+vessel_5695,owner_MORE AHI INC.,owned_by
+vessel_4130,"owner_OAHU RAINBOWS, INC.",owned_by
+vessel_4233,"owner_L. S. FISHING, INC.",owned_by
+vessel_4344,owner_SEA DIAMOND CORPORATION,owned_by
+vessel_11724,owner_VAK FISHERIES LLC,owned_by
+vessel_4104,owner_VAK FISHERIES LLC,owned_by
+vessel_4329,owner_GAO INVESTMENT INC,owned_by
+vessel_12097,owner_PIONEER MARINE SERVICES PTE LTD,owned_by
+vessel_418,"owner_FOREVER FISHERY CO., LTD.",owned_by
+vessel_11462,"owner_CHINA SOUTHERN FISHERY(SHENZHEN)  CO.,LTD",owned_by
+vessel_11460,"owner_CHINA SOUTHERN FISHERY(SHENZHEN)  CO.,LTD",owned_by
+vessel_5168,"owner_Liancheng Overseas Fishery (Shenzhen)Co.,Ltd.",owned_by
+vessel_11741,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_11740,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_11681,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_11547,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_11546,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_12167,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_11910,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_11909,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_11768,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_11774,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_11769,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_11736,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_11513,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_11512,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_10036,"owner_LIANCHENG OVERSEAS FISHERY(SHENZHEN)CO.,LTD",owned_by
+vessel_10035,"owner_LIANCHENG OVERSEAS FISHERY(SHENZHEN)CO.,LTD",owned_by
+vessel_11890,"owner_SHENZHEN RONGHENG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_12427,owner_HOKKAIDO,owned_by
+vessel_11291,owner_PRINCESS REEFER S.A.,owned_by
+vessel_12101,owner_TOP ELECT INTERNATIONAL LIMITED,owned_by
+vessel_3829,"owner_LIN, CHIEN-LIANG",owned_by
+vessel_2956,"owner_HUANG, MING-YI",owned_by
+vessel_3696,"owner_LI, XIAO-HONG",owned_by
+vessel_3462,"owner_HONG CAO, A-CHUN",owned_by
+vessel_3726,"owner_TSAY, SHYH-SHIAW",owned_by
+vessel_3506,"owner_CHEN, JEN-CHENG",owned_by
+vessel_8815,owner_WU JHEN-HUANG,owned_by
+vessel_3377,"owner_CHEN, CHUN JUNG",owned_by
+vessel_3519,"owner_TSAI, BAU-AN",owned_by
+vessel_3445,"owner_TSAI, SHUI-SHENG",owned_by
+vessel_3623,"owner_CHERN,WEN-JYH",owned_by
+vessel_5388,"owner_WANG, REN-ZHI",owned_by
+vessel_3716,owner_HUANG JIA FEN,owned_by
+vessel_3547,owner_TSAY CHERN LIH LAN,owned_by
+vessel_2725,"owner_HWANG, DAH SHUENN",owned_by
+vessel_3395,"owner_PAN, CHUNG-CHIU",owned_by
+vessel_3703,"owner_TSAI, CHEN SHU-LAN",owned_by
+vessel_3841,"owner_TSENG, SZU-WEI",owned_by
+vessel_3551,"owner_CHERN, JIANN-CHYUAN",owned_by
+vessel_5346,"owner_TSAI, JYH-HORNG",owned_by
+vessel_3649,"owner_WU, LAI-FWU",owned_by
+vessel_5387,"owner_CHEN, GUAN-LONG",owned_by
+vessel_3827,"owner_CHANG, CHIN-CHU",owned_by
+vessel_3837,"owner_CHEN, FU YU",owned_by
+vessel_3668,"owner_WANG, QUAN-QING",owned_by
+vessel_3904,"owner_CHEN, CHINQ-HER",owned_by
+vessel_2721,"owner_CHEN, A-KUEI",owned_by
+vessel_1178,"owner_LIN, MING-SHUN",owned_by
+vessel_8798,owner_LI FU JIU,owned_by
+vessel_4464,"owner_WU, CHING HUNG",owned_by
+vessel_2573,"owner_HWANG, SHIN-HUEY",owned_by
+vessel_2606,"owner_HUNG, JEN-TSAI",owned_by
+vessel_2970,"owner_HSU, MING-JEN",owned_by
+vessel_5357,"owner_LI, MING CAI",owned_by
+vessel_3660,"owner_CHANG, JUEI-HSIUNG",owned_by
+vessel_3646,"owner_TSAI, CHAO-HO",owned_by
+vessel_9703,"owner_HUANG, YU-LI",owned_by
+vessel_3866,owner_LIN HUANG SHI,owned_by
+vessel_2954,owner_YU SU CHING,owned_by
+vessel_3709,"owner_CHAI, MAUNG-JIAN",owned_by
+vessel_3604,"owner_TSAI, SHUI SHENG",owned_by
+vessel_3429,"owner_HUNG, FU-CHENG",owned_by
+vessel_3290,"owner_HUANG, QING YI",owned_by
+vessel_2932,"owner_LIN, YING-CHIUAN",owned_by
+vessel_3455,"owner_CHEN, CHIF-FA",owned_by
+vessel_2976,"owner_HSU, YU-CHIH",owned_by
+vessel_3736,"owner_HUANG, MING-CHU",owned_by
+vessel_8814,"owner_LIN, SIN-DE",owned_by
+vessel_3592,"owner_HUANG, YING CHIA",owned_by
+vessel_2860,"owner_HUANG, CHU-HSIANG",owned_by
+vessel_2984,"owner_CHEN, LI-CHUAN",owned_by
+vessel_3639,"owner_HWANG, WEN-JIUNN",owned_by
+vessel_5389,owner_SYU HAN HONG,owned_by
+vessel_11138,"owner_LIN, KUEI JU",owned_by
+vessel_3567,"owner_SU, YU-YA",owned_by
+vessel_3279,owner_CHEN RUEI SIANG,owned_by
+vessel_1221,"owner_LIN, CHIEN-CHU",owned_by
+vessel_10004,"owner_HONG, SYU-MEI-HUA",owned_by
+vessel_3448,"owner_CHEN ,CI-MING",owned_by
+vessel_4541,"owner_HUNG, FU-CHING",owned_by
+vessel_11578,owner_OOHAMAGYOGYO KABUSIKIKAISYA,owned_by
+vessel_1562,"owner_TSAI CHEN, SHU-FEN",owned_by
+vessel_2651,"owner_LIN, SHIOW-TYNG",owned_by
+vessel_3830,"owner_HUANG, JIAN-SHENGE",owned_by
+vessel_9016,"owner_WANGSYU, YU-CHUN",owned_by
+vessel_8879,"owner_CHEN HUNG, CHIU-PING",owned_by
+vessel_3641,"owner_LIN, SHU HUA",owned_by
+vessel_3712,"owner_TSAI, SHUI-SHENG",owned_by
+vessel_3618,"owner_LII, GWO-DINQ",owned_by
+vessel_2980,"owner_HUANG, CHIA-HUNG",owned_by
+vessel_3836,"owner_HONG,ZHENG-ZHI",owned_by
+vessel_9941,owner_CHERN SHIUAN JIUAN,owned_by
+vessel_3502,"owner_DENG, CHING-YU",owned_by
+vessel_3634,"owner_TSAI, PAO-TING",owned_by
+vessel_3558,"owner_HORNG, SHENG-AN",owned_by
+vessel_2323,"owner_CHEN, FANG-MEI",owned_by
+vessel_3300,"owner_HU, SHENG-HUI",owned_by
+vessel_2690,"owner_SU, FU-CHI",owned_by
+vessel_3598,"owner_TSAY, MING-WEN",owned_by
+vessel_3803,"owner_CHEN, KUANC-CHENG",owned_by
+vessel_8808,"owner_HUNG, KUO-CHENG",owned_by
+vessel_2897,"owner_SHEU, JHE-MING",owned_by
+vessel_8898,"owner_TSAI, CHAO-FU",owned_by
+vessel_3594,"owner_Huang, Yong-Wun",owned_by
+vessel_3612,"owner_HUANG, QIONG-YU",owned_by
+vessel_3821,"owner_TSAI CHEN, GUEI-MEI",owned_by
+vessel_3667,"owner_HWANG, AN-SHYR",owned_by
+vessel_3812,"owner_CHEN, AN-CHIN",owned_by
+vessel_9036,"owner_CHEN, SHU-YU",owned_by
+vessel_3019,owner_LIN CHERN YU SHIN,owned_by
+vessel_3347,owner_CHEN YI DE,owned_by
+vessel_3006,"owner_LI, JIA-HUA",owned_by
+vessel_8819,"owner_CHEN, CHAO-SHUI",owned_by
+vessel_2605,"owner_TSAI, FEN- FENG",owned_by
+vessel_3700,"owner_CHEN,MEI-YEN",owned_by
+vessel_3010,"owner_CHERN, HORNG JWU",owned_by
+vessel_3811,"owner_LE, CHING-MING",owned_by
+vessel_2873,"owner_HONG DING, GUI-HUA",owned_by
+vessel_9360,"owner_HUANG, CHIN-FA",owned_by
+vessel_5419,owner_TSAI KUN- CHING,owned_by
+vessel_3580,"owner_LI ,PING-UAN",owned_by
+vessel_3693,"owner_HOMG, BAO-YINN",owned_by
+vessel_3501,"owner_LEE, CHIEN-HSING",owned_by
+vessel_2979,"owner_WANG, CHYUAN-CHING",owned_by
+vessel_3657,owner_HORNG JYH BIN,owned_by
+vessel_12096,"owner_CHEN, CHING-PO",owned_by
+vessel_10225,"owner_LAI, KUN-CHIH",owned_by
+vessel_3822,"owner_LIN, GWO-JEN",owned_by
+vessel_3806,"owner_CHEN,CHING-CHENG",owned_by
+vessel_8793,owner_HORNG TSUEY RU,owned_by
+vessel_3650,"owner_HUNG, WAN-TING",owned_by
+vessel_2768,"owner_WANG,QUAN-QING",owned_by
+vessel_2985,"owner_HONG DING, GUI-HUA",owned_by
+vessel_3802,"owner_HONG DING, GUI-HUA",owned_by
+vessel_3658,"owner_HONG DING, GUI-HUA",owned_by
+vessel_3865,"owner_HWANG, SHUENN-JU",owned_by
+vessel_3715,"owner_HONG, QING-AN",owned_by
+vessel_2982,"owner_HUANG, HUI-PING",owned_by
+vessel_5420,"owner_WANG, CHIEH-HSIEN",owned_by
+vessel_10839,"owner_TSAI,YUEH-CHIN",owned_by
+vessel_3684,owner_HONG JYH YONG,owned_by
+vessel_8797,"owner_HUANG, SIN-YING",owned_by
+vessel_3805,"owner_WU, MENG-HAN",owned_by
+vessel_3607,"owner_TSAI, MING-TA",owned_by
+vessel_9087,"owner_HUANG, HUI-TING",owned_by
+vessel_3714,"owner_XU, WEN JUN",owned_by
+vessel_5027,"owner_SYU, JIA-SHIH",owned_by
+vessel_3562,"owner_SU, WEN-LANG",owned_by
+vessel_2694,"owner_WU, HUI-MIN",owned_by
+vessel_3808,"owner_TIEN,TSUNG-MING",owned_by
+vessel_5364,"owner_HUNG, JIA-YIH",owned_by
+vessel_3536,"owner_WANG, QUAN-QING",owned_by
+vessel_3838,"owner_HUANG, RUI-FA",owned_by
+vessel_3443,"owner_HUANG LIN, CHIU-O",owned_by
+vessel_3622,"owner_HUANG,MIENG-RUENG",owned_by
+vessel_11902,"owner_HUANG, HAN-PING",owned_by
+vessel_3863,"owner_WU, GUO-XIAN",owned_by
+vessel_3636,"owner_SHY HORNG, SHOEI-CHYR",owned_by
+vessel_3560,"owner_LIN, SHU-CING",owned_by
+vessel_3573,"owner_HONG, JYH YONG",owned_by
+vessel_3387,"owner_HUANG CHEN, MEI-YU",owned_by
+vessel_3092,"owner_CHEN, WEN-ZHEN",owned_by
+vessel_9763,"owner_CHEN, CHUN-CHIH",owned_by
+vessel_3584,"owner_HUNG, KUO-LIANG",owned_by
+vessel_5361,owner_HORNG JENQ FENG,owned_by
+vessel_9980,"owner_CHI, TIEN-I",owned_by
+vessel_5602,owner_SC TAHITI NUI PECHE,owned_by
+vessel_5593,owner_SC TAHITI NUI PECHE,owned_by
+vessel_5463,owner_SCP EDDY,owned_by
+vessel_11384,owner_SCA POISSON DU FENUA,owned_by
+vessel_5473,owner_SCA MOOREA PECHE MR3-MR6,owned_by
+vessel_5243,owner_SCA MOOREA PECHE,owned_by
+vessel_5591,owner_SARL MOKAI,owned_by
+vessel_5471,owner_SARL MOKAI,owned_by
+vessel_12357,owner_SCA MS PACIFIC LONGLINER,owned_by
+vessel_11959,owner_SCA MS PACIFIC LONGLINER,owned_by
+vessel_11897,owner_SCA MS PACIFIC LONGLINER,owned_by
+vessel_5459,owner_SNC RAVA'AI RAU 4,owned_by
+vessel_5574,owner_SCA MATAU,owned_by
+vessel_5462,owner_SNC RAVA'AI RAU 8,owned_by
+vessel_12100,owner_SC MOARII ET FILS ARMEMENT,owned_by
+vessel_11766,owner_SC MOARII AND SONS FISHERIES,owned_by
+vessel_11668,owner_SC MOARII AND SONS FISHERIES,owned_by
+vessel_11615,owner_SARL OCEAN FRESH TAHITI,owned_by
+vessel_11292,owner_SARL OCEAN FRESH TAHITI,owned_by
+vessel_5589,owner_SARL ARMEMENT GEORGES MOARII,owned_by
+vessel_5576,owner_SARL ARMEMENT GEORGES MOARII,owned_by
+vessel_12153,owner_SC MOARII ET FILS ARMEMENT,owned_by
+vessel_12055,owner_SNC DEGAGE ET CIE,owned_by
+vessel_5584,owner_SCA FARAMOANA,owned_by
+vessel_5472,owner_SNC RAVA'AI RAU 2,owned_by
+vessel_5457,owner_SNC RAVA'AI RAU 2,owned_by
+vessel_5460,owner_SNC Rava'ai Rau 6,owned_by
+vessel_5577,owner_SCA VAVEA MARU gerant CHING Yann,owned_by
+vessel_5585,owner_SARL FETU ARMEMENT,owned_by
+vessel_5474,owner_SCA ONOIAU,owned_by
+vessel_5468,owner_SCP EDDY,owned_by
+vessel_5476,owner_SCA PACIFIC FISHING INDUSTRY,owned_by
+vessel_5575,owner_SCA MITI MARU,owned_by
+vessel_5467,owner_SC VAIANAHOA,owned_by
+vessel_12132,owner_SCA POEMOANA TAHITI,owned_by
+vessel_5247,owner_SCA SAKAPO,owned_by
+vessel_12086,owner_SCA POEFARA TAHITI,owned_by
+vessel_5470,owner_SCA VAIANAHOA,owned_by
+vessel_5603,owner_SCA VAEANAPA RAVA'AI,owned_by
+vessel_11866,owner_ARMEMENT TAHITI TUNA,owned_by
+vessel_12014,owner_ARMEMENT TAHITI TUNA,owned_by
+vessel_5592,owner_SCA TUBUAI RAVA'AI III,owned_by
+vessel_970,owner_SCA TUANUI,owned_by
+vessel_5597,owner_SCA TUANUI,owned_by
+vessel_5482,owner_SCA TUANUI,owned_by
+vessel_12355,owner_SCA HAURA MOANA,owned_by
+vessel_5466,owner_WTT SCA,owned_by
+vessel_5461,owner_SCA MATAORA,owned_by
+vessel_11293,owner_SC TE AITO RAVA'AI NUI,owned_by
+vessel_12063,owner_WILD TAHITIAN TUNA SCA,owned_by
+vessel_5588,owner_SCA RAINBOW,owned_by
+vessel_12301,owner_SC TAHITI NUI PECHE,owned_by
+vessel_12253,owner_SC TAHITI NUI PÊCHE,owned_by
+vessel_5590,owner_SCA FARAMOANA,owned_by
+vessel_12228,owner_ARGON STONE LIMITED,owned_by
+vessel_12104,owner_NEW SHORE DEVELOPMENTS LIMITED,owned_by
+vessel_11925,owner_DIAMOND BAY GLOBAL LIMITED,owned_by
+vessel_11439,owner_OCEAN AFFLUENT LIMITED,owned_by
+vessel_11174,owner_NEW WINSTAR S.A.,owned_by
+vessel_11779,owner_ALL PERFECTION LIMITED,owned_by
+vessel_11678,owner_HARBOUR HERO INTERNATIONAL LIMITED,owned_by
+vessel_11368,owner_EAGERWAY LIMITED,owned_by
+vessel_12035,owner_EVER TRIUMPH HOLDINGS LIMITED,owned_by
+vessel_3793,"owner_HUANG, CHIH-HSIUNG",owned_by
+vessel_3340,"owner_LIN, YAN-CYUAN",owned_by
+vessel_5344,"owner_TSAY, JAU-WEN",owned_by
+vessel_2327,"owner_WANG, QUAN QING",owned_by
+vessel_4068,"owner_HONG, SHENG-AN",owned_by
+vessel_9393,"owner_CHERN, WEN-WOEI",owned_by
+vessel_3578,"owner_LI, MING-TIAN",owned_by
+vessel_8881,"owner_HUNG, KUO-LIANG",owned_by
+vessel_2727,"owner_TSENG, KUO YANG",owned_by
+vessel_2883,"owner_CHEN,CHIH CHENG",owned_by
+vessel_2662,"owner_HORNG, FA-TSAIR",owned_by
+vessel_2811,owner_WU YOU SIN,owned_by
+vessel_3789,"owner_HUANG, SHUI-FU",owned_by
+vessel_4738,"owner_CHEN, YU-SHENG",owned_by
+vessel_3323,owner_TSAI FENG RU,owned_by
+vessel_3707,"owner_HONG, PANG CHIEH",owned_by
+vessel_5456,owner_SCA RAVA'AI HERE,owned_by
+vessel_11835,"owner_Rongcheng Ocean Fishery Co.,Ltd",owned_by
+vessel_10357,"owner_Weihai Changhe Fishery Co,.Ltd",owned_by
+vessel_10356,"owner_Weihai Changhe Fishery Co,.Ltd",owned_by
+vessel_11230,"owner_AOXIAN(SHENZHEN)FISHERY CO.,LTD",owned_by
+vessel_10538,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_12424,"owner_YELLOWFIN MANZAI CO., LTD.",owned_by
+vessel_10702,"owner_ZHOUSHAN HAIXING OCEAN FISHERIES CO.,LTD",owned_by
+vessel_11309,"owner_Shenzhen Shengang  Overseas Industrial Co., Ltd",owned_by
+vessel_10836,"owner_Shenzhen Shengang  Overseas Industrial Co., Ltd",owned_by
+vessel_10835,"owner_Shenzhen Shengang  Overseas Industrial Co., Ltd",owned_by
+vessel_10833,"owner_Shenzhen Shengang  Overseas Industrial Co., Ltd",owned_by
+vessel_10832,"owner_Shenzhen Shengang  Overseas Industrial Co., Ltd",owned_by
+vessel_10831,"owner_Shenzhen Shengang  Overseas Industrial Co., Ltd",owned_by
+vessel_10817,"owner_Shenzhen Shengang  Overseas Industrial Co., Ltd",owned_by
+vessel_10816,"owner_Shenzhen Shengang  Overseas Industrial Co., Ltd",owned_by
+vessel_10815,"owner_Shenzhen Shengang  Overseas Industrial Co., Ltd",owned_by
+vessel_10814,"owner_Shenzhen Shengang  Overseas Industrial Co., Ltd",owned_by
+vessel_5422,owner_SEIYO SUISAN KABUSHIKI GAISHA,owned_by
+vessel_9940,"owner_SKY MARINE HOLDINGS CO., LTD.",owned_by
+vessel_10543,owner_HONG KONG (LIAOYU GROUP) COMPANY LIMITED,owned_by
+vessel_12108,owner_INTEGRITY TANKERS PTE LTD,owned_by
+vessel_11511,"owner_AOXIAN(SHENZHEN)FISHERY CO.,LTD",owned_by
+vessel_12280,owner_MIE KEN,owned_by
+vessel_9824,owner_FUKUOKA KEN,owned_by
+vessel_12036,owner_OKINAWA PREFECTURE,owned_by
+vessel_12130,"owner_Fisheries Research Institute, National Research and Development Agency, Japan Fisheries Research and Education Agency",owned_by
+vessel_12111,owner_MIYAGI KEN,owned_by
+vessel_3549,"owner_TIEN, LI-FEN",owned_by
+vessel_11820,owner_CHINA KINGDOM SHIPPING LTD,owned_by
+vessel_10005,owner_CHINA KINGDOM SHIPPING LIMITED,owned_by
+vessel_11903,owner_FAVOUR CHANCE HOLDING LIMITED,owned_by
+vessel_8735,"owner_KUNG, KUEN-TUNG",owned_by
+vessel_9080,"owner_AOXIAN(SHENZHEN)FISHERY CO.,LTD",owned_by
+vessel_3676,owner_HUANG SHUN YUEH ,owned_by
+vessel_4036,"owner_EXHIBITION AQUATIC PRODUCTS CO., LTD.",owned_by
+vessel_3702,"owner_CHI, TIEN-I",owned_by
+vessel_11635,"owner_RYOUEISUISAN CO.,LTD",owned_by
+vessel_12129,owner_KIRITIMATI ISLAND FISH LIMITED,owned_by
+vessel_12127,owner_KIRITIMATI ISLAND FISH LIMITED,owned_by
+vessel_12128,owner_KIRITIMATI ISLAND FISH LIMITED,owned_by
+vessel_9748,"owner_SAJO SEAFOOD Co., Ltd",owned_by
+vessel_12422,"owner_SAN LORENZO RUIZ FISHING INDUSTRY, INC",owned_by
+vessel_10927,"owner_SAN LORENZO RUIZ FISHING INDUSTRY, INC.",owned_by
+vessel_12379,owner_FUSION TRADE CO.,owned_by
+vessel_9433,owner_FARO NAVIGATION CORP.,owned_by
+vessel_12084,owner_HARVEST MARINE SERVICES PTE. LTD,owned_by
+vessel_11861,owner_STO. NINO AQUA FISHING VENTURE CORPORATION,owned_by
+vessel_11729,"owner_CNFC Overseas Fisheries Co., Ltd.",owned_by
+vessel_11173,"owner_AOXIAN(SHENZHEN)FISHERY CO.,LTD",owned_by
+vessel_2088,"owner_Fisheries Resources Institute, National Research and Development Agency, Japan Fisheries Research and Education Agency",owned_by
+vessel_12015,"owner_Shanghai Kaichuang Deep Sea Fisheries Co., Ltd",owned_by
+vessel_10966,"owner_Shanghai Deepsea Fisheries Co., Ltd",owned_by
+vessel_10544,"owner_Shanghai KaiChuang Deep Sea Fisheries Ltd., Co.",owned_by
+vessel_10422,"owner_Shanghai KaiChuang Deep Sea Fisheries Ltd., Co.",owned_by
+vessel_8737,"owner_SHANGHAI KAICHUANG DEEP SEA FISHERIES CO., LTD",owned_by
+vessel_12077,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_11891,"owner_SHENZHEN RONGHENG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_11748,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_12154,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_11777,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_11226,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_11225,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_10547,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_10150,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_5219,"owner_HUNG, KUO-HUI",owned_by
+vessel_8872,owner_GALAXY INTERNATIONAL MARITIME PTE LTD,owned_by
+vessel_12421,"owner_ZHOUSHAN HUIHANG SHIPPING CO., LTD",owned_by
+vessel_10364,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_11346,"owner_SEIN SHIPPING CO., LTD.",owned_by
+vessel_11446,owner_FORMOSA MANZAI CORPORATION LIMITED,owned_by
+vessel_10313,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_10312,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_10142,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_10141,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_9594,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_11398,owner_TOEI REEFER LINE LTD.,owned_by
+vessel_11656,owner_TOEI REEFER LINE LTD.,owned_by
+vessel_10984,"owner_ZHOUSHAN PACIFIC TUNA PELAGIC FISHERY CO.,LTD",owned_by
+vessel_10296,"owner_ZHOUSHAN PACIFIC TUNA PELAGIC FISHERY CO.,LTD",owned_by
+vessel_10295,"owner_ZHOUSHAN PACIFIC TUNA PELAGIC FISHERY CO.,LTD",owned_by
+vessel_10294,"owner_ZHOUSHAN PACIFIC TUNA PELAGIC FISHERY CO.,LTD",owned_by
+vessel_10293,"owner_ZHOUSHAN PACIFIC TUNA PELAGIC FISHERY CO.,LTD",owned_by
+vessel_10292,"owner_ZHOUSHAN PACIFIC TUNA PELAGIC FISHERY CO.,LTD",owned_by
+vessel_11469,"owner_MI EXPEDITERS CO.,LTD",owned_by
+vessel_5335,"owner_CHEN, HUI-JUN",owned_by
+vessel_2888,"owner_YANG, YUH-HUEI",owned_by
+vessel_3697,"owner_HSU, CHING TSUAN",owned_by
+vessel_3900,"owner_TSAI CHEN, HUI-CHUAN",owned_by
+vessel_5356,owner_HUANG  SHI MING,owned_by
+vessel_2419,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_12416,owner_Unknown Owner,owned_by
+vessel_10224,"owner_LIN, SHAO-FU",owned_by
+vessel_9257,owner_GOLDEN EAGLE II LLC,owned_by
+vessel_4307,owner_DANG FISHERY INC,owned_by
+vessel_4308,owner_NGUYEN FISHERY INC,owned_by
+vessel_10140,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_8766,owner_MAKYBE BJ PTY LTD,owned_by
+vessel_4429,owner_SAJO VANUATU LTD,owned_by
+vessel_12415,"owner_SAN LORENZO RUIZ FISHING INDUSTRY, INC.",owned_by
+vessel_9215,owner_GALAXY INTERNATIONAL MARITIME PTE LTD,owned_by
+vessel_11935,owner_STRAITS BREEZE S.A.,owned_by
+vessel_12391,"owner_SAN LORENZO RUIZ FISHING INDUSTRY, INC.",owned_by
+vessel_10478,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_10476,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_10149,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_1372,"owner_YAIZU TUNA FISHERY Co., Ltd.",owned_by
+vessel_10358,"owner_Weihai Changhe Fishery Co,.Ltd",owned_by
+vessel_10675,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_11836,"owner_Rongcheng Ocean Fishery Co.,Ltd",owned_by
+vessel_5126,owner_TUNA FISHING AUSTRALIA PTY LTD,owned_by
+vessel_12414,owner_ESBJORN CO PTY LTD,owned_by
+vessel_1663,owner_TUDO Fisheries Co. Pty. Ltd.,owned_by
+vessel_11967,"owner_TSAI, JUI-MING",owned_by
+vessel_11840,"owner_CHANG YU FISHERY CO., LTD",owned_by
+vessel_11243,"owner_SHENZHEN SZAP OVERSEAS  FISHERIES CO.,LTD",owned_by
+vessel_11242,"owner_SHENZHEN SZAP OVERSEAS FISHERIES CO.,LTD",owned_by
+vessel_4463,"owner_CHEN, JUI-WEN",owned_by
+vessel_10848,"owner_ZHOUSHAN HAIXING OCEAN FISHERIES CO.,LTD",owned_by
+vessel_10847,"owner_ZHOUSHAN HAIXING OCEAN FISHERIES CO.,LTD",owned_by
+vessel_10800,"owner_zhoushan haixing ocean fisheries co., ltd",owned_by
+vessel_9983,owner_ORIENT GLORY SHIPPING LIMITED,owned_by
+vessel_10121,"owner_SHENZHEN SZAP OVERSEAS  FISHERIES CO.,LTD",owned_by
+vessel_10120,"owner_SHENZHEN SZAP OVERSEAS  FISHERIES CO.,LTD",owned_by
+vessel_9956,"owner_SHENZHEN SZAP OVERSEAS  FISHERIES CO.,LTD",owned_by
+vessel_9955,"owner_SHENZHEN SZAP OVERSEAS  FISHERIES CO.,LTD",owned_by
+vessel_10696,"owner_ZHOUSHAN HAIXING OCEAN FISHERIES CO.,LTD",owned_by
+vessel_10799,"owner_zhoushan haixing ocean fisheries co., ltd",owned_by
+vessel_10886,"owner_ZHOUSHAN HAIXING OCEAN FISHERIES CO.,LTD",owned_by
+vessel_10700,"owner_ZHOUSHAN HAIXING OCEAN FISHERIES CO.,LTD",owned_by
+vessel_10034,"owner_ZHOUSHAN HAIXING OCEAN FISHERIES CO.,LTD",owned_by
+vessel_10033,"owner_ZHOUSHAN HAIXING OCEAN FISHERIES CO.,LTD",owned_by
+vessel_10032,"owner_ZHOUSHAN HAIXING OCEAN FISHERIES CO.,LTD",owned_by
+vessel_10031,"owner_ZHOUSHAN HAIXING OCEAN FISHERIES CO.,LTD",owned_by
+vessel_9326,"owner_TSAI' S FISHERY CO., LTD",owned_by
+vessel_11156,"owner_Guangdong Guangyuan Fishery Group Co., Ltd.",owned_by
+vessel_11851,"owner_Rongcheng Ocean Fishery Co.,Ltd",owned_by
+vessel_11852,"owner_Rongcheng Ocean Fishery Co.,Ltd",owned_by
+vessel_12039,"owner_Zhejiang Xingpeng Ocean Fishery CO.,LTD",owned_by
+vessel_12037,"owner_Zhejiang Xingpeng Ocean Fishery CO.,LTD",owned_by
+vessel_12299,"owner_HAI XING FISHERY CO., LTD",owned_by
+vessel_10718,"owner_Zhejiang Xingpeng Ocean Fishery CO.,LTD",owned_by
+vessel_11165,"owner_Zhejiang Xingpeng Ocean Fishery CO.,LTD",owned_by
+vessel_12265,"owner_CHARNG FU HUNG FISHERY CO., LTD",owned_by
+vessel_5941,"owner_Zhejiang Xingpeng Ocean Fishery CO.,LTD",owned_by
+vessel_9081,"owner_AOXIAN(SHENZHEN)FISHERY CO.,LTD",owned_by
+vessel_12413,"owner_SUMBER ALAM MELIMPAH, PT.",owned_by
+vessel_12412,"owner_SUMBER ALAM MELIMPAH, PT.",owned_by
+vessel_12411,"owner_TOBA BAHARI NUSARAYA, PT.",owned_by
+vessel_12410,"owner_SUMBER ALAM PASIFIK, PT.",owned_by
+vessel_9395,"owner_CAI, MING-JING",owned_by
+vessel_9873,"owner_WIN THAISHUN FISHERY CO., LTD",owned_by
+vessel_11114,"owner_ZHOUSHAN PACIFIC TUNA PELAGIC FISHERY CO.,LTD",owned_by
+vessel_11113,"owner_ZHOUSHAN PACIFIC TUNA PELAGIC FISHERY CO.,LTD",owned_by
+vessel_11112,"owner_ZHOUSHAN PACIFIC TUNA PELAGIC FISHERY CO.,LTD",owned_by
+vessel_11111,"owner_ZHOUSHAN PACIFIC TUNA PELAGIC FISHERY CO.,LTD",owned_by
+vessel_10126,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_4517,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_11339,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_12409,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_10676,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_11764,"owner_Rongcheng Ocean Fishery Co.,Ltd",owned_by
+vessel_10314,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_10091,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_10090,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_11360,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_10760,"owner_ZHEJIANG FENGHUI OCEAN FISHERIES CO.,LTD",owned_by
+vessel_10759,"owner_ZHEJIANG FENGHUI OCEAN FISHERIES CO.,LTD",owned_by
+vessel_10715,"owner_ZHEJIANG FENGHUI OCEAN FISHERIES CO.,LTD",owned_by
+vessel_10714,"owner_ZHEJIANG FENGHUI OCEAN FISHERIES CO.,LTD",owned_by
+vessel_10699,"owner_ZHEJIANG FENGHUI OCEAN FISHERIES CO.,LTD",owned_by
+vessel_10698,"owner_ZHEJIANG FENGHUI OCEAN FISHERIES CO.,LTD",owned_by
+vessel_4612,"owner_OCEAN RANGER CO.,LTD",owned_by
+vessel_4611,"owner_OCEAN PRIDE CO., LTD.",owned_by
+vessel_4433,owner_KAOHSIUNG MANZAI CORP. LTD,owned_by
+vessel_4431,"owner_Ningbo Yongfa Ocean Fisheries CO.,LTD",owned_by
+vessel_11705,"owner_Zhoushan Haihong Ocean Fisheries CO., LTD",owned_by
+vessel_11703,"owner_Zhoushan Haihong Ocean Fisheries CO., LTD",owned_by
+vessel_11700,"owner_Zhoushan Haihong Ocean Fisheries CO., LTD",owned_by
+vessel_10680,"owner_RONGCHENG MASHAN OCEAN FISHERY CO.,LTD",owned_by
+vessel_10671,"owner_RONGCHENG  MASHAN OCEAN FISHERY CO., LTD",owned_by
+vessel_10285,"owner_RONGCHENG MASHAN OCEAN FISHERY CO.,LTD",owned_by
+vessel_10681,"owner_RONGCHENG MASHAN OCEAN FISHERY CO.,LTD",owned_by
+vessel_12032,"owner_RONGCHENG MASHAN OCEAN FISHERY CO.,LTD",owned_by
+vessel_11477,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11483,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_12408,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_12407,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11614,"owner_RONGCHENG MASHAN OCEAN FISHERY CO.,LTD",owned_by
+vessel_12282,"owner_Shandong Shawodao Ocean Fishery Co.,Ltd",owned_by
+vessel_11652,"owner_Shandong shawodao ocean fishery co., ltd",owned_by
+vessel_11651,"owner_Shandong shawodao ocean fishery co.,ltd",owned_by
+vessel_11650,"owner_Shandong shawodao ocean fishery co., ltd",owned_by
+vessel_11649,"owner_Shandong shawodao ocean fishery co., ltd",owned_by
+vessel_10635,"owner_Shandong Shawodao Ocean Fishery Co.,Ltd",owned_by
+vessel_10634,"owner_Shandong Shawodao Ocean Fishery Co.,Ltd",owned_by
+vessel_10633,"owner_Shandong Shawodao Ocean Fishery Co.,Ltd",owned_by
+vessel_10632,"owner_Shandong Shawodao Ocean Fishery Co.,Ltd",owned_by
+vessel_11908,"owner_Zhoushan Enze Marine Fisheries CO.,LTD.",owned_by
+vessel_11907,"owner_Zhoushan Enze Marine Fisheries CO.,LTD.",owned_by
+vessel_11155,"owner_Guangdong Guangyuan Fishery Group Co., Ltd.",owned_by
+vessel_11997,owner_GUANGZHOU PELAGIC FISHERY CO. LTD.,owned_by
+vessel_11752,owner_GUANGZHOU PELAGIC FISHERY CO. LTD.,owned_by
+vessel_11750,owner_GUANGZHOU PELAGIC FISHERY CO. LTD.,owned_by
+vessel_11026,owner_GUANGZHOU PELAGIC FISHERY CO. LTD.,owned_by
+vessel_11025,owner_GUANGZHOU PELAGIC FISHERY CO. LTD.,owned_by
+vessel_1641,"owner_Kurohara,Takamori",owned_by
+vessel_107,"owner_Yantai Jingyuan Fisheries Co., Ltd",owned_by
+vessel_106,"owner_Yantai Jingyuan Fisheries Co.,Ltd",owned_by
+vessel_11228,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_11371,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_4593,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_5193,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_2325,"owner_LIN, CHIN-FU",owned_by
+vessel_1606,"owner_HASHIMURA CO.,LTD",owned_by
+vessel_1896,owner_Taiyo Micronesia Corporation,owned_by
+vessel_10284,owner_TAIYO MICRONESIA CORPORATION,owned_by
+vessel_4474,"owner_NOK CO. LTD., S.A",owned_by
+vessel_9208,"owner_EURO STAR SHIPPING, INC",owned_by
+vessel_10286,owner_JONATHAN STAR SHIPPING INC.,owned_by
+vessel_10575,"owner_LI, NENG-HUAI",owned_by
+vessel_12406,"owner_Marcelindo Citra Lestari, PT.",owned_by
+vessel_12405,"owner_Marcelindo Citra Lestari, PT.",owned_by
+vessel_4725,"owner_Marcelindo Citra Lestari, PT.",owned_by
+vessel_12404,"owner_Marcelindo Citra Lestari, PT.",owned_by
+vessel_9937,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_11893,"owner_SHENZHEN RONGHENG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_10405,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_10404,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_10820,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_2099,"owner_DAEHAE FISHERIES CO.,LTD",owned_by
+vessel_2104,"owner_DAEHAE FISHERIES CO.,LTD",owned_by
+vessel_10713,"owner_SEIN SHIPPING CO.,LTD",owned_by
+vessel_5205,owner_EURL VANA VANA,owned_by
+vessel_12027,owner_SCA TE ARA ROA,owned_by
+vessel_5587,owner_VINI VINI LONG LINE Products (EURL),owned_by
+vessel_5481,owner_SCA TUANUI,owned_by
+vessel_5475,owner_VINI VINI LONG LINE Products (EURL),owned_by
+vessel_5242,owner_SCA TE VAI PIHAA,owned_by
+vessel_9850,owner_ENCORE FISHERY LLC,owned_by
+vessel_5712,owner_LNK FISHERY LLC,owned_by
+vessel_12136,owner_STORMI VENTURES LLC,owned_by
+vessel_415,"owner_S.F.OCEAN ENTERPRISE CO., LTD",owned_by
+vessel_4290,"owner_SHUN MENG FISHERY CO., LTD., YU SHUN CHOU",owned_by
+vessel_3920,"owner_HONGSHENG FISHERIES CO.,LTD.",owned_by
+vessel_8824,"owner_GREEN WORLD Co., Ltd.",owned_by
+vessel_4295,"owner_TUNAGO FISHERY CO., LTD",owned_by
+vessel_4298,"owner_TUNAGO FISHERY CO., LTD",owned_by
+vessel_2245,owner_TUSA FISHING COMPANY LTD,owned_by
+vessel_11679,owner_WEI CHENG SHIPPING LIMITED,owned_by
+vessel_12403,"owner_Era Mas Mandiri, PT.",owned_by
+vessel_1890,owner_BLUECATCH CORPORATION,owned_by
+vessel_12402,"owner_Hasil Samudera Mandiri, PT.",owned_by
+vessel_12401,"owner_Lumba Samudera Bahari, PT.",owned_by
+vessel_12400,"owner_Tri Anugerah Pasifik, PT.",owned_by
+vessel_12399,"owner_Era Mas Mandiri, PT.",owned_by
+vessel_12398,owner_Kun Hwa,owned_by
+vessel_12397,"owner_Tri Anugerah Pasifik, PT.",owned_by
+vessel_12396,owner_Handayani Sulystio,owned_by
+vessel_12395,"owner_Sumber Samudra Sentosa, PT.",owned_by
+vessel_10703,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_12393,"owner_SAN LORENZO RUIZ FISHING INDUSTRY, INC.",owned_by
+vessel_12392,"owner_SAN LORENZO RUIZ FISHING INDUSTRY, INC.",owned_by
+vessel_12390,"owner_SAN LORENZO RUIZ FISHING INDUSTRY, INC.",owned_by
+vessel_12394,owner_Djasman,owned_by
+vessel_3505,"owner_CHEN, TSUNG-HSIEN",owned_by
+vessel_12389,owner_SUZUKO GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_1676,owner_ISSUI,owned_by
+vessel_4430,owner_SAJO VANUATU LTD,owned_by
+vessel_10842,"owner_KUO, JUI CHANG",owned_by
+vessel_11637,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_4530,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_10953,owner_EXPLORER MARINE S.A.,owned_by
+vessel_12388,"owner_PESCAMAVI ATLANTICO, S.L.",owned_by
+vessel_12387,"owner_CAHAYA KHARISMA PAPUA, PT.",owned_by
+vessel_11084,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_11083,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_5146,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_12386,owner_ATLANTIS FISHING DEVELOPMENT CORPORATION,owned_by
+vessel_11853,owner_HABITAT INTERNATIONAL CORP.,owned_by
+vessel_12385,owner_ATLANTIS FISHING DEVELOPMENT CORPORATION,owned_by
+vessel_206,owner_KABUSHIKI KAISHA GOEI MARU,owned_by
+vessel_4201,owner_CAPT SILVER FISHERY LLC,owned_by
+vessel_12165,owner_MISS SARAH LLC,owned_by
+vessel_12156,owner_KAYLEE FISHERY LLC,owned_by
+vessel_11825,owner_OCEAN SPRINGS LLC,owned_by
+vessel_4198,"owner_SEA GODDESS VESSEL, LLC",owned_by
+vessel_4379,owner_TRIPLE DRAGON LLC,owned_by
+vessel_4137,owner_JAYDEN FISHERY LLC,owned_by
+vessel_4235,owner_LADY ANNA CORPORATION,owned_by
+vessel_10830,owner_CINDY FISHERY LLC,owned_by
+vessel_10721,owner_NUONG NGUYEN FISHERY LLC,owned_by
+vessel_9325,owner_MISS SADIE LLC,owned_by
+vessel_5719,owner_LAM'S LONGLINE FISHERY LLC,owned_by
+vessel_9374,owner_SEEKER FISHERIES INC,owned_by
+vessel_9688,"owner_MAAN YIH FENG FISHERY CO., LTD",owned_by
+vessel_1901,owner_BLUECATCH CORPORATION,owned_by
+vessel_9829,owner_BLUECATCH CORPORATION,owned_by
+vessel_12147,owner_TRINITY HOME INDUSTRIAL DEV'T. CORPORATION (THIDCOR),owned_by
+vessel_12384,owner_Kiribati Blue Pacific Company Limited,owned_by
+vessel_10542,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_4529,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_10291,"owner_HSIAO, YIN-CHUN",owned_by
+vessel_11486,owner_STARCKI VENTURE CORPORATIONS,owned_by
+vessel_4536,owner_National Fisheries Developments Ltd,owned_by
+vessel_10041,owner_National Fisheries Developments Ltd,owned_by
+vessel_10040,owner_National Fisheries Developments Ltd,owned_by
+vessel_10038,owner_National Fisheries Developments Ltd,owned_by
+vessel_4535,owner_National Fisheries Developments Ltd,owned_by
+vessel_11349,owner_Southern Seas Logistics Ltd,owned_by
+vessel_11350,owner_Southern Seas Logistics Ltd,owned_by
+vessel_10782,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_3996,"owner_JIA CHUN FISHERIES CO., LTD",owned_by
+vessel_3914,"owner_YING CHUN FISHERIES CO.,LTD.",owned_by
+vessel_2858,"owner_HORNG, SIAN MING",owned_by
+vessel_11939,"owner_JIN JINN YI FISHERY CO., LTD",owned_by
+vessel_11560,"owner_YONG SHENG FISHERY CO., LTD",owned_by
+vessel_8806,"owner_LIN, HAN-YU",owned_by
+vessel_9741,"owner_KYUNG YANG  FISHERIES CO.,LTD",owned_by
+vessel_12382,owner_FUT HIUNG,owned_by
+vessel_12383,owner_FUT HIUNG,owned_by
+vessel_12124,"owner_ZHEJIANG NEW TIMES INTRNATIONAL FISHERIES CO.,LTD",owned_by
+vessel_11002,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_12381,owner_HONSYOU KATSUMI,owned_by
+vessel_11503,owner_TOKYO UNIVERSITY OF MARINE SCIENCE AND TECHNOLOGY,owned_by
+vessel_1886,owner_BLUECATCH CORPORATION,owned_by
+vessel_11387,owner_CityPro Management Limited,owned_by
+vessel_12365,owner_GOLDEN CENTRE TRADING LIMITED (PACIFIC SPACE),owned_by
+vessel_4469,owner_PRINCESS LINE S.A.,owned_by
+vessel_12380,"owner_STARINDO JAYA MAJU, PT.",owned_by
+vessel_298,owner_SATO GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_11277,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_10455,owner_RLGFI CORPORATION,owned_by
+vessel_9743,owner_CHEN YING PING,owned_by
+vessel_3798,"owner_LI, CHIH-HSIN",owned_by
+vessel_3553,"owner_SHUN SIN FISHERY CO., LTD",owned_by
+vessel_10784,owner_Trinity Home Industrial Development Corporation,owned_by
+vessel_9477,owner_TIARA MARINE S.A.,owned_by
+vessel_1895,"owner_Weihai Hanyang Ocean Fisheries Co., Ltd",owned_by
+vessel_1893,"owner_Weihai Hanyang Ocean Fisheries Co., Ltd",owned_by
+vessel_12376,owner_ATLANTIS FISHING DEVELOPMENT CORPORATION,owned_by
+vessel_12375,owner_ATLANTIS FISHING DEVELOPMENT CORPORATION,owned_by
+vessel_10907,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_11923,"owner_CHOKYU SUISAN CO.,LTD",owned_by
+vessel_12278,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_12277,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_12103,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_12019,"owner_PINGTAIRONG OCEAN FISHERY GROUP CO.,LTD.",owned_by
+vessel_10479,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_11921,owner_KABUSHIKI KAISHA USUFUKU HONTEN,owned_by
+vessel_11731,"owner_CNFC Overseas Fisheries Co., Ltd.",owned_by
+vessel_10541,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_12374,"owner_MARUKICHI　CO., LTD",owned_by
+vessel_11749,"owner_ZHOUSHAN RONGYOURONG OCEAN FISHERY CO.,LTD.",owned_by
+vessel_11383,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_12373,owner_Kiribati Blue Pacific Company Limited,owned_by
+vessel_12372,"owner_CABALLERO, DEXTER C.",owned_by
+vessel_11966,owner_TCT MARINE SURVEYOR & CLAIM COMPANY LIMITED,owned_by
+vessel_12195,owner_FRABELLE FISHING CORPORATION,owned_by
+vessel_12204,owner_FFC SUBIC SEAFOODS CORPORATION,owned_by
+vessel_12201,owner_FFC SUBIC SEAFOODS CORPORATION,owned_by
+vessel_12197,owner_FFC SUBIC SEAFOODS CORPORATION,owned_by
+vessel_3644,owner_HUNG CHEN SU BI,owned_by
+vessel_11961,"owner_SHIPMAN CO.,LTD.",owned_by
+vessel_12351,owner_NEON CAVE LIMITED,owned_by
+vessel_9440,"owner_HONGKONG LHF PELAGIC CO., LIMITED",owned_by
+vessel_8871,"owner_NOK CO ., LTD. S.A",owned_by
+vessel_10047,owner_GOLD DYNASTY FISHERY DEVELOPMENTS LIMITED,owned_by
+vessel_3787,"owner_LEE, MING-HSIN",owned_by
+vessel_12371,owner_ATLANTIS FISHING DEVELOPMENT CORPORATION,owned_by
+vessel_4117,"owner_CAPT. MILLIONS III, LLC",owned_by
+vessel_12222,owner_CAPTAIN TAM LLC,owned_by
+vessel_9611,"owner_GABRIELLE FISHING LLC;LE GUENNEC, THIERRY",owned_by
+vessel_11003,"owner_NGUYEN, ERIC",owned_by
+vessel_5718,owner_MISS MYAA LLC,owned_by
+vessel_11843,owner_THUY TIEN FISHING INC.,owned_by
+vessel_11132,owner_KD FISHERY LLC,owned_by
+vessel_4348,owner_SEA FALCON LLC,owned_by
+vessel_12133,owner_STAR NAVIGATION S.A.,owned_by
+vessel_330,owner_KABUSHIKI KAISHA SHOEIMARU,owned_by
+vessel_11727,"owner_WIN RICH FISHERY CO., LTD",owned_by
+vessel_12370,owner_DEXTER C. CABALLERO,owned_by
+vessel_8911,"owner_Handfull Marine Co, Ltd",owned_by
+vessel_11171,"owner_GP SEAFOOD CO., LTD.",owned_by
+vessel_9565,owner_Adriatic Sea Fisheries LTD,owned_by
+vessel_11677,"owner_""GREENSEA N.V."" ""ORANGE FROST SHIPPING COMPANY N.V."" ""PROSPER SUNWAITO S.A.""",owned_by
+vessel_2380,owner_TSP MARINE INDUSTRIES,owned_by
+vessel_11965,"owner_KANAZAWA GYOGYO CO,.LTD",owned_by
+vessel_10844,owner_OYANG CORPORATION,owned_by
+vessel_10393,"owner_SAJO INDUSTRIES Co., Ltd",owned_by
+vessel_11541,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_10532,"owner_SAJO INDUSTRIES Co., Ltd",owned_by
+vessel_10925,"owner_SAJO INDUSTRIES Co., Ltd",owned_by
+vessel_11327,owner_BOYANG LTD.,owned_by
+vessel_11006,owner_BOYANG LTD,owned_by
+vessel_9450,owner_BOYANG LTD.,owned_by
+vessel_9246,owner_BOYANG LTD.,owned_by
+vessel_12369,owner_Camillo R Puglisi,owned_by
+vessel_5129,owner_TOTAL FISHERIES PTY LTD,owned_by
+vessel_5038,owner_MATTHEW J GOODWIN,owned_by
+vessel_5140,owner_WHAN & BOXSELL PTY LTD,owned_by
+vessel_9811,owner_LAVALLE FISHERIES PTY LTD,owned_by
+vessel_5094,owner_SNIPER FISHING PTY LTD,owned_by
+vessel_11079,owner_WALKER SEAOODS AUSTRALIA PTY LTD,owned_by
+vessel_5086,owner_SCORPION CO PTY LTD,owned_by
+vessel_5084,owner_WALKER SEAOODS AUSTRALIA PTY LTD,owned_by
+vessel_5083,owner_HAPUKU FISHERIES PTY LIMITED,owned_by
+vessel_5081,owner_PAUL ZOLEZZI,owned_by
+vessel_4451,owner_WALKER SEAFOODS AUSTRALIA PTY LTD,owned_by
+vessel_5102,owner_VINCE PAVIA,owned_by
+vessel_11095,owner_STEHR GROUP PTY LTD,owned_by
+vessel_11753,owner_ALBATROSS FISHERIES PTY LTD,owned_by
+vessel_4444,owner_LAVALLE FISHERIES PTY LTD,owned_by
+vessel_5137,owner_AUSTRALIAN FISHING ENTERPRISES PTY. LTD.,owned_by
+vessel_5136,owner_TUNA FARMERS PTY LTD,owned_by
+vessel_5070,owner_JERRAMIE M HAWKINS,owned_by
+vessel_5103,owner_F.M.F PIRRELLO & FMC FISHERIES PTY LTD,owned_by
+vessel_2248,owner_A and P BARBARIC,owned_by
+vessel_5105,owner_ANGELICA FISHERIES PTY LTD,owned_by
+vessel_11949,owner_AUSTRALIAN OCEAN PRODUCER PTY LTD,owned_by
+vessel_5062,owner_HAPUKU FISHERIES PTY LIMITED,owned_by
+vessel_5115,owner_GRACIE P PTY LTD,owned_by
+vessel_10500,owner_INNES BROS,owned_by
+vessel_5059,owner_DDD LAVALLE FISHERIES PTY LTD,owned_by
+vessel_11092,owner_VYNBAN PTY. LIMITED,owned_by
+vessel_5057,owner_HAPUKU FISHERIES PTY LIMITED,owned_by
+vessel_4457,owner_AUSTRALIAN FISHING ENTERPRISES PTY. LTD.,owned_by
+vessel_5117,owner_CLAUDARAH PTY LTD,owned_by
+vessel_4454,owner_Joe Lagana,owned_by
+vessel_9805,owner_WALKER SEAOODS AUSTRALIA PTY LTD,owned_by
+vessel_5104,owner_RIVOLI FISHING PTY LTD,owned_by
+vessel_969,owner_MAHINA BAY FISHING CO PTY LTD,owned_by
+vessel_1831,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_10539,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_11898,owner_Ascension Fishery Incorporated Company,owned_by
+vessel_9919,"owner_DREAM FAITH, S.A",owned_by
+vessel_10669,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_2096,"owner_DAEHAE FISHERIES CO.,LTD",owned_by
+vessel_12229,"owner_Rongcheng Marine Fishery Co., Ltd.",owned_by
+vessel_12336,owner_AUSTRALIAN TUNA FISHERIES PTY LTD,owned_by
+vessel_2250,owner_SALVATORE G CAMPISI,owned_by
+vessel_12043,owner_Klokan Fishing Pty Ltd,owned_by
+vessel_11090,owner_FINA K PTY LTD,owned_by
+vessel_12242,owner_C R & A LAVALLE PTY LTD,owned_by
+vessel_11738,owner_CHRISTOPHER G HANSEN,owned_by
+vessel_1553,owner_KIMIHIKO EBISUDA,owned_by
+vessel_2304,"owner_OCEAN MITRAMAS, PT.",owned_by
+vessel_927,owner_Nauru Fisheries Development Corporation,owned_by
+vessel_926,owner_Nauru Fisheries Development Corporation,owned_by
+vessel_9882,owner_Chung Se Lee,owned_by
+vessel_11354,"owner_Chuandong 1 Marine Holings Co., Ltd",owned_by
+vessel_12162,"owner_SHANDONG ZHONGLU OCEANIC FISHERIES CO.,LTD",owned_by
+vessel_12163,"owner_SHANDONG ZHONGLU OCEANIC FISHERIES CO.,LTD",owned_by
+vessel_9128,"owner_Zhoushan Enze Marine Fisheries CO.,LTD.",owned_by
+vessel_9126,"owner_Zhoushan Enze Marine Fisheries CO.,LTD.",owned_by
+vessel_4123,owner_POP VENTURES LLC,owned_by
+vessel_4222,owner_POP VENTURES LLC,owned_by
+vessel_4223,owner_POP VENTURES LLC,owned_by
+vessel_4250,owner_POP VENTURES LLC,owned_by
+vessel_9364,"owner_HONOLULU RAINBOWS, INC.",owned_by
+vessel_4202,owner_POP VENTURES LLC,owned_by
+vessel_12368,owner_DOMINIC R. SALAZAR,owned_by
+vessel_12367,owner_DOMINIC R. SALAZAR,owned_by
+vessel_2410,owner_DOMINIC R. SALAZAR,owned_by
+vessel_11476,owner_DOMINIC R. SALAZAR,owned_by
+vessel_12366,owner_DOMINIC R. SALAZAR,owned_by
+vessel_2412,owner_DOMINIC R. SALAZAR,owned_by
+vessel_11340,owner_DOMINIC R. SALAZAR,owned_by
+vessel_10540,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_9595,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_2118,"owner_SNB INTERNATIONAL CO.,LTD",owned_by
+vessel_5431,"owner_KYUNG YANG  FISHERIES CO.,LTD",owned_by
+vessel_11745,owner_Pan Pacific Fishing(RMI) Inc.,owned_by
+vessel_11746,owner_Pan Pacific Fishing(RMI) Inc.,owned_by
+vessel_11747,owner_Pan Pacific Fishing(RMI) Inc.,owned_by
+vessel_9865,owner_Pan Pacific Fishing (RMI) INC.,owned_by
+vessel_12099,"owner_Koo's Fishing Company, Ltd.",owned_by
+vessel_10563,owner_MEXON SHIPPING LIMITED,owned_by
+vessel_4283,"owner_DA WEN FISHERY .,CO LTD",owned_by
+vessel_2134,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_10355,"owner_Weihai Changhe Fishery Co,.Ltd",owned_by
+vessel_9468,"owner_FENG RUN SHIPPING CO.,LTD",owned_by
+vessel_9601,"owner_GLOBAL FISHERY CO., LTD.",owned_by
+vessel_9921,"owner_LIN, YU-CHUN",owned_by
+vessel_3990,"owner_SLONG SOON FISHERY CO.,LTD.",owned_by
+vessel_9408,owner_KAO CHEN TSUNG,owned_by
+vessel_2619,"owner_LIN,CHING-HUI",owned_by
+vessel_3494,"owner_HUANG, CHIN-SHENG",owned_by
+vessel_10112,"owner_NOK CO., LTD. S.A",owned_by
+vessel_929,"owner_KIRIKORE FISHERIES CO.,LTD",owned_by
+vessel_11209,"owner_KIRIKORE FISHERIES CO,LTD",owned_by
+vessel_10139,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_4531,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_10427,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_10425,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_1666,"owner_Kiribati and KT Fisheries Co.,Ltd",owned_by
+vessel_2244,owner_KIRIBATI & SAJO FISHERIES CO. LTD.,owned_by
+vessel_933,owner_KIRIBATI & SAJO FISHERIES CO. LTD.,owned_by
+vessel_2242,owner_KIRIBATI & SAJO FISHERIES CO.LTD.,owned_by
+vessel_3935,"owner_LIN, YA-LUN",owned_by
+vessel_3768,owner_HSU YEN CHIN,owned_by
+vessel_140,"owner_ZHE JIANG OCEAN FAMILY CO., LTD.",owned_by
+vessel_139,"owner_ZHE JIANG OCEAN FAMILY CO., LTD.",owned_by
+vessel_138,"owner_ZHE JIANG OCEAN FAMILY CO., LTD.",owned_by
+vessel_136,"owner_ZHEJIANG OCEAN FAMILY CO.,LTD",owned_by
+vessel_3848,"owner_LII WU, LIH-SHIANG",owned_by
+vessel_3026,"owner_CHEN, XIN-XIONG",owned_by
+vessel_12348,"owner_CNFC OVERSEAS FISHERIES CO.,LTD",owned_by
+vessel_12347,"owner_CNFC OVERSEAS FISHERIES CO.,LTD",owned_by
+vessel_12346,"owner_CNFC OVERSEAS FISHERIES CO.,LTD",owned_by
+vessel_12345,"owner_CNFC OVERSEAS FISHERIES CO.,LTD",owned_by
+vessel_11265,"owner_SEARICH SEAFOOD CO.,LTD.",owned_by
+vessel_1325,"owner_HAMAKOUSUISAN CO., LTD",owned_by
+vessel_10289,owner_KABUSHIKIKAISYA FUKUSHIMAGYOGYO,owned_by
+vessel_5273,"owner_CHOPO FISH, S.L.",owned_by
+vessel_11676,"owner_CASILMAR GESTION, SL",owned_by
+vessel_5280,"owner_ARMADORA CERVERA, SL",owned_by
+vessel_5285,"owner_ATUNERA DULARRA, SL (Company)",owned_by
+vessel_5270,"owner_VIVERDREAMS FISH, S.L.",owned_by
+vessel_12001,"owner_CONGELADOS NORIBERICA, S.A.",owned_by
+vessel_5263,"owner_TAYAPESCA, SL (Company)",owned_by
+vessel_5259,"owner_ALBACORA, S.A.",owned_by
+vessel_5180,"owner_RESAPESCAN, S.L.",owned_by
+vessel_8836,"owner_GUDE ARMADORES, S.L.",owned_by
+vessel_5277,"owner_ANGELSONIA PESCA, S.L.",owned_by
+vessel_5258,"owner_FICP ARMADORES DE PESCA,S.L.",owned_by
+vessel_5275,owner_CADILLAPESCA SL,owned_by
+vessel_5274,"owner_ATUNERA DULARRA, SL (Company)",owned_by
+vessel_5269,"owner_ALBACORA, S.A. (Company)",owned_by
+vessel_3872,"owner_TSAI, I-CHIN",owned_by
+vessel_196,"owner_KOYO SUISAN CO.,LTD",owned_by
+vessel_1324,"owner_HAMAKO SUISAN  CO,.LTD",owned_by
+vessel_9389,owner_Millefiori Llimited,owned_by
+vessel_9698,owner_TAIYO MICRONESIA CORPORATION,owned_by
+vessel_8968,"owner_LIANCHENG OVERSEAS FISHERY (FSM) CO., LTD.",owned_by
+vessel_8967,"owner_LIANCHENG OVERSEAS FISHERY (FSM) CO., LTD.",owned_by
+vessel_8655,"owner_Liancheng Overseas Fishery (FSM) Co., ltd",owned_by
+vessel_9608,owner_Liancheng Overseas Fishery(FSM) Co. Ltd,owned_by
+vessel_10115,owner_Liancheng Overseas Fishery (FSM) Co. Ltd.,owned_by
+vessel_9607,"owner_Liancheng Overseas Fishery (FSM) Co., Ltd",owned_by
+vessel_10105,owner_Liancheng Overseas Fishery(FSM)Co. Ltd,owned_by
+vessel_10049,owner_Liancheng Overseas Fishery(FSM) Co. ltd,owned_by
+vessel_8653,"owner_LIANCHENG OVERSEAS FISHERY (FSM) CO.,LTD",owned_by
+vessel_11539,owner_Pohnpei Shipping Company Inc,owned_by
+vessel_11501,owner_KASAR FISHING CORPORATION,owned_by
+vessel_9863,owner_KASAR FISHING CORPORATION,owned_by
+vessel_9831,owner_POHNPEI SHIPPING COMPANY INC,owned_by
+vessel_10697,owner_CityPro Management Limited,owned_by
+vessel_968,owner_Yap Investment Trust,owned_by
+vessel_1671,owner_Caroline Fisheries Corporation,owned_by
+vessel_4439,"owner_CAROLINE FISHERIES CORP., INC",owned_by
+vessel_4480,owner_Caroline Fisheries Corp. Inc,owned_by
+vessel_4490,owner_CAROLINE FISHERIES CORPORATION,owned_by
+vessel_12206,owner_DAYANG GLOBAL SEAFOOD INC.,owned_by
+vessel_12179,owner_LYK HOLDING LIMITED,owned_by
+vessel_11154,owner_Great Ocean Seafood FSM LTD.,owned_by
+vessel_11153,owner_Kosrae Best Fishery LTD.,owned_by
+vessel_12040,owner_Pacific Journey Development Ltd.,owned_by
+vessel_11976,owner_LS FSM Fishery LTD.,owned_by
+vessel_11266,owner_Ascension Fishery Incorporated Company,owned_by
+vessel_12072,owner_ZHONG YU INTERNATIONAL ENERGY COMPANY LIMITED,owned_by
+vessel_12364,owner_SHINYOMARU INC.,owned_by
+vessel_12363,owner_EUTHYNNUS VENTURE CORPORATION,owned_by
+vessel_1887,owner_BLUECATCH CORPORATION,owned_by
+vessel_12362,owner_EUTHYNNUS VENTURE CORPORATION,owned_by
+vessel_4532,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_12275,owner_KABUSHIKIKAISYA FUKUSHIMAGYOGYO,owned_by
+vessel_11730,"owner_WIN FOREVER FISHERY CO., LTD",owned_by
+vessel_12184,"owner_WIN POWER FISHERY CO., LTD",owned_by
+vessel_2115,"owner_SNB INTERNATIONAL CO.,LTD",owned_by
+vessel_9497,"owner_JI SUNG SHIPPING CO., LTD.",owned_by
+vessel_916,"owner_AGNES FISHERIES CO.,LTD",owned_by
+vessel_10642,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_12361,owner_DEXTER C. CABALLERO,owned_by
+vessel_12360,owner_DEXTER C. CABALLERO,owned_by
+vessel_12359,owner_DEXTER C. CABALLERO,owned_by
+vessel_12358,owner_DEXTER C. CABALLERO,owned_by
+vessel_10317,owner_JM FISHERIES LLC,owned_by
+vessel_5710,owner_LADY ANH THU LLC,owned_by
+vessel_4610,owner_FRIESLAND FISHING COMPANY LLC,owned_by
+vessel_4116,owner_RS FISHERY LLC,owned_by
+vessel_10961,"owner_JHANG, REN SING",owned_by
+vessel_3799,"owner_JHANG, WAN-SHENG",owned_by
+vessel_4515,"owner_TSENG TSAI, SU-YUEH",owned_by
+vessel_10529,"owner_CHEN, MING-CHE",owned_by
+vessel_9780,"owner_CHI, GUO-MING",owned_by
+vessel_9488,owner_SEA ROAD LINE INC.,owned_by
+vessel_5142,"owner_Koo's Fishing Company, Ltd.",owned_by
+vessel_5145,"owner_Koo's Fishing Company, Ltd.",owned_by
+vessel_5144,owner_Marshall Islands Fishing Company,owned_by
+vessel_5393,"owner_HSU, YEN-CHIN",owned_by
+vessel_2093,"owner_SEA SKY MULSAN CO., LTD.",owned_by
+vessel_4472,"owner_NEW POWER SHIP, S.A",owned_by
+vessel_909,"owner_DONGWON FISHERIES  Co., Ltd",owned_by
+vessel_1667,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_8706,"owner_AB ""LIMARKO LAIVININKYSTĖS KOMPANIJA""",owned_by
+vessel_2130,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_10531,owner_TRINITY HOME INDUSTRIAL DEV`T. CORPORATION (THIDCOR),owned_by
+vessel_11249,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION (THIDCOR),owned_by
+vessel_3705,owner_SAN SHENG OCEAN LTD.,owned_by
+vessel_5380,"owner_HUNG, CHUN-LUNG",owned_by
+vessel_9427,owner_F.K. OVERSEAS CORP.,owned_by
+vessel_9040,owner_F.K. OVERSEAS CORP.,owned_by
+vessel_11495,owner_THUNNIDAE VENTURE CORPORATION,owned_by
+vessel_10298,"owner_SILLA Co., Ltd",owned_by
+vessel_11846,"owner_QIHANG INTERNATIONAL SHIPPING CO., LIMITED",owned_by
+vessel_12356,owner_TRINITY HOME INDUSTRIAL DEV’T CORP.  (THIDCOR),owned_by
+vessel_11099,owner_KABUSHIKIGAISHA HAMAHEIGYOGYO HD,owned_by
+vessel_12173,owner_KABUSHIKIGAISHA HAMAHEIGYOGYO HD,owned_by
+vessel_8981,owner_KABUSHIKIGAISHA HAMAHEIGYOGYO HD,owned_by
+vessel_8980,owner_KABUSHIKIGAISHA HAMAHEIGYOGYO HD,owned_by
+vessel_8979,owner_KABUSHIKIGAISHA HAMAHEIGYOGYO HD,owned_by
+vessel_4470,owner_MAX STEP SHIPPING LIMITED,owned_by
+vessel_9248,"owner_FENGRUN SHIPPING CO.,LIMITED",owned_by
+vessel_11164,owner_NEW CANOE Corporation Limited,owned_by
+vessel_11267,owner_NEW SPLENDOR CORPORATION LIMITED,owned_by
+vessel_4421,owner_EASTERN MARINE (NAURU) LIMITED,owned_by
+vessel_8953,owner_OCEAN CHALLENGER (NAURU) LIMITED,owned_by
+vessel_8772,owner_OCEAN CONQUEST (NAURU) LIMITED,owned_by
+vessel_8773,owner_OCEAN ENCOUNTER (Nauru) Limited,owned_by
+vessel_8833,owner_OCEAN EXPEDITION (NAURU) LIMITED,owned_by
+vessel_4506,owner_OCEAN GALAXY (NAURU) LIMITED,owned_by
+vessel_8832,owner_OCEAN WARRIOR (NAURU) LIMITED,owned_by
+vessel_4434,owner_ORIENTAL MARINE (NAURU) LIMITED,owned_by
+vessel_12354,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_4422,owner_EASTERN STAR (NAURU) LIMITED,owned_by
+vessel_12353,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_5303,"owner_SOMAR - PRODUTOS DO MAR, LDA",owned_by
+vessel_5295,"owner_Pescarias Jem, LDA",owned_by
+vessel_5300,"owner_SEBASTIÃO & FILHOS, LDA",owned_by
+vessel_11977,"owner_PARALELO - SOCIEDADE DE PESCAS, LDA.",owned_by
+vessel_5294,"owner_PESQUEIRA ILHA BRAVA, LDA.",owned_by
+vessel_5299,"owner_CALAFISH, UNIPESSOAL LIMITADA",owned_by
+vessel_8681,"owner_ANFERSA PESCAS, LDA.",owned_by
+vessel_11788,"owner_Torres & Gago, Sociedade de Pesca, Lda.",owned_by
+vessel_5301,"owner_POMBO, LDA.",owned_by
+vessel_12047,"owner_LA PALOMA PORTUGAL, UNIPESSOAL LDA",owned_by
+vessel_3993,"owner_YIH SING FISHERY CO., LTD.",owned_by
+vessel_10048,"owner_CHEN, JIA-JYUN",owned_by
+vessel_11135,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_2240,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_9038,owner_SC TUAANAPA,owned_by
+vessel_5458,owner_SNC RAVA'AI RAU 4,owned_by
+vessel_5240,owner_SCA MATAI MARU gerant CHING Yann,owned_by
+vessel_5239,owner_SCA SAKAPO,owned_by
+vessel_5237,owner_SC TE AITO RAVA'AI NUI,owned_by
+vessel_5209,owner_SCA MOOREA PECHE,owned_by
+vessel_5208,owner_SCA FARAMOANA,owned_by
+vessel_5207,owner_SCA MOANAFARA,owned_by
+vessel_11313,owner_SCA PUA O TUA,owned_by
+vessel_914,"owner_DONGWON FISHERIES  Co., Ltd",owned_by
+vessel_913,"owner_DONGWON FISHERIES  Co., Ltd",owned_by
+vessel_3983,owner_NGUYEN FISHERY INC,owned_by
+vessel_11205,owner_RLGFI CORPORATION,owned_by
+vessel_11989,owner_RLGFI CORPORATION,owned_by
+vessel_12352,owner_STARCKI VENTURE CORPORATION,owned_by
+vessel_7257,owner_Rell and Renn Fishing Corporation,owned_by
+vessel_7178,owner_RRCS Marine and Industrial Development Corporation,owned_by
+vessel_7170,owner_RELL & RENN FISHING CORPORATION,owned_by
+vessel_10027,owner_Kiribati Fish Limited,owned_by
+vessel_10026,owner_Kiribati Fish Limited,owned_by
+vessel_9910,owner_SHAO JUN HAN,owned_by
+vessel_11239,owner_SKY REEFER S.A.,owned_by
+vessel_1328,"owner_HAMAKO SUISAN  CO,.LTD",owned_by
+vessel_12081,"owner_WOOJIN SHIPPING CO., LTD.",owned_by
+vessel_11220,owner_SUMIYOSHI GYOGYO KABUSHIKI KAISYA,owned_by
+vessel_11958,"owner_CHIEN YUAN MING FISHERY CO.., LTD",owned_by
+vessel_3692,owner_TSAI SHIN FANG,owned_by
+vessel_3663,"owner_SYU, HUI-PING",owned_by
+vessel_3405,"owner_WANG, SHUN-LUNG",owned_by
+vessel_8964,"owner_WANG, WEN-FU",owned_by
+vessel_3870,"owner_TSAI, HUEI-CHUAN",owned_by
+vessel_515,"owner_Oshiro,Tsutomu",owned_by
+vessel_1053,owner_LAKE HARVEST FISHING  CORPORATION,owned_by
+vessel_12350,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_324,"owner_NIKKO MARINE CO.,LTD",owned_by
+vessel_402,"owner_NIKKO SUISAN CO.,LTD",owned_by
+vessel_318,"owner_NIKKO SUISAN,CO,LTD",owned_by
+vessel_890,owner_TOKYO UNIVERSITY OF MARINE SCIENCE AND TECHNOLOGY,owned_by
+vessel_9306,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_11144,owner_WEBO MARINE S.A.,owned_by
+vessel_9936,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_10711,owner_SIONG SOON SHIPPING CORP.,owned_by
+vessel_211,owner_YUGEN KAISHA CHOKYU,owned_by
+vessel_11629,owner_EUTHYNNUS VENTURE CORPORATION,owned_by
+vessel_8795,"owner_HUNG,KUO-CHUNG",owned_by
+vessel_11338,owner_HYOGO KEN,owned_by
+vessel_9472,"owner_NEW POWER SHIP,S.A",owned_by
+vessel_10510,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_5353,"owner_CHEN, CHEN-HUA",owned_by
+vessel_12320,"owner_CNFC OVERSEAS FISHERIES CO.,LTD",owned_by
+vessel_12321,"owner_CNFC OVERSEAS FISHERIES CO.,LTD",owned_by
+vessel_7185,owner_RRCS MARINE & INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_4115,owner_CAPT KEVIN T & V LLC,owned_by
+vessel_9369,owner_TWIN NGUYEN FISHERY LLC,owned_by
+vessel_4340,owner_SAPPHIRE II LLC,owned_by
+vessel_7243,owner_Nathaniel Caballero,owned_by
+vessel_7172,owner_RRCS Marine and Industrial Development Corporation,owned_by
+vessel_11914,owner_BLUECATCH CORPORATION,owned_by
+vessel_12343,owner_STO. NIÑO AQUA FIHING VENTURE CORP.,owned_by
+vessel_12342,owner_STO. NIÑO AQUA FIHING VENTURE CORP.,owned_by
+vessel_12341,owner_STO. NIÑO AQUA FIHING VENTURE CORP.,owned_by
+vessel_1334,owner_KABUSHIKI KAISHA USUFUKU HONTEN AND ONE OTHER,owned_by
+vessel_11008,owner_KABUSHIKI KAISHA USUFUKU HONTEN,owned_by
+vessel_9935,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_9906,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_11553,owner_TRINITY HOME INDUSTRIAL DEV’T CORP. (THIDCOR),owned_by
+vessel_12339,owner_Sein Fishing Investment Pte Ltd,owned_by
+vessel_11438,"owner_Shanghai Deep Sea Fisheries Ltd., Co.",owned_by
+vessel_11136,"owner_AOXIAN(SHENZHEN)FISHERY CO.,LTD",owned_by
+vessel_5417,"owner_LIN HUANG, SU-QIN",owned_by
+vessel_2890,"owner_LU, CHUN-HSIEN",owned_by
+vessel_11800,"owner_KUO, HSIANG-HSIUNG",owned_by
+vessel_9782,owner_LING TSAIR FA,owned_by
+vessel_11983,"owner_CHIEN, CHIN-TSE",owned_by
+vessel_12338,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_12337,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_5405,"owner_WU, YU-LI",owned_by
+vessel_9979,"owner_WU, YU-LI",owned_by
+vessel_5433,"owner_NAMGUNG TUNA CO.,LTD",owned_by
+vessel_2108,"owner_NAMGUNG TUNA CO.,LTD",owned_by
+vessel_4274,owner_JK PACIFIC FISHERY LTD,owned_by
+vessel_12067,owner_FAIR WINNER INTERNATIONAL GROUP LIMITED,owned_by
+vessel_11200,owner_TRINITY HOME INDUSTRIAL DEV’T CORP. (THIDCOR),owned_by
+vessel_12192,owner_MIYAZAKI PREFECTURE,owned_by
+vessel_11721,"owner_NATIONAL RESEARCH AND DEVELOPMENT AGENCY, JAPAN FISHERIES RESEARCH AND EDUCATION AGENCY",owned_by
+vessel_12335,owner_MAEGATA MAGURO YUGEN KAISYA,owned_by
+vessel_12139,owner_QUEEN VICTORIA LLC,owned_by
+vessel_4360,owner_B-52 INC,owned_by
+vessel_2524,"owner_CHERN, ING-WOEI",owned_by
+vessel_4030,"owner_FONG KUO FISHERY CO., LTD.",owned_by
+vessel_10828,"owner_FONG KUO FISHERY CO., LTD.",owned_by
+vessel_10757,"owner_FONG KUO FISHERY CO., LTD.",owned_by
+vessel_10767,"owner_FONG KUO FISHERY CO., LTD.",owned_by
+vessel_2935,"owner_LIN,CHIA-JUI",owned_by
+vessel_3564,"owner_LIN, KAU-HSIN",owned_by
+vessel_5401,"owner_CHEN, HUI-CHEN",owned_by
+vessel_8820,"owner_TSAI,HUNG-MING",owned_by
+vessel_11945,"owner_TSAI, TSUNG-I",owned_by
+vessel_3565,"owner_LEE LIN, SHU-HUI",owned_by
+vessel_10486,owner_EUTHYNNUS VENTURE CORPORATION,owned_by
+vessel_11551,owner_THUNNIDAE VENTURE CORPORATION,owned_by
+vessel_1153,owner_STARCKI VENTURE CORPORATION,owned_by
+vessel_4026,owner_TRANS PACIFIC JOURNEY FISHING CORP,owned_by
+vessel_4507,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_5143,"owner_Koo's Fishing Company, Ltd.",owned_by
+vessel_9299,owner_OCEAN CENTURY PTE. LTD,owned_by
+vessel_2198,"owner_SILLA Co., Ltd",owned_by
+vessel_9798,owner_KYOWASUISAN KABUSHKI KAISHA,owned_by
+vessel_12334,owner_TOKAIGYOGYO KABUSHIKI KAISHA,owned_by
+vessel_10896,"owner_ZHEJIANG NEW TIMES INTERNATIONAL FISHERIES CO., LTD.",owned_by
+vessel_10895,"owner_ZHEJIANG NEW TIMES INTERNATIONAL FISHERIES CO., LTD.",owned_by
+vessel_1342,owner_KAIGATA SUISAN KABUSHIKI KAISHA,owned_by
+vessel_10637,"owner_Shandong Shawodao Ocean Fishery Co.,Ltd",owned_by
+vessel_10460,owner_THUNNIDAE VENTURE CORPORATION,owned_by
+vessel_132,"owner_Zhejiang New Times Internatioinal Fisheries Co.,Ltd",owned_by
+vessel_2872,"owner_HSU, YUAN-CHIEH",owned_by
+vessel_9531,"owner_HUNG, CHAO-TIEN",owned_by
+vessel_3765,"owner_CHUN WEI FISHERY CO., LTD.",owned_by
+vessel_3766,"owner_CHUN YO FISHERY CO., LTD.",owned_by
+vessel_11285,owner_MAX STEP SHIPPING LIMITED,owned_by
+vessel_7183,owner_RRCS Marine and Indistrial Development Corporation,owned_by
+vessel_11970,owner_TAIYU GYOGYO KABUSHIKI KAISYA,owned_by
+vessel_1988,owner_KAISEISUISAN KABUSHIKIKAISHA,owned_by
+vessel_11937,owner_TOYOGYOGYO KABUSHIKIKAISHA,owned_by
+vessel_8975,owner_HOKUBU MAKIAMI GYOGYO,owned_by
+vessel_10301,owner_KABUSHIKIKAISYA  SUYASHOUTEN,owned_by
+vessel_10564,owner_RLGFI CORPORATION,owned_by
+vessel_2097,"owner_DAEHAE FISHERIES CO.,LTD",owned_by
+vessel_12333,"owner_BINTANG HARAPAN JAYA, PT.",owned_by
+vessel_12332,"owner_BINTANG HARAPAN JAYA, PT.",owned_by
+vessel_11799,owner_KINGFISHERS SHIPPING CO.LTD,owned_by
+vessel_9098,"owner_BUDI SENTOSA ABADI, PT.",owned_by
+vessel_12331,"owner_BUDI SENTOSA ABADI, PT.",owned_by
+vessel_1670,owner_TUDO Fisheries Co. Pty. Ltd.,owned_by
+vessel_11782,"owner_Guangdong Guangyuan Fishery Group Co., Ltd.",owned_by
+vessel_12161,"owner_LIN, HUNG-CHUN",owned_by
+vessel_7171,owner_Rell and Renn Fishing Corporation,owned_by
+vessel_11936,"owner_SOUTHERN TUNA SEA FISHING VENTURES, INC",owned_by
+vessel_10530,owner_Trinity Homes Industrial Development Corporation (THIDCOR),owned_by
+vessel_10780,owner_Trinity Home Industrial Development Corporation (THIDCOR),owned_by
+vessel_10511,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION (THIDCOR),owned_by
+vessel_2131,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_12007,"owner_JIH YU FISHERY CO.,LTD",owned_by
+vessel_10383,"owner_TAISEIMARU KAIUN KAISHA, LTD.",owned_by
+vessel_10935,"owner_CHL FISHING INDUSTRY, INC.",owned_by
+vessel_10900,owner_RLGFI CORPORATION,owned_by
+vessel_11552,owner_THUNNIDAE VENTURE CORPORATION,owned_by
+vessel_4010,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_9552,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_12330,owner_EUTHYNNUS VENTURE CORPORATION,owned_by
+vessel_11357,owner_EUTHYNNUS VENTURE CORPORATION,owned_by
+vessel_11527,owner_STO.  NINO AQUA FISHING VENTURE CORP.,owned_by
+vessel_11855,owner_STO.  NINO AQUA FISHING VENTURE CORPORATION,owned_by
+vessel_10402,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_4029,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_9567,owner_NATIONAL FISHERIES UNIVERSITY,owned_by
+vessel_1868,owner_YUUEIMARU INC.,owned_by
+vessel_1545,owner_MYOJIN SUISAN KABUSHIKI KAISHA,owned_by
+vessel_3012,"owner_CHEN, TIEN-TSAI",owned_by
+vessel_3018,"owner_HORNG, FWU-JONG",owned_by
+vessel_11918,owner_EUTHYNNUS VENTURE CORPORATION,owned_by
+vessel_11474,owner_STARCKI VENTURE CORPORATION,owned_by
+vessel_534,"owner_Suematsu,Hidenobu",owned_by
+vessel_11299,"owner_TAISEIMARU KAIUN KAISHA,LTD.",owned_by
+vessel_5464,owner_SARL MOKAI,owned_by
+vessel_11869,owner_HABITAT INTERNATIONAL CORP.,owned_by
+vessel_10813,owner_FRABELLE FISHING CORPORATION,owned_by
+vessel_5596,owner_SCA TUANUI,owned_by
+vessel_5478,owner_SCA HOTU RAVA`AI,owned_by
+vessel_5249,owner_SCA TOA TAUTAI,owned_by
+vessel_5573,owner_SCA TUANUI,owned_by
+vessel_5601,owner_SC TAHITI NUI PECHE,owned_by
+vessel_5469,owner_SC TE AITO RAVA'AI NUI,owned_by
+vessel_5246,owner_SARL FETU ARMEMENT,owned_by
+vessel_5572,owner_SCA TUANUI,owned_by
+vessel_5465,owner_SCA MS PACIFIC LONGLINER 3,owned_by
+vessel_5594,owner_SCA MOOREA PECHE MR3-MR6,owned_by
+vessel_2262,owner_SCA VAIANAHOA,owned_by
+vessel_5454,owner_SARL FETU ARMEMENT,owned_by
+vessel_5599,owner_SCA TUANUI,owned_by
+vessel_11911,owner_SCA FISHING STAR,owned_by
+vessel_5200,owner_SCA TOA RAVA'AI,owned_by
+vessel_11157,owner_STO.NIÑO AQUA FISHING VENTURE CORP.,owned_by
+vessel_12215,owner_STO.NIÑO AQUA FISHING VENTURE CORP,owned_by
+vessel_11899,owner_STO.  NINO AQUA VENTURE CORPORATION,owned_by
+vessel_11624,owner_STO.  NINO AQUA FISHING VENTURE CORPORATION,owned_by
+vessel_10795,owner_STO. NINO AQUA FISHING VENTURE CORP.,owned_by
+vessel_9386,owner_Q.T.I.,owned_by
+vessel_11151,owner_KD FISHERY LLC,owned_by
+vessel_9224,"owner_NEW POWER SHIP, S.A",owned_by
+vessel_10122,"owner_LEE, MING-TSUNG",owned_by
+vessel_2367,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_11167,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_10946,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_10948,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_11472,owner_STO. NIÑO AQUA FISHING VENTURE CORPORATION,owned_by
+vessel_10995,owner_STO. NIÑO AQUA FISHING VENTURE CORPORATION,owned_by
+vessel_12329,"owner_SENTRAL BENOA UTAMA, PT.",owned_by
+vessel_4240,owner_LAURA ANN FISHERIES LLC,owned_by
+vessel_4323,owner_CHARCA FISH XIII LLC,owned_by
+vessel_10424,"owner_FONG KUO FISHERY CO.,LTD",owned_by
+vessel_4525,"owner_GLORY FISHERY CO.,LTD.",owned_by
+vessel_12145,"owner_ZHEJIANG HENGHONG SHIPPING CO., LTD",owned_by
+vessel_12272,owner_STARCKI VENTURE CORPORATION,owned_by
+vessel_1445,"owner_IKEDA SUISAN CO,LTD",owned_by
+vessel_882,owner_EHIME KEN,owned_by
+vessel_11842,owner_KAGAWA PREFECTURAL GVERNMENT TADOTSU HIGH SCHOOL,owned_by
+vessel_10579,owner_KESENNUMA KANAE GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_12328,"owner_Rongcheng Marine Fishery Co., Ltd.",owned_by
+vessel_11382,"owner_SEIN SHIPPING CO., LTD.",owned_by
+vessel_9596,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_11733,"owner_CNFC Overseas Fisheries Co., Ltd.",owned_by
+vessel_12327,"owner_SENTRAL BENOA UTAMA, PT.",owned_by
+vessel_12326,"owner_SENTRAL BENOA UTAMA, PT.",owned_by
+vessel_12325,"owner_SENTRAL BENOA UTAMA, PT.",owned_by
+vessel_12324,"owner_SENTRAL BENOA UTAMA, PT.",owned_by
+vessel_12323,"owner_SENTRAL BENOA UTAMA, PT.",owned_by
+vessel_12207,owner_MARITIME VELVET S.A.,owned_by
+vessel_12322,"owner_SENTRAL BENOA UTAMA, PT.",owned_by
+vessel_3630,"owner_SHEU, JHE-MING",owned_by
+vessel_3704,owner_LIANG JI PING,owned_by
+vessel_3780,"owner_LIANG, TZU-CHAN",owned_by
+vessel_5400,owner_LIANG JI PING,owned_by
+vessel_10874,"owner_DONG,TING-YING",owned_by
+vessel_11207,owner_SEALAND TRADING SERVICE CORPORATION,owned_by
+vessel_9511,owner_TAIXIN FISHERY SINGAPORE PTE. LTD.,owned_by
+vessel_12318,owner_Fahrur Rozi,owned_by
+vessel_12317,owner_ROMI,owned_by
+vessel_12316,"owner_MARITIM JAYA MANDIRI, PT.",owned_by
+vessel_12315,"owner_MARITIM JAYA MANDIRI, PT.",owned_by
+vessel_12314,owner_ROMI,owned_by
+vessel_12313,"owner_Bintang Bahagia Bersinar, PT.",owned_by
+vessel_12312,"owner_BINTANG BAHAGIA BERSINAR , PT.",owned_by
+vessel_12311,owner_Budi Suyanto,owned_by
+vessel_11845,owner_STO.  NINO AQUA FISHING VENTURE CORPORATION,owned_by
+vessel_10934,owner_STO. NIÑO AQUA FISHING VENTURE CORP.,owned_by
+vessel_4106,owner_BLUE SKY FISHING PRODUCER INC,owned_by
+vessel_4200,owner_PAX FISHERY LLC,owned_by
+vessel_3975,owner_NEW HOLLY FISHERY LLC,owned_by
+vessel_4151,owner_T&J FISHERY LLC,owned_by
+vessel_4234,owner_LADY ANN MARGARET INC,owned_by
+vessel_5734,owner_B&J FISHERY LLC,owned_by
+vessel_11244,"owner_LADY MOCHA II, INC.",owned_by
+vessel_9345,owner_LIBRA DELTA LLC,owned_by
+vessel_11470,owner_DANG-HA BROTHER LLC,owned_by
+vessel_4217,owner_RACHEL LLC,owned_by
+vessel_4218,owner_PARADISE SPIRIT LLC,owned_by
+vessel_9310,owner_OKAY INC,owned_by
+vessel_4173,"owner_SKI PATROL FISHERIES, LLC",owned_by
+vessel_5730,"owner_OKAY, LLC",owned_by
+vessel_2374,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_10915,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_11199,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_1900,owner_BLUECATCH CORPORATION,owned_by
+vessel_11232,owner_SEABORN HONOR S.A.,owned_by
+vessel_2209,owner_OYANG CORPORATION,owned_by
+vessel_12310,"owner_MITRA JAYA BALI, PT.",owned_by
+vessel_9211,owner_HONG KONG EVER OCEAN SHIPPING COMPANY LIMITED,owned_by
+vessel_12309,"owner_MITRA JAYA BALI, PT.",owned_by
+vessel_2322,"owner_HORNG, TIAN-DING",owned_by
+vessel_3915,"owner_LIAN PANG FISHERY CO., LTD.",owned_by
+vessel_11644,owner_WANG TAT CORPORATION PTE LTD,owned_by
+vessel_12308,"owner_Awindo International, PT.",owned_by
+vessel_9760,owner_YUGEN KAISHA KONDO GYOGYOBU,owned_by
+vessel_3880,"owner_HONG YEN FISHERY CO., LTD.",owned_by
+vessel_9238,owner_SEALAND TRADING SERVICES CORPORATION,owned_by
+vessel_545,owner_TAIYO A&F KABUSHIKIGAISHA,owned_by
+vessel_542,owner_ISHINOMAKI FISHERY CO.LTD,owned_by
+vessel_543,owner_TAIYO A&F KABUSHIKIGAISHA,owned_by
+vessel_11839,owner_NITTOU SUISAN KABUSHIKIKAISHA,owned_by
+vessel_10574,owner_NITTOU SUISAN KABUSHIKIKAISHA,owned_by
+vessel_7168,owner_Rell and Renn Fishing Corporation,owned_by
+vessel_11400,owner_RELL & RENN FISHING CORPORATION,owned_by
+vessel_11663,"owner_CHL Fishing Industry, Inc.",owned_by
+vessel_11723,"owner_CHL Fishing Industry, Inc.",owned_by
+vessel_9416,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_3397,"owner_CAI, CHANG-SYONG",owned_by
+vessel_8711,"owner_SHANDONG ZHONGLU FISHERY SHIPPING CO., LTD",owned_by
+vessel_11158,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_7188,owner_RRCS MARINE AND INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_11917,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11879,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_12283,owner_NH AGRO INDUSTRIAL INC.,owned_by
+vessel_2368,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_2366,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_11720,"owner_ZHE JIANG OCEAN FAMILY CO., LTD.",owned_by
+vessel_12306,"owner_Lautan Jaya Mandiri, PT.",owned_by
+vessel_12305,"owner_Bintang Bahagia Bersinar, PT.",owned_by
+vessel_12304,owner_Martin,owned_by
+vessel_9430,owner_KOO'S SHIPPING COMPANY S.A.,owned_by
+vessel_904,"owner_DONGWON FISHERIES  Co., Ltd",owned_by
+vessel_12172,owner_SEIYO SUISAN KABUSHIKI GAISYA,owned_by
+vessel_11593,owner_SEIYO SUISAN KABUSHIKI GAISHA,owned_by
+vessel_9767,owner_SEIYO SUISAN KABUSHIKI GAISHA,owned_by
+vessel_11085,owner_SEIYO SUISAN KABUSHIKI GAISHA,owned_by
+vessel_11814,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11526,"owner_ISIDRO B. UY, JR.",owned_by
+vessel_11867,owner_ISIDRO B. UY JR.,owned_by
+vessel_11986,owner_STO. NINO AQUA FISHING VENTURES CORPORATION,owned_by
+vessel_11858,owner_STO.  NINO AQUA FISHING VENTURES CORPORATION,owned_by
+vessel_11857,owner_STO.  NINO AQUA FISHING VENTURES CORPORATION,owned_by
+vessel_11717,owner_STO.  NINO AQUA FISHING VENTURE CORPORATION,owned_by
+vessel_11507,"owner_RUGELA FISHING INDUSTRIES, INC.",owned_by
+vessel_11625,"owner_RUGELA FISHING INDUSTRIES, INC.",owned_by
+vessel_1654,owner_BLUECATCH CORPORATION,owned_by
+vessel_11915,owner_BLUECATCH CORPORATION,owned_by
+vessel_10656,"owner_RUGELA FISHING INDUSTRIES, INCORPORATED",owned_by
+vessel_12287,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11718,owner_STARCKI VENTURE CORPORATION,owned_by
+vessel_11744,owner_THUNNIDAE VENTURE CORPORATION,owned_by
+vessel_9541,"owner_KYOKUYO SUISAN CO., LTD.",owned_by
+vessel_1913,"owner_KYOKUYO SUISAN CO.,LTD.",owned_by
+vessel_11481,owner_EUTHYNNUS VENTURE CORPORATION,owned_by
+vessel_11331,owner_THUNNIDAE VENTURE CORPORATION,owned_by
+vessel_11437,owner_EUTHYNNUS VENTURE CORPORATION,owned_by
+vessel_11783,owner_EUTHYNNUS VENTURE CORPORATION,owned_by
+vessel_11215,owner_EUTHYNNUS VENTURE CORPORATION,owned_by
+vessel_11630,owner_EUTHYNNUS VENTURE CORPORATION,owned_by
+vessel_11142,owner_EUTHYNNUS VENTURE CORPORATION,owned_by
+vessel_12143,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_10787,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_12144,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_10527,"owner_JIH YU FISHERY CO., LTD",owned_by
+vessel_11168,owner_SHUO LONG FISHERY CO. LTD.,owned_by
+vessel_4607,"owner_CHEN LIN, LI-LING",owned_by
+vessel_12303,owner_Tony Thomas,owned_by
+vessel_10614,"owner_RUGELA FISHING INDUSTRIES, INCORPORATED",owned_by
+vessel_10517,"owner_RUGELA FISHING INDUSTRIES, INC.",owned_by
+vessel_10641,"owner_RUGELA FISHING INDUSTRIES, INCORPORATED",owned_by
+vessel_10516,"owner_RUGELA FISHING INDUSTRIES, INC.",owned_by
+vessel_10515,"owner_RUGELA FISHING INDUSTRIES, INC.",owned_by
+vessel_11140,"owner_HUA FU INTERNATIONAL GROUP ,S.A",owned_by
+vessel_547,owner_KABUSHIKIKAISYA FUKUSHIMAGYOGYO,owned_by
+vessel_11841,owner_KABUSHIKIKAISYA FUKUSHIMAGYOGYO,owned_by
+vessel_553,owner_KABUSHIKI KAISYA FUKUSHIMA GYOGYO,owned_by
+vessel_11275,"owner_RUGELA FISHING INDUSTRIES, INCORPORATED",owned_by
+vessel_11274,"owner_RUGELA FISHING INDUSTRIES, INCORPORATED",owned_by
+vessel_11273,"owner_RUGELA FISHING INDUSTRIES, INCORPORATED",owned_by
+vessel_11621,"owner_RUGELA FISHING INDUSTRIES, INC.",owned_by
+vessel_10570,"owner_RUGELA FISHING INDUSTRIES, INCORPORATED",owned_by
+vessel_10562,"owner_RUGELA FISHING INDUSTRIES, INCORPORATED",owned_by
+vessel_10569,"owner_RUGELA FISHING INDUSTRIES, INCORPORATED",owned_by
+vessel_10560,"owner_RUGELA FISHING INDUSTRIES, INCORPORATED",owned_by
+vessel_10520,"owner_RUGELA FISHING INDUSTRIES, INC.",owned_by
+vessel_10519,"owner_RUGELA FISHING INDUSTRIES, INC.",owned_by
+vessel_10518,"owner_RUGELA FISHING INDUSTRIES, INC.",owned_by
+vessel_10514,"owner_RUGELA FISHING INDUSTRIES, INC.",owned_by
+vessel_570,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11880,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_12218,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_5948,owner_KESENNUMA KANAE GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_11410,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_10783,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_10877,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11160,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11451,"owner_Shanghai Deepsea Fisheries Co., Ltd",owned_by
+vessel_11342,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11450,"owner_Shanghai Deepsea Fisheries Co., Ltd",owned_by
+vessel_12085,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11618,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11808,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11206,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_10788,owner_Marchael Sea Ventures Corporation,owned_by
+vessel_11406,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11809,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_10789,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_444,"owner_UMAZUME SHIPYARD CO.,LTD",owned_by
+vessel_2223,"owner_HANSUNG ENTERPRISE CO.,LTD",owned_by
+vessel_2222,"owner_HANSUNG ENTERPRISE CO.,LTD",owned_by
+vessel_2137,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_11131,owner_KD FISHERY LLC,owned_by
+vessel_8977,owner_YUGENGAISYA NAGASIMA,owned_by
+vessel_10573,owner_YUGENGAISYA NAGASIMA,owned_by
+vessel_1976,owner_YUGENGAISYA NAGASIMA,owned_by
+vessel_1972,owner_YUGENGAISYA NAGASIMA,owned_by
+vessel_1971,owner_YUGENGAISYA KANEDAI,owned_by
+vessel_1970,owner_YUGENGAISYA KANEDAI,owned_by
+vessel_10376,owner_YUGENGAISHA KANEDAI,owned_by
+vessel_1968,owner_YUGENGAISYA KANEDAI,owned_by
+vessel_1967,owner_YUGENGAISYA KANEDAI,owned_by
+vessel_11673,owner_YUGENGAISHA KANEDAI,owned_by
+vessel_10785,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_12219,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11815,owner_STARCKI VENTURE CORPORATION,owned_by
+vessel_12140,owner_THUNNIDAE VENTURE CORPORATION,owned_by
+vessel_11743,owner_STARCKI VENTURE CORPORATION,owned_by
+vessel_12093,owner_YOUTA SHIPPING COMPANY S.A.,owned_by
+vessel_12118,owner_SEITA SHIPPING COMPANY S.A.,owned_by
+vessel_9699,owner_WELL SUCCESS MARINE S.A,owned_by
+vessel_3824,"owner_TSAI, JUI CHUNG",owned_by
+vessel_9018,"owner_YUAN SHENG FISHERY CO., LTD",owned_by
+vessel_10452,"owner_YU, CHUN-WEN",owned_by
+vessel_10310,"owner_Rongcheng Ocean Fishery Co.,Ltd",owned_by
+vessel_10667,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_928,"owner_SILLA Co., Ltd",owned_by
+vessel_12300,"owner_MITRA JAYA BALI, PT.",owned_by
+vessel_5319,owner_Ben Turner Family Trust,owned_by
+vessel_917,"owner_AGNES FISHERIES CO.,LTD",owned_by
+vessel_4482,"owner_HORNG, BOR-WEN",owned_by
+vessel_9683,"owner_TSENG, CHIN-HUA",owned_by
+vessel_3989,"owner_CHIEN CHANG OCEAN ENTERPRISE CO.,LTD.",owned_by
+vessel_10308,"owner_Rongcheng Ocean Fishery Co.,Ltd",owned_by
+vessel_4505,"owner_CHARCA FISH XII, LLC",owned_by
+vessel_5713,"owner_CHARCA FISH XI, LLC",owned_by
+vessel_11098,owner_DANG FISHERY INC,owned_by
+vessel_5435,"owner_SILLA Co., Ltd",owned_by
+vessel_12298,owner_Tony Thomas,owned_by
+vessel_10755,owner_Liu WenBin,owned_by
+vessel_8891,"owner_CHENG,YU-JUI",owned_by
+vessel_1156,owner_STARCKI VENTURES CORPORATION,owned_by
+vessel_1155,owner_STARCKI VENTURES CORPORATION,owned_by
+vessel_12297,"owner_Pahala Samudera Fishery Industries, PT.",owned_by
+vessel_9884,owner_FRABELLE FISHING CORPORATION,owned_by
+vessel_3013,"owner_LIN, HSIN-HSIEN",owned_by
+vessel_8897,"owner_LI, NENG-TUAN",owned_by
+vessel_4425,"owner_FAIR WELL FISHERY CO., LTD",owned_by
+vessel_3873,"owner_YI  SIAN FISHERY CO., LTD.",owned_by
+vessel_8906,"owner_GUAYATUNA, S.A.",owned_by
+vessel_8905,"owner_GUAYATUNA, S.A.",owned_by
+vessel_10881,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11878,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_12257,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_12217,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_12281,"owner_Shandong Shawodao Ocean Fishery Co.,Ltd",owned_by
+vessel_2423,"owner_BOADA FISHERY CO., LTD.",owned_by
+vessel_11240,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_1311,"owner_KAI SHIN FISHERY CO., LTD",owned_by
+vessel_9713,owner_TILLAGE SEA PTE. LTD.,owned_by
+vessel_12220,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_10879,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_3890,owner_FFC SUBIC SEAFOODS CORPORATION,owned_by
+vessel_10786,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_12258,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11916,owner_BLUECATCH CORPORATION,owned_by
+vessel_11648,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_11411,owner_MARCHAEL SEA VENTURES CORPORATION,owned_by
+vessel_151,"owner_ZHEJIANG OCEAN FAMILY CO.,LTD",owned_by
+vessel_147,"owner_ZHEJIANG OCEAN FAMILY CO.,LTD",owned_by
+vessel_11116,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_12296,"owner_Awindo International, PT.",owned_by
+vessel_11414,"owner_SEIN SHIPPING CO.,LTD.",owned_by
+vessel_11007,"owner_SEIN SHIPPING CO.,LTD",owned_by
+vessel_12131,"owner_RongCheng Marine Fishery Co., Ltd.",owned_by
+vessel_10750,owner_Ma ChengZe,owned_by
+vessel_10746,owner_Chen Yi,owned_by
+vessel_10749,owner_Yu YeXing,owned_by
+vessel_10736,owner_Lin xiaoChun,owned_by
+vessel_10741,owner_Zhang RuNan,owned_by
+vessel_10754,owner_Cai JianFeng,owned_by
+vessel_10740,owner_Yu ManDing,owned_by
+vessel_10753,owner_Chen ChaoJun,owned_by
+vessel_10751,owner_Shen LinJie,owned_by
+vessel_9451,owner_JONATHAN SHIPPING INC.,owned_by
+vessel_296,owner_SATO GYOGYO KABUSHIKIGAISHA,owned_by
+vessel_11924,owner_STARCKI VENTURE CORPORATION,owned_by
+vessel_9423,"owner_JI SUNG SHIPPING CO., LTD.",owned_by
+vessel_8869,"owner_JI SUNG SHIPPING CO., LTD.",owned_by
+vessel_903,"owner_DONGWON FISHERIES  Co., Ltd",owned_by
+vessel_334,owner_KAIOMARU GYOGYO KABUSHIKIKAISHA,owned_by
+vessel_373,owner_KABUSHIKI KAISHA TAKATOYOMARU,owned_by
+vessel_10001,"owner_KUO, HSIANG-HSIUNG",owned_by
+vessel_3537,"owner_HWANG, HE-SHUEI",owned_by
+vessel_11097,"owner_KUO, MIN ZHI",owned_by
+vessel_10719,"owner_SEIN SHIPPING CO., LTD",owned_by
+vessel_12295,owner_NANYO SUISAN KABUSHIKI KAISHA,owned_by
+vessel_146,"owner_ZHEJIANG OCEAN FAMILY CO., LTD.",owned_by
+vessel_1791,"owner_Nishime,Yuho",owned_by
+vessel_11963,owner_HARBOUR LEAD INVESTMENTS LIMITED,owned_by
+vessel_12125,owner_UNITED REEFER S.A.,owned_by
+vessel_12294,owner_INDRA,owned_by
+vessel_2136,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_4021,owner_TRANS-PACIFIC JOURNEY FISHING CORP,owned_by
+vessel_12202,owner_FFC SUBIC SEAFOODS CORPORATION,owned_by
+vessel_1055,owner_NEWPORT FISHING CORP.,owned_by
+vessel_12198,owner_FFC SUBIC SEAFOODS CORPORATION,owned_by
+vessel_3992,"owner_LUNG YUIN FISHERY CO.,LTD.",owned_by
+vessel_9512,owner_ANGARA SHIPPING LTD,owned_by
+vessel_11807,owner_HABITAT INTERNATIONAL CORP.,owned_by
+vessel_11172,"owner_SILLA CO., LTD",owned_by
+vessel_10985,"owner_IKEDA SUISAN Co.,LTD",owned_by
+vessel_10950,owner_HOSHIN MARU FISHERY PRODUCTS ASSOCIATION,owned_by
+vessel_2271,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_937,"owner_Gyeonghae CO.,LTD",owned_by
+vessel_11010,owner_YUUKI,owned_by
+vessel_12293,"owner_BINTANG BAHAGIA BERSINAR, PT.",owned_by
+vessel_12292,"owner_BUANA LINGSAR SAMUDRA, PT.",owned_by
+vessel_4542,"owner_TSENG, SHU FEN",owned_by
+vessel_544,owner_TAIYO A&F KABUSHIKIGAISHA,owned_by
+vessel_5332,"owner_LIN, HSIN-YI",owned_by
+vessel_11684,owner_ROSSE OCEANWAY S.A.,owned_by
+vessel_12290,owner_ETIMONI PALU,owned_by
+vessel_12289,owner_ETIMONI PALU,owned_by
+vessel_4330,owner_CM FISHERY INC.,owned_by
+vessel_12137,"owner_YAIZU TUNA FISHERIES Co., Ltd.",owned_by
+vessel_1371,"owner_YAIZU TUNA FISHERY Co., Ltd.",owned_by
+vessel_12050,"owner_YAIZU TUNA FISHERY Co., Ltd.",owned_by
+vessel_295,"owner_YAIZU TUNA FISHERY Co., Ltd.",owned_by
+vessel_12094,"owner_YAIZU TUNA FISHERY Co., Ltd.",owned_by
+vessel_12288,"owner_BINTANG SAMUDRA BERSINAR, PT.",owned_by
+vessel_861,owner_IWATE Prefecture,owned_by
+vessel_1808,"owner_Maekawa,Hokin",owned_by
+vessel_2100,"owner_DAEHAE FISHERIES CO.,LTD",owned_by
+vessel_2121,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_9314,"owner_DONGWON FISHERIES CO., Ltd",owned_by
+vessel_907,"owner_DONGWON FISHERIES  Co., Ltd",owned_by
+vessel_905,"owner_DONGWON FISHERIES  Co., Ltd",owned_by
+vessel_9757,owner_HABITAT INTERNATIONAL CORP.,owned_by
+vessel_12120,"owner_YUAN CHENG XIANG FISHERY CO., LTD",owned_by
+vessel_9888,owner_CHANG HSIN LING (Operator name: YU FENG SOURCING LTD),owned_by
+vessel_4013,owner_Lucky Win Trading Ltd,owned_by
+vessel_2125,"owner_KYUNG YANG  FISHERIES CO.,LTD",owned_by
+vessel_11712,owner_Altair Fishing Ltd,owned_by
+vessel_12224,owner_Altair Fishing Limited,owned_by
+vessel_9495,owner_SYOTA SHIPPING COMPANY S.A.,owned_by
+vessel_8904,owner_CONSERVAS ISABEL ECUATORIANA S.A.,owned_by
+vessel_8907,owner_CONSERVAS ISABEL ECUATORIANA S.A.,owned_by
+vessel_12199,owner_FFC SUBIC SEAFOODS CORPORATION,owned_by
+vessel_12203,owner_FFC SUBIC SEAFOODS CORPORATION,owned_by
+vessel_12200,owner_FFC SUBIC SEAFOODS CORPORATION,owned_by
+vessel_9525,owner_HONG CHENG YI,owned_by
+vessel_3846,"owner_TSAI, CHIN-TE",owned_by
+vessel_3675,"owner_LI, NENG-WEI",owned_by
+vessel_12193,"owner_Sea Network Co.,Ltd.",owned_by
+vessel_9305,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_10154,"owner_Kuniyoshi,Masahiko",owned_by
+vessel_3861,"owner_LIN, YU-CHUN",owned_by
+vessel_3883,"owner_CHIN YI WEN FISHERY CO., LTD.",owned_by
+vessel_3882,"owner_CHIN JI NWEN FISHERY CO., LTD.",owned_by
+vessel_4120,"owner_CHUCLY VU, LLC",owned_by
+vessel_10419,owner_CHARCA FISH VII LLC,owned_by
+vessel_10087,owner_CAPE ELIZABETH FISHING LP,owned_by
+vessel_4487,owner_CAPE FERRAT FISHING LP,owned_by
+vessel_4392,owner_CHAN'S FISHERIES LLC,owned_by
+vessel_9379,owner_ECOFISHERMAN INC,owned_by
+vessel_12286,"owner_SINAR ARINDO SEMESTA, PT.",owned_by
+vessel_12285,owner_MELANIE ANGGRAENI,owned_by
+vessel_12284,"owner_HSU, SHU-CHEN",owned_by
+vessel_2384,owner_TSP LIVESTOCK & DEVELOPMENT CORPORATION,owned_by
+vessel_4028,owner_TSP LIVESTOCK & DEVELOPMENT CORPORATION,owned_by
+vessel_8946,"owner_DOMINGO TENG FISHING INDUSTRY, INC.",owned_by
+vessel_7239,owner_TSP LIVESTOCK & DEVELOPMENT CORPORATION,owned_by
+vessel_9953,"owner_JI SUNG SHIPPING CO., LTD.",owned_by
+vessel_3042,"owner_WU, SHIH HSIANG",owned_by
+vessel_5212,"owner_LI, TING-JIE",owned_by
+vessel_5414,"owner_SU, YU-YI",owned_by
+vessel_5215,"owner_CHERN, JYH-HWA",owned_by
+vessel_10631,"owner_CHI, YU-YUN",owned_by
+vessel_329,owner_KABUSHIKI KAISHA SHOEI  MARU,owned_by
+vessel_10654,"owner_rongcheng ocean fishery co.,ltd",owned_by
+vessel_11726,"owner_CYUAN SHUN FISHERY CO., LTD",owned_by
+vessel_11667,owner_HANGTON PACIFIC COMPANY PTE LTD,owned_by
+vessel_12240,"owner_ZHEJIANG SHENGRUN INTERNATIONAL TRANSPORTATION CO.,LTD",owned_by
+vessel_12226,"owner_ZHEJIANG SHENGRUN INTERNATIONAL TRANSPORTATION CO.,LTD",owned_by
+vessel_11408,"owner_MIN SHUEN OCEAN CO., LTD.",owned_by
+vessel_11324,"owner_MIN FENG OCEAN CO., LTD.",owned_by
+vessel_11247,"owner_FONG KUO FISHERY CO., LTD.",owned_by
+vessel_4027,"owner_VIVA FAFA FISHERY CO.,LTD.",owned_by
+vessel_11175,"owner_JIH YU FISHERY CO.,LTD.",owned_by
+vessel_10377,"owner_FAIR DISCOVERY FISHERY CO.,LTD.",owned_by
+vessel_11289,"owner_CHERN LUNG FISHERY CO., LTD.",owned_by
+vessel_11355,"owner_CHERN LUNG FISHERY CO., LTD.",owned_by
+vessel_4025,"owner_EVER GLORY FISHERY CO., LTD.",owned_by
+vessel_4005,"owner_SUPREME UNIVERSAL FISHERY CO.,LTD",owned_by
+vessel_4018,"owner_SUN GLORY FISHERY CO., LTD",owned_by
+vessel_11990,"owner_LONG CHUANG FISHERY CO., LTD",owned_by
+vessel_4015,"owner_KUO HSIUNG FISHERY CO., LTD",owned_by
+vessel_4014,"owner_KUO CHANG FISHERY CO.,LTD.",owned_by
+vessel_5406,"owner_HUNG, CHIN-JUI",owned_by
+vessel_9776,owner_Sunshine Fisheries Pte Ltd,owned_by
+vessel_2193,"owner_SILLA Co., Ltd",owned_by
+vessel_3348,"owner_HUANG, CHU PIN",owned_by
+vessel_8877,"owner_HUNG LEE, LI-YUN",owned_by
+vessel_4103,owner_B DRAGON CORPORATION,owned_by
+vessel_9057,owner_AACH HOLDING CO NO 2 LLC,owned_by
+vessel_4345,owner_BB BAY LLC,owned_by
+vessel_12279,owner_TNL FISHERY LLC,owned_by
+vessel_12110,owner_KAGOSHIMA KEN,owned_by
+vessel_2761,"owner_HUANG, CHIN-TIEN",owned_by
+vessel_1535,"owner_SANKO CO.,LTD",owned_by
+vessel_365,"owner_HAN HSIN FISHERY CO., LTD",owned_by
+vessel_9212,owner_CHANG SOON SHIPPING CORP,owned_by
+vessel_137,"owner_Zhe Jiang Ocean Family Co.,Ltd",owned_by
+vessel_150,"owner_ZHE JIANG OCEAN FAMILY CO., LTD.",owned_by
+vessel_149,"owner_ZHEJIANG OCEAN FAMILY CO.,LTD",owned_by
+vessel_144,"owner_ZHEJIANG OCEAN FAMILY CO.,LTD",owned_by
+vessel_143,"owner_ZHE JIANG OCEAN FAMILY CO.,LTD",owned_by
+vessel_4462,"owner_HUNG, JUNG-PENG",owned_by
+vessel_8896,"owner_LIN, HUI-PING",owned_by
+vessel_316,owner_TOYOKUNIMARU GYOGYO SEISANKUMIAI,owned_by
+vessel_8830,"owner_NOK CO. LTD., S.A",owned_by
+vessel_12196,owner_FFC SUBIC SEAFOODS CORPORATION,owned_by
+vessel_3832,"owner_NI, HUI-LING",owned_by
+vessel_3784,"owner_LIN, TAI-CHUAN",owned_by
+vessel_3557,"owner_LAI, PEI-CHUN",owned_by
+vessel_9775,owner_Hsinlong Fisheries Pte Ltd,owned_by
+vessel_9792,owner_Sunshine Fisheries Pte Ltd,owned_by
+vessel_9791,owner_Sunshine Fisheries Pte Ltd,owned_by
+vessel_9027,owner_Fengyuh Fisheries Pte Ltd,owned_by
+vessel_9773,owner_Fengyuh Fisheries Pte Ltd,owned_by
+vessel_9778,owner_Sunshine Fisheries Pte Ltd,owned_by
+vessel_258,"owner_FUKUTOKU GYOGYO CO.,LTD.",owned_by
+vessel_4534,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_11653,owner_Kanagawa Prefecture,owned_by
+vessel_1644,owner_KABUSHIKIKAISHA TOKUSHOMARUSUISAN,owned_by
+vessel_12155,owner_MIYAZAKI PREFECTURE,owned_by
+vessel_555,owner_TOYOGYOGYO KABUSHIKI KAISYA,owned_by
+vessel_11139,"owner_JIEN TSUEN OCEAN ENTERPRISE CO.,LTD.",owned_by
+vessel_12134,"owner_Tseng, Yi-Ting",owned_by
+vessel_10933,"owner_CHERN, WEN SHENG",owned_by
+vessel_3671,"owner_HUNG, CHIH-CHIANG",owned_by
+vessel_4544,"owner_HUNG, CHIUNG-YING",owned_by
+vessel_9866,"owner_Shenzhen shengang overseas industrial co., ltd.",owned_by
+vessel_11728,"owner_CNFC Overseas Fisheries Co., Ltd.",owned_by
+vessel_401,owner_ASAHI GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_10891,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_12274,"owner_BINTANG HARAPAN JAYA, PT.",owned_by
+vessel_1736,owner_YUGEN KAISHA MARUSAN SUISAN,owned_by
+vessel_12273,"owner_BINTANG HARAPAN JAYA, PT.",owned_by
+vessel_5700,owner_CAPT T LLC,owned_by
+vessel_2126,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_12271,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_12270,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_9876,"owner_LIU, PO-YI",owned_by
+vessel_3902,"owner_SU, PEI-ZHI",owned_by
+vessel_9351,"owner_LIU, YU-JING",owned_by
+vessel_10070,"owner_CHEN, CHIA-CHENG",owned_by
+vessel_3788,"owner_HSU, YI-CHUN",owned_by
+vessel_10175,owner_Rising Fisheries Pte Ltd,owned_by
+vessel_10177,owner_Rising Fisheries Pte Ltd,owned_by
+vessel_10176,owner_Rising Fisheries Pte Ltd,owned_by
+vessel_9774,owner_Rising Fisheries Pte Ltd,owned_by
+vessel_12269,"owner_LAUTAN JAYA MANDIRI, PT.",owned_by
+vessel_12268,"owner_LAUTAN JAYA MANDIRI, PT.",owned_by
+vessel_2320,owner_KOUEKI CORP,owned_by
+vessel_12267,owner_KAIYO GYOGYO KABUSHIKIKAISYA,owned_by
+vessel_1784,owner_YUJI YAMADA,owned_by
+vessel_12266,"owner_KOREA SHIPMANAGERS CO., LTD.",owned_by
+vessel_5715,owner_PHAMTASEA LLC,owned_by
+vessel_3953,"owner_AACH HOLDING CO., LLC",owned_by
+vessel_10582,owner_SEA ANGEL LLC,owned_by
+vessel_1050,owner_FRABELLE FISHING CORPORATION,owned_by
+vessel_7184,owner_RRCS Marine and Industrial Development Corporation,owned_by
+vessel_12230,"owner_HUANG HSIANG FISHERY CO., LTD.",owned_by
+vessel_11775,"owner_HSIN JYI FA FISHERY CO., LTD",owned_by
+vessel_5363,owner_CHEN SIN-YOU,owned_by
+vessel_10171,"owner_HUNG, HSIANG-CHI",owned_by
+vessel_8802,"owner_TSAI, CHENG HUNG",owned_by
+vessel_9549,owner_HABITAT INTERNATIONAL CORP.,owned_by
+vessel_12264,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_12263,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_12262,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_12261,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_1444,"owner_KABUSHIKI KAISHA ,YAHATA SUISAN",owned_by
+vessel_1366,owner_MIHO MAGURO GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_5403,"owner_LIN, FANG-TIEN",owned_by
+vessel_12030,owner_FUKUYO SUISAN KABUSHIKI KAISHA,owned_by
+vessel_1048,owner_FRABELLE FISHING CORPORATION,owned_by
+vessel_11159,owner_HANEI INC.,owned_by
+vessel_4580,owner_HONDOUSUISAN INC,owned_by
+vessel_10973,"owner_Shandong Shawodao Ocean Fishery Co.,Ltd",owned_by
+vessel_10972,"owner_Shandong Shawodao Ocean Fishery Co.,Ltd",owned_by
+vessel_10971,"owner_Shandong Shawodao Ocean Fishery Co.,Ltd",owned_by
+vessel_10970,"owner_Shandong Shawodao Ocean Fishery Co.,Ltd",owned_by
+vessel_10969,"owner_Shandong Shawodao Ocean Fishery Co.,Ltd",owned_by
+vessel_10968,"owner_Shandong Shawodao Ocean Fishery Co.,Ltd",owned_by
+vessel_2197,"owner_SILLA Co., Ltd",owned_by
+vessel_9752,owner_TSENG FU SHENG,owned_by
+vessel_11518,"owner_CHEN, FU-QUAN",owned_by
+vessel_9761,"owner_JIAN, LI-MEI",owned_by
+vessel_404,owner_MEIHO GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_11632,owner_KABUSHIKI KAISHA TOKUSHOMARU SUISAN,owned_by
+vessel_177,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_4617,owner_CAPE BRETON FISHING LP,owned_by
+vessel_8725,owner_CAPE COD FISHING LP,owned_by
+vessel_4111,owner_CAPE FINISTERRE FISHING LP,owned_by
+vessel_4380,"owner_CHARCA FISH II, LLC",owned_by
+vessel_12008,owner_LONGLINE SERVICES INC,owned_by
+vessel_4347,owner_DE SILVA SEA ENCOUNTER CORP.,owned_by
+vessel_11311,owner_SECOND ANDY LLC,owned_by
+vessel_4209,"owner_JOHNSON, KARL;JOHNSON, BONNIE",owned_by
+vessel_4372,owner_TRACEY C FISHING LLC,owned_by
+vessel_4386,owner_WESTERN PACIFIC FISHERIES INC,owned_by
+vessel_11516,"owner_Okinaka,Hiroki",owned_by
+vessel_306,owner_YUGENGAISHA HIROYA,owned_by
+vessel_5051,owner_Solander Pacific Ltd,owned_by
+vessel_5148,owner_SERVICES MARINE LTD,owned_by
+vessel_5054,owner_Solander Pacific Ltd,owned_by
+vessel_9689,owner_Services Marine Ltd,owned_by
+vessel_10492,owner_WISTAR FIJI LTD,owned_by
+vessel_4528,owner_Solander Pacific Ltd,owned_by
+vessel_10097,owner_Solander Viti Limited,owned_by
+vessel_4518,owner_ZHONGYU GLOBAL SEAFOOD CORP.,owned_by
+vessel_9490,"owner_THAI ASIAN TRADE Co., Ltd.",owned_by
+vessel_11264,"owner_THAI ASIAN TRADE CO.,LTD.",owned_by
+vessel_236,owner_KABUSHIKI KAISHA KANESHIMEICHI,owned_by
+vessel_400,owner_KABUSHIKI KAISHA KANESHIMEICHI,owned_by
+vessel_12260,"owner_BINTANG HARAPAN JAYA, PT.",owned_by
+vessel_12259,"owner_BINTANG HARAPAN JAYA, PT.",owned_by
+vessel_11485,"owner_Dalian Jinguang Fishery Co., Ltd.",owned_by
+vessel_11484,"owner_Dalian Jinguang Fishery Co., Ltd.",owned_by
+vessel_4428,"owner_VIVA GOGO FISHERY CO., LTD",owned_by
+vessel_1883,owner_KABUSHIKI KAISHA EISEI MARU,owned_by
+vessel_1534,"owner_TOSAYOU Co., Ltd",owned_by
+vessel_4003,owner_FFC SUBIC SEAFOODS CORPORATION,owned_by
+vessel_9008,"owner_Zhong Da Co.,Ltd",owned_by
+vessel_5159,owner_Winfull Fishing Co Ltd,owned_by
+vessel_11833,owner_GONEDAU ENTERPRISES PTE LTD,owned_by
+vessel_5043,owner_Ocean Harvest (Fiji) Ltd,owned_by
+vessel_5160,owner_Winfull Fishing Co Ltd,owned_by
+vessel_10955,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_9308,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_9011,owner_SAM WEON FISHERY CO..LIMITED,owned_by
+vessel_5391,"owner_TSAI, YUN-KAI",owned_by
+vessel_12256,"owner_BINTANG HARAPAN JAYA, PT.",owned_by
+vessel_12255,"owner_BINTANG HARAPAN JAYA, PT.",owned_by
+vessel_12254,"owner_BINTANG HARAPAN JAYA, PT.",owned_by
+vessel_11672,owner_HANGTON PACIFIC COMPANY PTE LTD,owned_by
+vessel_11665,owner_HANGTON PACIFIC COMPANY PTE LTD,owned_by
+vessel_11666,owner_HANGTON PACIFIC COMPANY PTE LTD,owned_by
+vessel_1747,owner_KAWABATA SUISAN INC,owned_by
+vessel_12252,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_12251,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_12250,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_12249,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_12248,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_12247,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_12246,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_12245,"owner_BINTANG HARAPAN JAYA, PT.",owned_by
+vessel_12244,"owner_STARINDO JAYA MAJU, PT.",owned_by
+vessel_232,owner_KATSUKURA GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_12243,"owner_STARINDO JAYA MAJU, PT.",owned_by
+vessel_1910,"owner_OHKURA GYOGYO CO.,LTD.",owned_by
+vessel_11496,"owner_HEJIU FISHERY CO.,LTD.",owned_by
+vessel_8807,"owner_TSAI, RUEI JUNG",owned_by
+vessel_11623,owner_KD FISHERY LLC,owned_by
+vessel_4114,owner_LEQUAN LLC,owned_by
+vessel_5612,owner_RS FISHERY LLC,owned_by
+vessel_4203,owner_NGUYEN BROS FISHERY LLC,owned_by
+vessel_4207,owner_KD FISHERY LLC,owned_by
+vessel_4352,owner_RS FISHERY LLC,owned_by
+vessel_4023,owner_Asian Well Enterprises Ltd,owned_by
+vessel_4020,owner_JACKWAY INTERNATIONAL LTD.,owned_by
+vessel_2224,"owner_HANSUNG ENTERPRISE CO.,LTD",owned_by
+vessel_2200,"owner_SILLA Co., Ltd",owned_by
+vessel_2199,"owner_SILLA Co., Ltd",owned_by
+vessel_1147,owner_STARCKI VENTURE CORPORATION,owned_by
+vessel_1146,owner_STARCKI VENTURES CORPORATION,owned_by
+vessel_10580,"owner_FUKUTOKU GYOGYO CO.,LTD",owned_by
+vessel_405,owner_MAKURAZAKISHI GYOGYO KYODO KUMIAI,owned_by
+vessel_12241,owner_SHOTOKUSUISAN KABUSHIKIKAISHA,owned_by
+vessel_3710,"owner_CHEN, KUN-I",owned_by
+vessel_4000,"owner_CHANG SHUN FISHERY CO., LTD",owned_by
+vessel_9412,"owner_CHEN, CHIA CHENG",owned_by
+vessel_1891,owner_KANEI BUSSAN KABUSHIKI KAISHA,owned_by
+vessel_12239,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_12238,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_195,"owner_YUGENKAISHA HAMADA GYOGYOUBU CO., LTD",owned_by
+vessel_10282,"owner_YUGENKAISHA HAMADA GYOGYOUBU CO,.LTD",owned_by
+vessel_4423,"owner_WIN BEST FISHERY CO., LTD",owned_by
+vessel_1118,"owner_SOUTH SEA FISHING VENTURES PHILIPPINES, INC.",owned_by
+vessel_12237,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_12236,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_12235,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_11057,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_12069,"owner_CHIN I MING FISHERY CO., LTD.",owned_by
+vessel_9982,"owner_TSENG, CHUN-MEI",owned_by
+vessel_12234,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_5130,"owner_SILLA Co., Ltd",owned_by
+vessel_12021,"owner_IKEDA SUISAN CO,LTD",owned_by
+vessel_12227,"owner_TSAI, CHENG-MIN",owned_by
+vessel_1892,owner_HAKKO GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_9988,"owner_ESUSUISAN CO., LTD",owned_by
+vessel_10980,owner_HAKKO GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_4424,"owner_WIN HARVEST FISHERY CO., LTD",owned_by
+vessel_11826,"owner_ZHONG YI FISHERIES CO., LTD",owned_by
+vessel_11735,"owner_CNFC Overseas Fisheries Co., Ltd.",owned_by
+vessel_12233,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_11056,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_4650,"owner_SAMUDRA MANDIRI SENTOSA, PT.",owned_by
+vessel_12232,"owner_SAMUDRA MANDIRI SENTOSA, PT.",owned_by
+vessel_12231,owner_White Pearl Traders Pte Limited,owned_by
+vessel_3767,"owner_JINN CHUN FISHERY CO., LTD.",owned_by
+vessel_3785,"owner_LII, WEN-BAO",owned_by
+vessel_8893,"owner_HUNG CHEN, LI-CHING",owned_by
+vessel_1322,"owner_KOUEI GYOGYO CO., LTD.",owned_by
+vessel_12225,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_4780,"owner_SAMUDRA MANDIRI SENTOSA, PT.",owned_by
+vessel_11445,"owner_BINTANG MANDIRI BERSAUDARA, PT.",owned_by
+vessel_12061,"owner_SAMUDRA MANDIRI SENTOSA, PT.",owned_by
+vessel_12059,"owner_BINTANG MANDIRI BERSAUDARA, PT.",owned_by
+vessel_12060,"owner_BINTANG MANDIRI BERSAUDARA, PT.",owned_by
+vessel_12180,"owner_BINTANG MANDIRI BERSAUDARA, PT.",owned_by
+vessel_12191,"owner_BINTANG MANDIRI BERSAUDARA, PT.",owned_by
+vessel_11558,"owner_SAMUDRA MANDIRI SENTOSA, PT.",owned_by
+vessel_12214,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_10534,owner_KABUSHIKI KAISHA YAHATA SUISAN,owned_by
+vessel_11634,owner_KABUSHIKI KAISHA SHOEI MARU,owned_by
+vessel_11517,owner_ASAHI GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_1897,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_11865,"owner_ZHE JIANG OCEAN FAMILY CO., LTD.",owned_by
+vessel_2591,owner_LUO YU XUAN,owned_by
+vessel_1785,"owner_Kinjo, Kazuhiko",owned_by
+vessel_4489,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_12058,"owner_Bintang Mandiri Bersaudara, PT.",owned_by
+vessel_11412,"owner_PACIFIC SEAS TUNA VENTURES, INC.",owned_by
+vessel_11443,"owner_BINTANG MANDIRI BERSAUDARA, PT.",owned_by
+vessel_12170,"owner_BINTANG MANDIRI BERSAUDARA, PT.",owned_by
+vessel_3512,"owner_WANG TSAI, YU-HUA",owned_by
+vessel_11502,"owner_TROPICAL FISHING TUNA VENTURES, INC.",owned_by
+vessel_5338,"owner_KUNG, YU-LING",owned_by
+vessel_3874,"owner_YITAI FISHERYIES CO., LTD",owned_by
+vessel_11471,"owner_GLOBAL FISHING TUNA VENTURES, INC.",owned_by
+vessel_11386,owner_GOLDEN ANCHOR MARINE VENTURES CORP.,owned_by
+vessel_9240,owner_WORLD FISH ENTERPRISE CO. LTD,owned_by
+vessel_10608,"owner_TAIKEIMARU SUISAN CO.,LTD",owned_by
+vessel_1790,"owner_Manna,Toshiyuki",owned_by
+vessel_9566,owner_FRABELLE (PNG) LIMITED,owned_by
+vessel_5441,owner_FRABELLE (PNG) LIMITED,owned_by
+vessel_3891,owner_FRABELLE PNG LTD,owned_by
+vessel_1899,owner_Frabelle Png Ltd,owned_by
+vessel_3895,owner_Frabelle PNG Ltd,owned_by
+vessel_1916,owner_KF (PNG) LTD,owned_by
+vessel_4019,owner_KF PNG LIMITED,owned_by
+vessel_10045,owner_Frabelle (PNG) Limited,owned_by
+vessel_9871,owner_FRABELLE PNG LIMITED,owned_by
+vessel_11279,"owner_SEIN SHIPPING CO., LTD.",owned_by
+vessel_8969,"owner_LIANCHENG OVERSEAS FISHERY (FSM) CO., LTD.",owned_by
+vessel_8966,"owner_LIANCHENG OVERSEAS FISHERY (FSM) CO., LTD.",owned_by
+vessel_5164,owner_YONG XING FISHERIES (FIJI) PTE  LTD,owned_by
+vessel_5165,owner_YONG XING FISHERIES (FIJI) PTE LTD,owned_by
+vessel_5166,owner_YONG XING FISHERIES (FIJI)  PTE LTD,owned_by
+vessel_2166,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_10684,owner_KATSUKURA GYOGYO KABUSHIKIKAISHA,owned_by
+vessel_350,owner_KABUSHIKI KAISHA TAIWA,owned_by
+vessel_366,"owner_KOYO SUISAN CO., LTD",owned_by
+vessel_11028,owner_KAIGATA SUISAN KABUSHIKI KAISHA,owned_by
+vessel_440,"owner_EISEI MARU CO.,LTD",owned_by
+vessel_1316,owner_KABUSHIKIKAISHA CHOKYU,owned_by
+vessel_349,owner_KABUSHIKI KAISHA TAIWA,owned_by
+vessel_319,"owner_EISEI MARU CO.,LTD",owned_by
+vessel_1426,owner_YUGEN KAISHA CHOKYU,owned_by
+vessel_1733,owner_SEIRYU SUISAN INC,owned_by
+vessel_11515,owner_PAC RIM LEASING LLC,owned_by
+vessel_4199,owner_PAC RIM LEASING LLC,owned_by
+vessel_3526,"owner_CHEN, SHIH-CHANG",owned_by
+vessel_9315,owner_SHOUYOSUISAN　Co.LTD.,owned_by
+vessel_11643,"owner_MEIHO GYOGYO CO, LTD.",owned_by
+vessel_3680,"owner_LIN, TENG-SHAN",owned_by
+vessel_12114,"owner_KYOKUYO SUISAN CO., LTD.",owned_by
+vessel_5195,"owner_MEIHO GYOGYO CO., LTD.",owned_by
+vessel_867,owner_CHIBA KEN,owned_by
+vessel_1894,owner_FFC SUBIC SEAFOODS CORPORATION,owned_by
+vessel_9307,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_2272,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_12223,owner_BLUECATCH CORPORATION,owned_by
+vessel_11499,"owner_CHUN BAO FISHERY CO., LTD",owned_by
+vessel_3706,"owner_TSAI, JUI-CHUNG",owned_by
+vessel_459,"owner_SANKO CO.,LTD",owned_by
+vessel_499,"owner_SANKO CO.,LTD",owned_by
+vessel_1830,owner_RYO NIINUMA and one other,owned_by
+vessel_5621,owner_AQUANUT CO INC,owned_by
+vessel_4237,owner_DONG ANH LLC,owned_by
+vessel_11622,owner_TWIN NGUYEN FISHERY LLC,owned_by
+vessel_9597,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_10636,"owner_Shandong Shawodao Ocean Fishery Co.,Ltd",owned_by
+vessel_11998,owner_KANEIBUSSAN KABUSHIKI-KAISHA,owned_by
+vessel_1795,owner_TAKASHI HIGA and one ther,owned_by
+vessel_12158,"owner_LONG JIN FISHERY CO., LTD",owned_by
+vessel_7262,"owner_SOUTHERN PHILIPPINES TUNA VENTURES, INC.",owned_by
+vessel_5343,"owner_SU, HUANG-HUI",owned_by
+vessel_10180,owner_MIYAMARU GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_3128,"owner_CHEN, TIEH-HAN",owned_by
+vessel_3076,owner_YE YONG LI,owned_by
+vessel_2952,"owner_CHEN,KUANC-CHENG",owned_by
+vessel_1909,"owner_OHKURA GYOGYO CO.,LTD.",owned_by
+vessel_3689,"owner_TSAI, HSIN-LIANG",owned_by
+vessel_3633,"owner_HSU LIN, LI-LAN",owned_by
+vessel_9405,"owner_HO, CHIH-YU",owned_by
+vessel_8991,"owner_HAMAKOU SUISAN  CO,.LTD",owned_by
+vessel_3403,"owner_HE, MING-YANG",owned_by
+vessel_3043,"owner_TSAI, CHIH-YUN",owned_by
+vessel_3831,"owner_TSAI, JUI CHUNG",owned_by
+vessel_9794,"owner_DALIAN JINGUANG FISHERY CO.,LTD.",owned_by
+vessel_11864,"owner_OHKURA GYOGYO CO.,LTD.",owned_by
+vessel_4270,"owner_BLUE DRAGON II FISHERY, LLC",owned_by
+vessel_12216,owner_KYOWA SUISAN KABUSHIKI KAISHA,owned_by
+vessel_11332,"owner_CHL FISHING INDUSTRY, INC.",owned_by
+vessel_12083,"owner_CHIN CHENG MING FISHERY CO.,LTD.",owned_by
+vessel_1792,"owner_Matsuda,Tetsuyuki",owned_by
+vessel_11529,"owner_DE CHAN FISHERY CO., LTD",owned_by
+vessel_11692,owner_KABUSHIKI KAISYA FUKUSHIMA GYOGYO,owned_by
+vessel_11487,"owner_CHUN DA FISHERY CO.,LTD",owned_by
+vessel_1645,"owner_Yamaguchi,Haruki",owned_by
+vessel_8769,owner_CN FISHERY LLC,owned_by
+vessel_3991,"owner_YANG SHUN FISHERY CO., LTD.",owned_by
+vessel_8889,"owner_CHEN, AI CHUN",owned_by
+vessel_2147,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_10668,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_5170,"owner_Liancheng Overseas Fishery (Shenzhen)Co.,Ltd.",owned_by
+vessel_11109,"owner_JIN HSIANG FA FISHERY CO., LTD",owned_by
+vessel_11950,owner_FUKUICHI GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_1888,owner_FUKUICHI GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_12175,owner_TAIJIN GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_12213,"owner_BAGAN SUKSES MANDIRI, PT.",owned_by
+vessel_10146,"owner_FANG, CHUN-WEI",owned_by
+vessel_11682,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_1794,"owner_Oshiro,Terusada",owned_by
+vessel_2169,"owner_SAJO SEAFOOD CO., LTD",owned_by
+vessel_2139,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_419,"owner_FOREVER FISHERY CO., LTD.",owned_by
+vessel_1301,owner_BELEGAER FISHERY CO LTD,owned_by
+vessel_9755,"owner_YUH YOW MARINE ( VANUATU) CO., LTD",owned_by
+vessel_1903,"owner_MEIHO GYOGYO CO., LTD.",owned_by
+vessel_3535,"owner_CHEN, CHIH-HUI",owned_by
+vessel_5410,"owner_SU,HUANG-HUI",owned_by
+vessel_1609,"owner_SANKO CO.,LTD",owned_by
+vessel_1601,"owner_SANKO CO.,LTD",owned_by
+vessel_11245,owner_TOKAI GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_10811,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORP. (THIDCOR),owned_by
+vessel_257,"owner_FUKUTOKU GYOGYO CO.,LTD.",owned_by
+vessel_9790,owner_Hsinlong Fisheries Pte  Ltd,owned_by
+vessel_9029,owner_Hsinlong Fisheries Pte  Ltd,owned_by
+vessel_4286,owner_OCEAN HARVEST FISHERY LTD,owned_by
+vessel_10791,owner_Trinity Home Industrial Development Corporation,owned_by
+vessel_3583,"owner_CHEN YANG, SU-YUE",owned_by
+vessel_2135,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_1374,"owner_DAEHAE FISHERIES CO.,LTD",owned_by
+vessel_9088,"owner_Sari Usaha Mandiri, PT.",owned_by
+vessel_12212,owner_WISTAR (FIJI) PTE LIMITED,owned_by
+vessel_12211,owner_WISTAR (FIJI) PTE LIMITED,owned_by
+vessel_12210,owner_WISTAR (FIJI) PTE LIMITED,owned_by
+vessel_12209,owner_WISTAR (FIJI) PTE LIMITED,owned_by
+vessel_11333,"owner_CHL FISHING INDUSTRY, INC.",owned_by
+vessel_4052,"owner_CHEN FU OCEANIC ENTERPRISE CO., LTD",owned_by
+vessel_11734,"owner_CNFC Overseas Fisheries Co., Ltd.",owned_by
+vessel_516,owner_KABUSHIKIKAISHA TOKUSHOMARU SUISAN,owned_by
+vessel_519,"owner_Gima,Satoshi",owned_by
+vessel_11246,"owner_ICHIMARU Co.,Ltd.",owned_by
+vessel_11347,"owner_NIKKO FISHRIES CO,.LTD",owned_by
+vessel_9933,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_130,"owner_ZHE JIANG NEW TIMES INTERNATIONAL FISHERIES CO., LTD.",owned_by
+vessel_302,"owner_KODAMA GYOGYO CO., LTD",owned_by
+vessel_10838,owner_EUTHYNNUS VENTURE CORPORATION,owned_by
+vessel_1550,owner_KABUSHIKIKAISHA TOKUSHOMARU SUISAN,owned_by
+vessel_10938,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_7182,owner_RRCS Marine and Indistrial Development Corporation,owned_by
+vessel_7186,owner_RRCS MARINE AND INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_7190,owner_RRCS MARINE AND INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_7192,owner_RRCS Marine and Indistrial Development Corporation,owned_by
+vessel_7194,owner_RRCS Marine and Industrial Development Corporation,owned_by
+vessel_10586,owner_RELL & RENN FISHING COPORATION,owned_by
+vessel_7156,owner_RELL AND RENN FISHING CORPORATION,owned_by
+vessel_7169,owner_Rell and Renn Fishing Corporation,owned_by
+vessel_12208,owner_KIYOSHI GANEKO,owned_by
+vessel_4284,"owner_SUN RISE FISHERY CO., LTD",owned_by
+vessel_10277,"owner_SEIN SHIPPING CO.,LTD",owned_by
+vessel_11962,owner_STO.  NINO AQUA FISHING VENTURES CORPORATION,owned_by
+vessel_11722,"owner_CHL Fishing Industry, Inc.",owned_by
+vessel_10464,owner_RLGFI CORPORATION,owned_by
+vessel_10625,owner_RLGFI CORPORATION,owned_by
+vessel_10465,owner_RLGFI CORPORATION,owned_by
+vessel_5052,owner_Solander Pacific Ltd,owned_by
+vessel_5048,owner_Solander Pacific Limited,owned_by
+vessel_11982,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_11862,owner_STO. NINO AQUA FISHING VENTURES CORPORATION,owned_by
+vessel_11859,owner_STO.  NINO AQUA FISHING VENTURES CORPORATION,owned_by
+vessel_11540,owner_STO.  NINO AQUA FISHING VENTURE CORPORATION,owned_by
+vessel_11525,"owner_ISIDRO B. UY, JR.",owned_by
+vessel_10967,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_7195,owner_RRCS MARINE & INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_7187,owner_RRCS MARINE & INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_11872,owner_RELL & RENN FISHING CORPORATION,owned_by
+vessel_1122,owner_ASIA PACIFIC ALLIED FISHING VENTURES CORPORATION,owned_by
+vessel_12205,owner_FFC SUBIC SEAFOOD CORPORATION,owned_by
+vessel_7145,"owner_SOUTHERN PHILIPPINES TUNA VENTURES, INC.",owned_by
+vessel_11334,"owner_CHL FISHING INDUSTRY, INC.",owned_by
+vessel_11336,"owner_CHL FISHING INDUSTRY, INC.",owned_by
+vessel_11628,"owner_CHL FISHING INDUSTRY, INC.",owned_by
+vessel_11337,"owner_CHL FISHING INDUSTRY, INC.",owned_by
+vessel_11344,owner_NATHANIEL CABALLERO,owned_by
+vessel_11873,owner_RELL & RENN FISHING CORPORATION,owned_by
+vessel_7254,owner_Rell and Renn Fishing Corporation,owned_by
+vessel_7259,owner_Rell and Renn Fishing Corporation,owned_by
+vessel_10583,owner_RELL & RENN FISHING CORPORATION,owned_by
+vessel_10584,owner_RELL & RENN FISHING CORPORATION,owned_by
+vessel_10810,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORP. (THIDCOR),owned_by
+vessel_2201,"owner_KYUNG YANG  FISHERIES CO.,LTD",owned_by
+vessel_2195,"owner_KYUNG YANG  FISHERIES CO.,LTD",owned_by
+vessel_10114,"owner_KYUNG YANG  FISHERIES CO.,LTD",owned_by
+vessel_10113,"owner_KYUNG YANG  FISHERIES CO.,LTD",owned_by
+vessel_2216,"owner_KYUNG YANG  FISHERIES CO.,LTD",owned_by
+vessel_3513,"owner_CHEN, SHUI-SHENG",owned_by
+vessel_10369,"owner_YI SHUN FISHERY CO.,LTD.",owned_by
+vessel_10300,"owner_LEE, KUN-CHENG",owned_by
+vessel_12142,"owner_CHL FISHING INDUSTRY, INC.",owned_by
+vessel_12141,"owner_CHL FISHING INDUSTRY, INC.",owned_by
+vessel_11335,"owner_CHL FISHING INDUSTRY, INC.",owned_by
+vessel_10936,"owner_CHL FISHING INDUSTRY, INC.",owned_by
+vessel_4981,"owner_BINTANG MANDIRI BERSAUDARA, PT.",owned_by
+vessel_3665,"owner_CHEN, CI-SHENG",owned_by
+vessel_10774,owner_FUKUYO SUISAN KABUSHIKI KAISHA,owned_by
+vessel_3839,"owner_CHEN, PIAO-LIEN",owned_by
+vessel_2779,"owner_TSAO, NENG-TSAO",owned_by
+vessel_4037,"owner_LIAN JYI HSING MARINE PRODUCTS CO., LTD",owned_by
+vessel_2882,"owner_SHEU, TSONG-MING",owned_by
+vessel_3542,"owner_SHEU, JHE-MING",owned_by
+vessel_3605,"owner_WU, FU-NAM",owned_by
+vessel_3412,"owner_CHOU, YA-JUN",owned_by
+vessel_4124,"owner_F/V PAC HORIZON, INC",owned_by
+vessel_4002,"owner_LIAN HORNG FISHERY CO.,LTD.",owned_by
+vessel_3881,"owner_CHIN YOU MING FISHERY CO., LTD.",owned_by
+vessel_3877,"owner_SHYR HORNG FISHERY CO., LTD",owned_by
+vessel_12087,"owner_SHUN RONG FISHERY CO., LTD",owned_by
+vessel_11295,"owner_CHIN YOU WEN FISHERY CO., LTD.",owned_by
+vessel_2196,"owner_SILLA Co., Ltd",owned_by
+vessel_2142,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_9795,"owner_DALIAN JINGUANG FISHERY CO.,LTD.",owned_by
+vessel_12092,"owner_ZHEJIANG HENGHONG SHIPPING CO., LTD",owned_by
+vessel_11161,owner_OCEAN BOUNTY FISHING VENTURES CORPORATION,owned_by
+vessel_11036,"owner_Yamaguchi,Yoshiaki",owned_by
+vessel_9032,"owner_SHENZHEN SHENGANG OVERSEAS INDUSTRIAL CO.,LTD.",owned_by
+vessel_528,"owner_SANKO CO., LTD.",owned_by
+vessel_2194,"owner_SILLA Co., Ltd",owned_by
+vessel_9316,"owner_TAIKEI GYOGYO CO.,LTD. ; TAIYO A & F CO.,LTD.",owned_by
+vessel_11519,"owner_CHEN, XIN-HAN",owned_by
+vessel_2607,"owner_HORNG, MING-FA",owned_by
+vessel_2498,"owner_HUANG, JHANG-YAO",owned_by
+vessel_4526,owner_NENG DE OCEAN COMPANY LTD.,owned_by
+vessel_1742,owner_KIFUKU SUISAN INC,owned_by
+vessel_962,"owner_Liancheng Overseas Fishery (FSM) Co., ltd",owned_by
+vessel_3079,owner_LIN WEN HSIUNG,owned_by
+vessel_3023,"owner_HUANG, RONG-TONG",owned_by
+vessel_3016,"owner_CHERN, MAO-SUNG",owned_by
+vessel_2991,"owner_CHEN SUN,MEI-YU",owned_by
+vessel_2945,"owner_CHERN, SHOEI-BII",owned_by
+vessel_2751,owner_CHEN MING HUI,owned_by
+vessel_1577,"owner_ZHONG, HE-ZHI",owned_by
+vessel_8876,"owner_TSAI, CHUNG-LUNG",owned_by
+vessel_8880,"owner_HUNG, WEN-YUAN",owned_by
+vessel_5418,owner_LIN SHIH HSUAN,owned_by
+vessel_3698,"owner_CHI, GUO-MING",owned_by
+vessel_12105,"owner_RONGCHENG CITY RONGYUAN FISHERY CO.,LTD",owned_by
+vessel_3602,"owner_CHEN, CHING FA",owned_by
+vessel_4056,owner_LEE TSENG MEI,owned_by
+vessel_3478,"owner_TSAY, WEN TERNG",owned_by
+vessel_2290,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_8963,"owner_JHENG, BAO-SUEI",owned_by
+vessel_11770,"owner_YI RONG FISHERY CO., LTD",owned_by
+vessel_11798,owner_MYOJIN　SUISAN,owned_by
+vessel_1786,owner_KIMIKO HIGA,owned_by
+vessel_9131,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_8922,owner_TSUJI SUISAN INC,owned_by
+vessel_1471,owner_SHINPUKUMARU SUISAN INC.,owned_by
+vessel_1907,"owner_TAIKEI GYOGYO CO., LTD.",owned_by
+vessel_8715,"owner_LONGBOW FISHERY CO., LTD.",owned_by
+vessel_5337,"owner_HUNG, PAI-CHIN",owned_by
+vessel_5703,owner_CAPT ANDY LLC,owned_by
+vessel_4187,"owner_RYDER, TREVOR",owned_by
+vessel_2381,owner_TSP MARINE INDUSTRIES,owned_by
+vessel_5704,owner_EDWARD G CO INC,owned_by
+vessel_5702,owner_LE'S BROS. LLC,owned_by
+vessel_3954,owner_JARON LLC,owned_by
+vessel_4569,owner_F/V ST JUDE LLC,owned_by
+vessel_8940,"owner_FU YI FISHERY CO., LTD",owned_by
+vessel_1491,owner_OCEAN FORTUNE (FIJI) LIMITED,owned_by
+vessel_12190,"owner_BINTANG MANDIRI BERSAUDARA, PT.",owned_by
+vessel_4279,"owner_LONGBOW FISHERY CO., LTD",owned_by
+vessel_12189,"owner_GuangDong Guangyuan Fishery Group Co.,LTD",owned_by
+vessel_12188,"owner_GuangDong Guangyuan Fishery Group Co.,LTD",owned_by
+vessel_12187,"owner_GuangDong Guangyuan Fishery Group Co.,LTD",owned_by
+vessel_12186,"owner_GuangDong Guangyuan Fishery Group Co.,LTD",owned_by
+vessel_9046,owner_SHANGHAI JIN YOU DEEP SEA FISHERIES CO.LTD,owned_by
+vessel_9045,owner_SHANGHAI JIN YOU DEEP SEA FISHERIES CO.LTD,owned_by
+vessel_1804,owner_Nakasone Tsunemitsu,owned_by
+vessel_4039,"owner_HON SHUN FISHERY CO., LTD.",owned_by
+vessel_11934,owner_SHOUYOSUISAN Co. LTD.,owned_by
+vessel_1524,owner_KESENNUMA KANAE GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_178,"owner_MARUKICHI CO., LTD",owned_by
+vessel_4074,owner_ADELITA FISHING LLC,owned_by
+vessel_11699,"owner_FOURTH ANDY, LLC",owned_by
+vessel_12185,"owner_TSENG, CHUN-TANG",owned_by
+vessel_10716,owner_KANZAKISUISAN KABUSHIKIKAISHA,owned_by
+vessel_4426,owner_STARCKI VENTURE CORPORATION,owned_by
+vessel_3999,owner_HONG LUNG FISHERY CO. LTD.,owned_by
+vessel_10983,"owner_YUH FA FISHERY (VANUATU)CO., LTD",owned_by
+vessel_11719,"owner_ZHE JIANG OCEAN FAMILY CO., LTD.",owned_by
+vessel_12183,"owner_YUH SHENG FISHERIES CO.,LTD",owned_by
+vessel_10134,"owner_CHARCA FISH III, LLC",owned_by
+vessel_10107,"owner_JIOU SHUN FISHERY CO.,LTD.",owned_by
+vessel_2772,"owner_SHEU, JHE-MING",owned_by
+vessel_10366,"owner_HUANG, CHU-PIN",owned_by
+vessel_9751,"owner_CHI, TIEN-I",owned_by
+vessel_11871,"owner_YUH SHENG FISHERIES CO.,LTD",owned_by
+vessel_11288,"owner_YUH HORNG FISHERIES CO., LTD",owned_by
+vessel_11287,"owner_YUH HORNG FISHERIES CO., LTD",owned_by
+vessel_4292,"owner_SUN RISE FISHERY CO., LTD",owned_by
+vessel_10682,"owner_RYOUEISUISAN CO.,LTD",owned_by
+vessel_12182,owner_TAKAHASHI GYOGYO INC,owned_by
+vessel_2654,"owner_CHERN, FWU-SHUENN",owned_by
+vessel_1347,owner_SUMIYOSHI GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_10664,owner_KODAISUISAN,owned_by
+vessel_1024,owner_TSP MARINE INDUSTRIES,owned_by
+vessel_4916,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_9551,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_3997,"owner_SHANG YUIN FISHERY CO., LTD.",owned_by
+vessel_4190,owner_CHRISTINE TRAN INC.,owned_by
+vessel_9123,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_9297,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_9296,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_2269,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_10853,owner_Gao Linwei,owned_by
+vessel_10855,owner_Gu Shibiao,owned_by
+vessel_10860,owner_Cai Leiming,owned_by
+vessel_10861,owner_Yu Jijun,owned_by
+vessel_10724,owner_Wang ShanJun,owned_by
+vessel_10725,owner_Dong LianJun,owned_by
+vessel_10727,owner_Sun XiJun,owned_by
+vessel_10728,owner_Zhang XiQuan,owned_by
+vessel_10732,owner_Wang HongBo,owned_by
+vessel_10733,owner_Sun GuangShan,owned_by
+vessel_10866,owner_Jiang Cunhua,owned_by
+vessel_11803,"owner_SHIN CHUN FISHERY CO., LTD.",owned_by
+vessel_10672,"owner_RONGCHENG OCEAN FISHERY CO., LTD",owned_by
+vessel_1154,owner_STARCKI VENTURES CORPORATION,owned_by
+vessel_4051,"owner_SHENG HONG FISHERY CO., LTD.",owned_by
+vessel_4415,"owner_YUH YOW MARINE (VANUATU) CO., LTD.,",owned_by
+vessel_3516,"owner_FANG, CHIH-JUNG",owned_by
+vessel_1566,"owner_HONG, SHENG-AN",owned_by
+vessel_2177,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_2167,"owner_SAJO SEAFOOD CO., LTD",owned_by
+vessel_2165,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_9350,owner_DANG FISHERY INC,owned_by
+vessel_4321,owner_QUEEN DIAMOND INC,owned_by
+vessel_3968,owner_CHARCA FISH VIII LLC,owned_by
+vessel_10869,owner_Wang Wenke,owned_by
+vessel_11613,owner_SATO GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_4048,"owner_GOANG HARNG FISHERY CO., LTD.",owned_by
+vessel_12174,owner_JINWA INC,owned_by
+vessel_4418,"owner_YUH YOW MARINE (VANUATU) CO., LTD.",owned_by
+vessel_4417,"owner_YUH YOW MARINE (VANUATU) CO., LTD.,",owned_by
+vessel_4416,"owner_YUH YOW MARINE (VANUATU) CO., LTD.,",owned_by
+vessel_5328,"owner_JHENG HUANG, A-SIOU",owned_by
+vessel_10349,owner_Green Tuna Fisheries Company Limited.,owned_by
+vessel_2663,"owner_CHEN, SHI-WEI",owned_by
+vessel_3729,"owner_LIN, CHENG-CHUNG",owned_by
+vessel_438,"owner_DenmaruGyogyou Co., Ltd.",owned_by
+vessel_11664,"owner_SHUN SHENG FISHERY CO., LTD",owned_by
+vessel_10591,"owner_HSIN JYI FA  FISHERY CO.,LTD",owned_by
+vessel_8894,"owner_HUNG, CHAO-CHING",owned_by
+vessel_2161,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_3246,"owner_Tsai, Chang Mei-Ying",owned_by
+vessel_227,"owner_SEIHOU FISHERY CO.,LTD",owned_by
+vessel_12166,"owner_LIANCHENG OVERSEAS FISHERY (SHENZHEN) CO., LTD",owned_by
+vessel_4408,"owner_FU CHUN FISHERY CO., LTD..",owned_by
+vessel_9754,"owner_YUH YOW MARINE ( VANUATU) CO., LTD",owned_by
+vessel_9885,"owner_YUH SHENG FISHERIES CO.,LTD",owned_by
+vessel_11660,owner_LUCKY S.L.S LLC,owned_by
+vessel_5707,owner_3 ANH FISHERY LLC,owned_by
+vessel_4306,owner_LINH DAO FISHERY LLC,owned_by
+vessel_4197,owner_KAMI M LLC,owned_by
+vessel_4586,"owner_Higashi, Takako",owned_by
+vessel_2807,owner_WANG DING CHUN,owned_by
+vessel_9030,owner_Sunshine Fisheries Pte Ltd,owned_by
+vessel_9026,owner_Sunshine Fisheries Pte Ltd,owned_by
+vessel_2893,owner_YHE WEN YA,owned_by
+vessel_1841,owner_SATOU SUISAN INC.,owned_by
+vessel_11305,"owner_Shanghai Deep Sea Fisheries Co.,Ltd.",owned_by
+vessel_11306,"owner_Shanghai Deep Sea Fisheries Co.,Ltd.",owned_by
+vessel_11304,"owner_Shanghai Deep Sea Fisheries Co.,Ltd.",owned_by
+vessel_1880,"owner_Takagi,Tsukasa",owned_by
+vessel_1542,owner_FUKUEIMARU GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_3507,"owner_LIN, JEN-YIH",owned_by
+vessel_9799,owner_Fiore Marine PTE Limited,owned_by
+vessel_3862,"owner_CHENG, CHIU-YU",owned_by
+vessel_5358,"owner_HUANG, MING-CHU",owned_by
+vessel_5616,owner_LUCKY S. S. LLC,owned_by
+vessel_946,"owner_PARK, CHUNHWA",owned_by
+vessel_3810,"owner_HUANG, CHIA-LANG",owned_by
+vessel_111,"owner_Dalian Changhai Ocean Fisheries Co.,Ltd",owned_by
+vessel_5171,"owner_Liancheng Overseas Fishery (Shenzhen)Co.,Ltd.",owned_by
+vessel_11933,"owner_GYEONGHAE CO., LTD.",owned_by
+vessel_936,"owner_HAN CHANG FISHERIES CO.,LTD",owned_by
+vessel_575,"owner_GEUM SEONG FISHERIES CO.,LTD",owned_by
+vessel_959,owner_KIM JU SUK,owned_by
+vessel_951,"owner_HYEYOUNG FISHERIES CO.,LTD",owned_by
+vessel_939,"owner_GEUM A FISHERIES CO.,LTD",owned_by
+vessel_938,"owner_GEUM SEONG FISHERIES CO.,LTD",owned_by
+vessel_12062,"owner_DAE YANG FISHERY CO., LTD.",owned_by
+vessel_945,"owner_DAE JIN FISHERIES CO.,LTD",owned_by
+vessel_8669,owner_LIM JUN TAEK,owned_by
+vessel_949,"owner_HAE GEUM FISHERY CO.,LTD",owned_by
+vessel_940,"owner_GEUM YANG SUSAN CO.,LTD",owned_by
+vessel_958,"owner_DONG WON HAE SA RANG CO.,LTD.",owned_by
+vessel_11786,"owner_CHANG NAM FISHERIES CO., LTD",owned_by
+vessel_941,"owner_GEUM YEONG FISHERY CO.,LTD",owned_by
+vessel_954,"owner_WOOYANG SUSAN CO.,LTD",owned_by
+vessel_4118,"owner_CAPTAIN DAVIS, LTD",owned_by
+vessel_2145,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_10952,owner_TC FISHERY LLC,owned_by
+vessel_8770,owner_TUNA VENTURES INC,owned_by
+vessel_8726,owner_NGUYEN J3 LLC,owned_by
+vessel_5697,owner_MIGHTY JOE INC,owned_by
+vessel_2676,"owner_LIN,YUH-RENN",owned_by
+vessel_2742,"owner_TASY, FENG-MING",owned_by
+vessel_10276,"owner_HORNG, WEN-GOANG",owned_by
+vessel_10708,"owner_TOSAYOU Co., Ltd.",owned_by
+vessel_1488,"owner_TOSAYO Co.,LTD.",owned_by
+vessel_1610,"owner_TOSAYO CO.,LTD",owned_by
+vessel_10536,"owner_TOSAYO Co.,LTD",owned_by
+vessel_1844,"owner_UMADUME SHIPYARD CO.,LTD",owned_by
+vessel_1489,"owner_UMADUME SHIPYARD CO.,LTD",owned_by
+vessel_1554,"owner_UMADUME SHIPYARD CO.,LTD",owned_by
+vessel_11500,"owner_UMADUME SHIPYARD CO.,LTD",owned_by
+vessel_11030,"owner_UMAZUME SHIPYARD CO.,LTD",owned_by
+vessel_457,"owner_UMADUME SHIPYARD CO.,LTD",owned_by
+vessel_1612,"owner_UMADUME SHIPYARD Co., Ltd",owned_by
+vessel_4301,"owner_YUH YOW MARINE (VANUATU) CO., LTD.,",owned_by
+vessel_4300,"owner_YUH YOW MARINE (VANUATU) CO., LTD.",owned_by
+vessel_5936,"owner_YUH FA FISHERY (VANUATU) CO., LTD",owned_by
+vessel_964,owner_Liancheng Overseas Fishery(FSM)Co. Ltd,owned_by
+vessel_963,"owner_Liancheng Oveseas Fishery(FSM) Co., Ltd",owned_by
+vessel_3358,"owner_LIN, JIA-LAI",owned_by
+vessel_10102,owner_OCEANS GRACE INVESTMENT LTD.,owned_by
+vessel_11863,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_10071,owner_KABUSHIKIKAISYA RYOUYUU SUISAN,owned_by
+vessel_3896,"owner_HSU, JUI-HSIANG",owned_by
+vessel_4516,"owner_TSAI, CHENG-MIN",owned_by
+vessel_4908,"owner_DEYU FISHERY CO., LTD",owned_by
+vessel_12091,"owner_CHEN TIAN, LI-JUAN",owned_by
+vessel_2538,"owner_LIU HUANG, MEI-YUN",owned_by
+vessel_4053,owner_MAX STEP SHIPPING LIMITED,owned_by
+vessel_12046,owner_TIGER & DRAGON LLC,owned_by
+vessel_11514,owner_LIBRA DELTA LLC,owned_by
+vessel_11440,"owner_D & L FISHING, INC.",owned_by
+vessel_11211,owner_LADY HOPE LLC,owned_by
+vessel_5722,owner_RS FISHERY LLC,owned_by
+vessel_5706,owner_ITASCA FISHING LLC,owned_by
+vessel_5699,owner_JBN FISHERY LLC,owned_by
+vessel_5620,owner_PACIFIC STAR VESSEL LLC,owned_by
+vessel_4383,"owner_P & H ENTERPRISES, LTD",owned_by
+vessel_4382,"owner_P & H ENTERPRISES, LTD",owned_by
+vessel_4346,owner_SEA DRAGON II INC,owned_by
+vessel_4266,"owner_DO, QUAN",owned_by
+vessel_11038,"owner_NGUYEN, LUA",owned_by
+vessel_9853,owner_CAPTAIN KENNETH INC,owned_by
+vessel_9840,owner_LA FLARE LLC,owned_by
+vessel_4254,owner_VIKING V INC,owned_by
+vessel_4239,owner_JBN FISHERY LLC,owned_by
+vessel_4236,owner_TRIPLE ANDY LLC,owned_by
+vessel_4229,"owner_KIMMY 1 FISHERIES, INC.",owned_by
+vessel_4227,owner_APSARA LLC,owned_by
+vessel_4225,owner_KILAUEA FISHERIES LLC,owned_by
+vessel_4148,owner_TRAN FISHERY LLC,owned_by
+vessel_4141,owner_GREEN MOUNTAIN LLC,owned_by
+vessel_4075,owner_PW ANNIE FISHING INC,owned_by
+vessel_3980,"owner_SEN FISHING CO., LLC",owned_by
+vessel_12000,owner_KATSUMI HONSHOU,owned_by
+vessel_5169,"owner_Liancheng Overseas Fishery (Shenzhen)Co.,Ltd.",owned_by
+vessel_2226,"owner_HANSUNG ENTERPRISE CO.,LTD",owned_by
+vessel_11837,owner_KABUSHIKI KAISHA GOEI MARU,owned_by
+vessel_11033,owner_MARUNAKA SUISAN KABUSHIKI KAISHA,owned_by
+vessel_2656,"owner_FANG, WU-CHEN",owned_by
+vessel_1582,"owner_FANG, SHUI-SHENG",owned_by
+vessel_260,owner_MIHO MAGURO GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_9402,owner_HE MING YANG,owned_by
+vessel_4262,"owner_CHARCA FISH X, LLC",owned_by
+vessel_2618,"owner_JHONG, CUEI-HUA",owned_by
+vessel_19,owner_Penglai Jinglu Fisheries Co.Ltd,owned_by
+vessel_13,owner_Penglai Jinglu Fisheries Co.Ltd,owned_by
+vessel_3673,"owner_FANG, WU-CHEN",owned_by
+vessel_12152,"owner_Komatsu, Eisuke",owned_by
+vessel_12151,owner_Fukushima Prefecture,owned_by
+vessel_12150,owner_GONEDAU ENTERPRISES PTE LTD,owned_by
+vessel_12149,owner_GONEDAU ENTERPRISES PTE LTD,owned_by
+vessel_3733,"owner_HUANG LI, YU-YING",owned_by
+vessel_461,"owner_Waki, Maho",owned_by
+vessel_12115,"owner_I-SHUN FISHERY CO., LTD",owned_by
+vessel_11372,"owner_TO YU OCEAN ENTERPRISE CO.,LTD.",owned_by
+vessel_9793,"owner_HUANG, CHIH-LIANG",owned_by
+vessel_12113,"owner_EBESU, TOYOKAZU",owned_by
+vessel_12146,"owner_TAKEBAYASHI, MASAHIRO",owned_by
+vessel_12148,"owner_ZHEJIANG HENGHONG SHIPPING CO., LTD.",owned_by
+vessel_8801,"owner_TSENG, YI-HSUAN",owned_by
+vessel_11330,owner_RRCS MARINE & INDISTRIAL DEV'T. CORP.,owned_by
+vessel_7189,owner_RRCS MARINE AND INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_12079,owner_KESENNUMA KANAE GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_261,owner_TONOURA FISHERIES COOPERATIVE,owned_by
+vessel_5945,"owner_Oike, Daisuke",owned_by
+vessel_3945,"owner_CHUN TING FISHERY CO., LTD.",owned_by
+vessel_10679,"owner_LIN HUANG, SU-QIN",owned_by
+vessel_10471,owner_GREEN TUNA FISHERIES CO LTD,owned_by
+vessel_3771,"owner_CAI, YU-MEI",owned_by
+vessel_3333,"owner_WU, MING-FENG",owned_by
+vessel_1487,owner_SHINEI SUISAN LLC,owned_by
+vessel_10496,"owner_TSENG, HSIANG-CHING",owned_by
+vessel_12138,owner_STO.  NINO AQUA FISHING VENTURE CORPORATION,owned_by
+vessel_11531,owner_BAI LI FISHERY LTD.,owned_by
+vessel_209,owner_KABUSHIKI KAISHA GOEI MARU,owned_by
+vessel_8771,owner_TUNA VENTURES INC,owned_by
+vessel_12033,"owner_Rongcheng Ocean Fishery Co.,Ltd",owned_by
+vessel_486,owner_GOUDOUGAISHA NAGOMI,owned_by
+vessel_11816,"owner_Sumber Mestika Davindo, PT.",owned_by
+vessel_5349,"owner_TSAI,FA-TSAI",owned_by
+vessel_11802,"owner_PIN CHENG FISHERY CO., LTD",owned_by
+vessel_464,"owner_Higashi,Kazuya",owned_by
+vessel_8805,owner_HUNG WEN-SHIU,owned_by
+vessel_9886,owner_KESENNUMA KANAE GYOGYO KABUSHIKI KAISHA and one other,owned_by
+vessel_9870,owner_KESENNUMA KANAE GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_7162,"owner_SOUTHERN PHILIPPINES TUNA VENTURES, INC.",owned_by
+vessel_511,owner_NOZOMIGYOGYO KABUSHIKIKAISYA,owned_by
+vessel_576,owner_NOZOMIGYOGYO KABUSHIKIKAISHA,owned_by
+vessel_11844,owner_NOZOMIGYOGYO KABUSHIKIKAISHA,owned_by
+vessel_1952,owner_KABUSHIKIKAISYA  SUYASYOTEN,owned_by
+vessel_11208,owner_Fukushimakenmakiamigyogyokyodokumiai,owned_by
+vessel_12051,owner_KABUSHIKIKAISYA SUYASYOTEN,owned_by
+vessel_10683,owner_RYOFUKU INC.,owned_by
+vessel_11795,owner_RYOFUKU INC.,owned_by
+vessel_11821,owner_RYOFUKU INC.,owned_by
+vessel_4376,owner_F/V MIKETTE LLC,owned_by
+vessel_4373,"owner_F/V MARINA, LLC",owned_by
+vessel_10490,"owner_Shandong Zhonglu Oceanic Fisheries Co., Ltd",owned_by
+vessel_10489,"owner_Shandong Zhonglu Oceanic Fisheries Co., Ltd",owned_by
+vessel_11964,owner_DAIEI SUISAN KABUSHIKI KAISYA,owned_by
+vessel_11987,owner_KYOWASUISAN KABUSHIKI KAISHA,owned_by
+vessel_11952,owner_KAISEISUISAN KABUSHIKIKAISHA,owned_by
+vessel_11831,owner_WAJIMAGYOGYO SEISANKUMIAI,owned_by
+vessel_12011,owner_SHOTOKUSUISAN KABUSHIKI KAISHA,owned_by
+vessel_11611,owner_KYOWASUISAN KABUSHIKI KAISHA,owned_by
+vessel_11610,owner_KYOWASUISAN KABUSHIKI KAISHA,owned_by
+vessel_11626,owner_TAIYU GYOGYO KABUSHIKI KAISYA,owned_by
+vessel_11314,owner_TOYOGYOGYO KABUSHIKI KAISHA,owned_by
+vessel_10353,owner_DAIEI SUISAN KABUSHIKI KAISYA,owned_by
+vessel_10495,owner_KYOWASUISAN KABUSHIKIGAISHA,owned_by
+vessel_5426,owner_SEIYO SUISAN KABUSHIKI GAISHA,owned_by
+vessel_10052,owner_TAIYU GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_10385,owner_WAJIMA GYOGYO SEISANKUMIAI,owned_by
+vessel_10386,owner_WAJIMA GYOGYO SEISANKUMIAI,owned_by
+vessel_10388,owner_WAJIMAGYOGYO SEISANKUMIAI,owned_by
+vessel_10400,owner_WAKABAGYOGYO KABUSHIKIGAISHA,owned_by
+vessel_10401,owner_WAKABAGYOGYO KABUSHIKIGAISHA,owned_by
+vessel_1979,owner_TOYOGYOGYO KABUSHIKI KAISHA,owned_by
+vessel_1984,owner_TOYOGYOGYO KABUSHIKI KAISHA,owned_by
+vessel_1986,owner_TOYOGYOGYO KABUSHIKI KAISHA,owned_by
+vessel_1982,owner_TOYOGYOGYO KABUSHIKI KAISHA,owned_by
+vessel_1987,owner_TOYOGYOGYO KABUSHIKI KAISHA,owned_by
+vessel_1964,owner_KYOWA SUISAN KABUSHIKIGAISHA,owned_by
+vessel_1922,owner_KYOWA SUISAN KABUSHIKIGAISHA,owned_by
+vessel_1990,owner_SHOTOKUSUISAN KABUSHIKIKAISHA,owned_by
+vessel_561,owner_DAIEI SUISAN KABUSHIKI KAISYA,owned_by
+vessel_558,owner_DAIEI SUISAN KABUSHIKI KAISYA,owned_by
+vessel_559,owner_DAIEI SUISAN KABUSHIKI KAISYA,owned_by
+vessel_564,owner_DAIEI SUISAN KABUSHIKI KAISYA,owned_by
+vessel_585,owner_TOYOGYOGYO KABUSHIKI KAISYA,owned_by
+vessel_608,owner_TOKAIGYOGYO KABUSHIKIGAISHA,owned_by
+vessel_609,owner_TOKAIGYOGYO KABUSHIKIGAISHA,owned_by
+vessel_610,owner_KYOWASUISAN KABUSHIKI KAISHA,owned_by
+vessel_573,owner_KAISEISUISAN KABUSHIKI KAISHA,owned_by
+vessel_591,owner_SHOTOKUSUISAN KABUSHIKIKAISHA,owned_by
+vessel_605,owner_TAIYU GYOGYO KABUSHIKI KAISYA,owned_by
+vessel_603,owner_TAIYU GYOGYO KABUSHIKI KAISYA,owned_by
+vessel_599,owner_TAIYUGYOGYO KABUSHIKI KAISHA,owned_by
+vessel_596,owner_TAIYU GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_600,owner_OHAMA GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_12080,"owner_Yumoto, Toshimitsu",owned_by
+vessel_12122,owner_KESENNUMA KANAE GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_12045,"owner_Yamasaki, Mitsunori",owned_by
+vessel_12109,owner_KABUSHIKI KAISHA KANEDAI,owned_by
+vessel_12044,"owner_HAMADA GYOGYOBU CO,.LTD",owned_by
+vessel_12071,owner_DAIEIMARU-KK,owned_by
+vessel_11690,owner_MARUNAKA GYOGYO YUGEN KAISHA,owned_by
+vessel_11912,owner_HORI TSUNAYUKI,owned_by
+vessel_12006,owner_YUGENKAISYA HOEI SUISAN,owned_by
+vessel_11887,owner_KESENNUMA KANAE GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_11868,owner_KABUSHIKIKAISHA RYOUYUU SUISAN,owned_by
+vessel_11888,owner_KAKUMAN SUISAN YUGEN KAISHA,owned_by
+vessel_11992,"owner_TAKENAKA SUISAN Co.,Ltd.",owned_by
+vessel_11980,owner_KABUSHIKI KAISHA TAIWA,owned_by
+vessel_12073,owner_TOMIYAMA KOUSEI MARU Inc.,owned_by
+vessel_11742,"owner_YAMASAKI, HIDEKI",owned_by
+vessel_557,owner_DAIEI SUISAN KABUSHIKI KAISYA,owned_by
+vessel_556,owner_DAIEI SUISAN KABUSHIKI KAISYA,owned_by
+vessel_11674,owner_JINSHOU SUISAN INC,owned_by
+vessel_551,owner_SHOTOKUSUISAN KABUSHIKIKAISHA,owned_by
+vessel_11561,owner_SATO GYOGYO SEISANKUMIAI,owned_by
+vessel_11447,owner_KASUGA SUISAN INC,owned_by
+vessel_11376,"owner_MIAMARU Co., Ltd",owned_by
+vessel_11520,owner_SUZUKO GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_11298,owner_KANEGAWASUISAN INC,owned_by
+vessel_11221,owner_MYOJIN SUISAN,owned_by
+vessel_11329,"owner_Yonamine,Hidemasa",owned_by
+vessel_11550,"owner_Nakamura, Satoru",owned_by
+vessel_11032,owner_MARUNAKA GYOGYO YUGEN KAISHA,owned_by
+vessel_10857,owner_HANEI INC,owned_by
+vessel_10453,owner_INO SUISAN KABUSHIKI KAISHA,owned_by
+vessel_10940,"owner_KAIO MARU GYOGYO CO.,LTD",owned_by
+vessel_10533,"owner_YAGITA SUISAN Co.,Ltd",owned_by
+vessel_10981,owner_HIDAKA SUISAN INC,owned_by
+vessel_10630,owner_TAIKI SUISAN YUGEN KAISHA,owned_by
+vessel_11029,owner_TOBESHIMA MARU SUISAN INC.,owned_by
+vessel_10303,"owner_CHOKYU MARU Co.,LTD",owned_by
+vessel_10302,"owner_EIYU CO.,LTD",owned_by
+vessel_9989,"owner_HAMAUE SUISAN CO., LTD",owned_by
+vessel_9889,owner_JINSHOU SUISAN INC.,owned_by
+vessel_10423,owner_TSUKAMOTOKOTOBUKISUISAN INC,owned_by
+vessel_9788,"owner_MIAMARU Co., Ltd",owned_by
+vessel_9697,owner_TSUNO SUISAN INC,owned_by
+vessel_9929,"owner_Tanaka,Kohkan",owned_by
+vessel_10110,owner_HONDOUSUISAN INC,owned_by
+vessel_10381,owner_TOMIYAMA KOUSEI MARU INC.,owned_by
+vessel_5950,"owner_Yamashiro,Hisayoshi; Yamashiro,Shu",owned_by
+vessel_9021,owner_ANRAKU SUISAN INC,owned_by
+vessel_9249,owner_HANEI INC.,owned_by
+vessel_8914,owner_HINODE MARU INC.,owned_by
+vessel_5943,owner_KAZUYOUMARU LLC,owned_by
+vessel_8915,"owner_Kidu,Kenji",owned_by
+vessel_8916,owner_KICHIEBISU MARU Inc.,owned_by
+vessel_4575,"owner_Okumura,Tsuyoshi",owned_by
+vessel_9582,"owner_NAKAMURA GYOGYO CO.,LTD",owned_by
+vessel_9020,"owner_Ishihara,Naoki",owned_by
+vessel_8926,owner_YUGEN KAISHA NISSHO,owned_by
+vessel_5938,owner_OSAMU WAKIMOTO,owned_by
+vessel_8929,"owner_TSUNO SUISAN CO.,LTD",owned_by
+vessel_4488,owner_YUUGENGAISHA SEIRYOMARU,owned_by
+vessel_9583,owner_YUGEN KAISHA TOCHIKA SUISAN,owned_by
+vessel_8933,"owner_TAIKEIMARU SUISAN Co,Ltd",owned_by
+vessel_5951,owner_YOSHIDA KIYOSHI SHOTEN CO. LTD,owned_by
+vessel_4581,"owner_Umazume,Yoshinobu",owned_by
+vessel_9084,owner_YUGEN KAISHA TERU MARU SUISAN,owned_by
+vessel_5933,owner_TOMI MARU SUISAN INC,owned_by
+vessel_9019,owner_YOSHIEI MARU INC,owned_by
+vessel_1878,"owner_Oguro,Kunihiro",owned_by
+vessel_1855,owner_DAIYU SUISAN INC.,owned_by
+vessel_1875,owner_DAIHACHI HIRO MARU INC.,owned_by
+vessel_1852,owner_IKUSHINMARU LLC,owned_by
+vessel_1877,owner_ITIMASA SUISAN Inc.,owned_by
+vessel_1850,"owner_Ooyama Suisan Co., Ltd.",owned_by
+vessel_1863,"owner_Koresawa,Takayuki",owned_by
+vessel_1864,"owner_Hirasaka,Toshiyuki",owned_by
+vessel_1881,"owner_Hasegawa,Masayasu",owned_by
+vessel_1869,owner_KUNIMARU SUISAN INC,owned_by
+vessel_1870,owner_MIHOKOMARU SUISAN INC.,owned_by
+vessel_1860,"owner_Kurogi, Mitsutaka",owned_by
+vessel_1847,"owner_Tsunosuisan Co., LTD.",owned_by
+vessel_1858,"owner_Tanbo,Satosi",owned_by
+vessel_1882,owner_TATSUMARU GYOGYOU SEISAN KUMIAI,owned_by
+vessel_1859,"owner_Yamamoto,Shinichi",owned_by
+vessel_1769,owner_FUKUTOKU SUISAN INC,owned_by
+vessel_1801,"owner_Yamashiro,Hiroyuki",owned_by
+vessel_1772,owner_KAITOKU SUISAN INC,owned_by
+vessel_1770,owner_KOHYOH SUISAN INC,owned_by
+vessel_1798,"owner_Nagamine,Mieko",owned_by
+vessel_1781,owner_KAWAKAMI SUISAN INC,owned_by
+vessel_1802,"owner_IREI,KAORU",owned_by
+vessel_1788,"owner_Higa,Toshio",owned_by
+vessel_1821,"owner_Maedomari,Katsuhiko",owned_by
+vessel_1822,"owner_Nishizato,Hiraku",owned_by
+vessel_1735,owner_SUGIMOTO SUISAN INC,owned_by
+vessel_1763,"owner_Nakamura, Osamu",owned_by
+vessel_1728,owner_FUKUTOKU SUISAN INC,owned_by
+vessel_1705,owner_Nishida Hisayuki,owned_by
+vessel_1731,owner_WATANABE SUISAN INC,owned_by
+vessel_1716,"owner_Nishida,Koji",owned_by
+vessel_1703,"owner_Nakashima,Tsunatoshi",owned_by
+vessel_1730,owner_KOTOSHIRO SUISAN INC,owned_by
+vessel_1690,"owner_Ishida,Shogo",owned_by
+vessel_1727,owner_IWAKIRI SUISAN INC,owned_by
+vessel_1681,owner_YUGEN KAISHA MYOJIN MARU,owned_by
+vessel_1695,"owner_Kiyota,Yasushi",owned_by
+vessel_1720,"owner_Tsukasa, Kaneyasu",owned_by
+vessel_1616,owner_KAIYO BUSAN KABUSHIKI KAISHA,owned_by
+vessel_1613,owner_YAMASHIRO KAZUNORI,owned_by
+vessel_1588,"owner_EIYU MARU SUISAN CO.,LTD",owned_by
+vessel_1602,owner_MASAHITO UMADUME,owned_by
+vessel_1605,"owner_TOSAYO CO.,LTD",owned_by
+vessel_1593,owner_YUGENGAISHA MASAMI MARU,owned_by
+vessel_1590,"owner_MIAMARU Co., Ltd",owned_by
+vessel_1632,owner_YUGENGAISHA OOGUROSUISAN,owned_by
+vessel_1604,owner_YUGEN KAISHA NAKAMURA GYOGYO,owned_by
+vessel_1607,owner_KAORU SHIMIZU,owned_by
+vessel_1614,owner_YUGEN KAISHA TOCHIKA SUISAN,owned_by
+vessel_1642,"owner_Murata,Katunori",owned_by
+vessel_1597,owner_KAIYO BUSAN KABUSHIKI KAISHA,owned_by
+vessel_1598,owner_KAIYO BUSAN KABUSHIKI KAISHA,owned_by
+vessel_1586,owner_DAIKI GYOGYOU INC.,owned_by
+vessel_1473,owner_JINTOKU SUISAN INC,owned_by
+vessel_1502,owner_YUGEN KAISHA KIYO MARU SUISAN,owned_by
+vessel_1495,owner_YUGEN KAISHA KOEI SUISAN,owned_by
+vessel_1557,"owner_Takemura,Kazuya",owned_by
+vessel_1551,"owner_Fukushima,Kiyoshi",owned_by
+vessel_1501,owner_YUGEN KAISHA NAKANO SUISAN,owned_by
+vessel_1486,owner_YUGEN KAISHA SUEHIRO SUISAN,owned_by
+vessel_1499,"owner_Yamamoto, Shinichi",owned_by
+vessel_1500,owner_YUGEN KAISHA YOSHIMARU SUISAN,owned_by
+vessel_1552,"owner_Umadume,Masahito",owned_by
+vessel_1462,owner_EIKO MARU INC,owned_by
+vessel_1456,owner_KODAMA SUISAN INC,owned_by
+vessel_1460,"owner_Ohashi,Tetsuya",owned_by
+vessel_1437,"owner_YOSHIDA KIYOSHI SHOTEN CO.,LTD",owned_by
+vessel_1435,"owner_ICHIMARU CO,LTD",owned_by
+vessel_1461,owner_TOBESHIMA MARU SUISAN INC,owned_by
+vessel_1458,owner_TOMI MARU SUISAN INC.,owned_by
+vessel_1391,owner_TOYOKUNIMARU GYOGYO SEISAN KUMIAI,owned_by
+vessel_1315,"owner_KAIYO FISHERY CO., LTD",owned_by
+vessel_1332,"owner_HAMAKO SUISAN  CO,.LTD",owned_by
+vessel_517,"owner_Yamauchi,Hirokuni",owned_by
+vessel_526,"owner_SHIMOZATO, WATARU",owned_by
+vessel_447,"owner_CHOKYU MARU CO.,LTD",owned_by
+vessel_467,owner_YUGENKAISHA GENKICHI MARU GYOGYO,owned_by
+vessel_465,owner_YUGEN KAISHA JINICHI MARU GYOGYO,owned_by
+vessel_475,"owner_KATSU MARU CO.,LTD",owned_by
+vessel_487,"owner_Wada,Masatoshi",owned_by
+vessel_455,"owner_Hashimoto ,Mikio ; Hashimoto,Kouihi",owned_by
+vessel_489,"owner_Matsushima,Masataka",owned_by
+vessel_492,owner_MINAMARU Inc.,owned_by
+vessel_496,"owner_Hashimoto,Kazutsugi",owned_by
+vessel_449,"owner_Ishikura, Takafumi",owned_by
+vessel_491,"owner_Takebayashi,Kazuhito",owned_by
+vessel_450,"owner_Mizutani,Ko",owned_by
+vessel_451,"owner_Takemura,Norihiro",owned_by
+vessel_456,"owner_Higashi,Satoru",owned_by
+vessel_463,"owner_Yamamoto,Shinichi",owned_by
+vessel_466,owner_YUGENGAISHA YASUICHIMARU,owned_by
+vessel_458,"owner_UMADUME SHIPYARD Co., Ltd.",owned_by
+vessel_407,owner_TAIYO A & F KABUSHIKIGAISHA,owned_by
+vessel_530,"owner_RYOYUMARU SUISAN CO.,LTD",owned_by
+vessel_340,"owner_CHOKYUMARU CO.,LTD",owned_by
+vessel_341,"owner_CHOKYUMARU CO.,LTD",owned_by
+vessel_342,"owner_CHOKYUMARU CO.,LTD",owned_by
+vessel_346,"owner_CHOKYUMARU CO.,LTD",owned_by
+vessel_331,owner_Hakuyo Gyogyo Kabushiki Kaisha,owned_by
+vessel_336,owner_KUSHIKINO MAGURO KABUSHIKI KAISHA;HAMASAKI SUISAN YUGEN KAISHA,owned_by
+vessel_294,"owner_MARUYOGYOGYOBU CO.,LTD",owned_by
+vessel_237,owner_MEIHO GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_197,"owner_KOUEI GYOGYO CO.,LTD",owned_by
+vessel_199,owner_KABUSHIKIKAISHA KANEDAI,owned_by
+vessel_11938,owner_TOYOGYOGYO KABUSHIKIKAISHA,owned_by
+vessel_10379,owner_TOYOGYOGYO KABUSHIKI KAISHA,owned_by
+vessel_1981,owner_TOYOGYOGYO KABUSHIKI KAISHA,owned_by
+vessel_1969,owner_KAISEISUISAN KABUSHIKIKAISHA,owned_by
+vessel_1655,owner_KAISEISUISAN KABUSHIKI KAISHA,owned_by
+vessel_1653,owner_KAISEISUISAN KABUSHIKIKAISHA,owned_by
+vessel_11669,owner_SHOTOKUSUISAN KABUSHIKIKAISYA,owned_by
+vessel_11670,owner_SHOTOKUSUISAN KABUSHIKIKAISHA,owned_by
+vessel_583,owner_SHOTOKUSUISAN KABUSHIKI KAISHA,owned_by
+vessel_584,owner_SHOTOKUSUISAN KABUSHIKI KAISHA,owned_by
+vessel_604,owner_OHAMA GYOGYO KABUSHIKI KAISHA,owned_by
+vessel_11399,owner_DAISHIN INC.,owned_by
+vessel_1464,owner_HOSHIN MARU INC.,owned_by
+vessel_1466,owner_SEIYOU MARU INC.,owned_by
+vessel_10999,owner_MURATA GYOGYO  KABUSHIKI KAISHA,owned_by
+vessel_1465,owner_SEIYOSHI MARU INC.,owned_by
+vessel_1840,"owner_Kurogi,Akio",owned_by
+vessel_1842,owner_CHOFUKU SUISAN INC.,owned_by
+vessel_1469,owner_RYUKI SUISAN INC.,owned_by
+vessel_532,owner_KAISHIN MARU INC.,owned_by
+vessel_531,owner_YUGEN KAISHA NAOKI SUISAN,owned_by
+vessel_4477,owner_TAWARA SUISAN INC.,owned_by
+vessel_9692,owner_KABUSHIKI KAISHA HASHIMOTO SUISAN,owned_by
+vessel_11801,owner_KATSUFUKU SUISAN INC,owned_by
+vessel_11870,owner_TAWARA SUISAN INC.,owned_by
+vessel_304,owner_KABUSHIKI KAISHA ISOMAEGYOGYOSHO,owned_by
+vessel_11378,owner_KOSHIN SUISAN INC,owned_by
+vessel_1862,owner_KUBOSAKI SUISAN INC,owned_by
+vessel_1843,owner_YUGEN KAISHA KATSU SUISAN,owned_by
+vessel_11978,owner_KABUSIKIKAISYA KINTORAMARUGYOGYOU KOBESITEN,owned_by
+vessel_9787,"owner_KATSU MARU CO.,LTD",owned_by
+vessel_1463,"owner_Shoji,Tadayuki.",owned_by
+vessel_5934,"owner_Yukawa,Satomi",owned_by
+vessel_11035,"owner_Kawabata,Nobuhiro",owned_by
+vessel_3828,"owner_WU, YU-HAN",owned_by
+vessel_2831,"owner_JANG, DWENG-TYAU",owned_by
+vessel_5714,owner_F/V WENDY SEAA LLC,owned_by
+vessel_4258,owner_FISHING VESSEL MAVERICK LLC,owned_by
+vessel_2164,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_8847,"owner_JI SUNG SHIPPING CO., LTD.",owned_by
+vessel_11307,"owner_JISUNG SHIPPING CO., LTD",owned_by
+vessel_12070,"owner_Penglai Jinglu Fisheries Co.,Ltd.",owned_by
+vessel_432,"owner_SEA SKY MULSAN CO., LTD.",owned_by
+vessel_282,"owner_SEA SKY MULSAN CO., LTD.",owned_by
+vessel_2940,"owner_CHEN SUN, MEI-YU",owned_by
+vessel_9561,"owner_HE, MING-YANG",owned_by
+vessel_11554,owner_CHARCA FISH IX LLC,owned_by
+vessel_12034,"owner_Rongcheng Ocean Fishery Co.,Ltd",owned_by
+vessel_9948,owner_LEKO PACIFIC MANAGEMENT LIMITED,owned_by
+vessel_9947,owner_LEKO PACIFIC MANAGEMENT LIMITED,owned_by
+vessel_2978,"owner_SU, CHING-FA",owned_by
+vessel_10876,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_11434,owner_TRINITY HOME INDUSTRIAL DEV'T. CORP. (THIDCOR),owned_by
+vessel_2377,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_2376,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_2375,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_10978,owner_Sancho S. Villagonzalo/Fatima Fishing,owned_by
+vessel_11832,owner_GONEDAU ENTERPRISES PTE LTD,owned_by
+vessel_2856,"owner_CHEN, KUN-JI",owned_by
+vessel_11981,owner_ROSEMARIE A. VILLAGONZALO,owned_by
+vessel_10929,owner_ROSEMARIE A. VILLAGONZALO/FATIMA FISHING VENTURES,owned_by
+vessel_10931,owner_ROSEMARIE A. VILLAGONZALO,owned_by
+vessel_11633,owner_ROSEMARIE VILLAGONZALO,owned_by
+vessel_7143,"owner_SOUTHERN PHILIPPINES TUNA VENTURES, INC.",owned_by
+vessel_10506,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_10653,owner_TRINITY HOME INDUSTRIAL DEVELOPMENT CORPORATION,owned_by
+vessel_10779,owner_Trinity Home Industrial Development Corp. (THIDCOR),owned_by
+vessel_4073,"owner_Palu, Eddie & Rosemary",owned_by
+vessel_8803,owner_CHENG CHUN HUI,owned_by
+vessel_1625,owner_WHITE PEARL TRADERS LIMITED,owned_by
+vessel_2144,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_3952,owner_F/V DALENA INC,owned_by
+vessel_12102,"owner_ZHEJIANG HENGHONG SHIPPING CO.,LTD.",owned_by
+vessel_11009,"owner_JI SUNG SHIPPING CO., LTD.",owned_by
+vessel_8870,"owner_JI SUNG SHIPPING CO., LTD.",owned_by
+vessel_8666,"owner_JI SUNG SHIPPING CO., LTD.",owned_by
+vessel_2813,"owner_SHEU, JHE-MING",owned_by
+vessel_5408,"owner_CHERN, SHUENN TYAN",owned_by
+vessel_5153,owner_HE SHUN FISHING COMPANY PTE LTD,owned_by
+vessel_2726,"owner_CHERN LI, SHENG-JUH",owned_by
+vessel_3871,"owner_CHEN, YU CHIN",owned_by
+vessel_8788,owner_TUNA VENTURES INC,owned_by
+vessel_2211,owner_OYANG CORPORATION,owned_by
+vessel_5436,owner_OYANG CORPORATION,owned_by
+vessel_2163,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_2162,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_2159,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_2158,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_2157,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_2156,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_2155,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_2153,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_2152,"owner_SAJO INDUSTRIES CO., LTD.",owned_by
+vessel_3721,"owner_KANG, WEN-SHENG",owned_by
+vessel_9396,"owner_CHEN, QI-ZHONG",owned_by
+vessel_11170,owner_SOUTH PACIFIC DEEP SEA VENTURES CORPORATION,owned_by
+vessel_9223,owner_RD Tuna Venture Inc.,owned_by
+vessel_12089,"owner_RONGCHENG CITY RONGYUAN FISHERY CO.,LTD",owned_by
+vessel_12088,"owner_RONGCHENG CITY RONGYUAN FISHERY CO.,LTD",owned_by
+vessel_11325,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_10133,"owner_CHARCA FISH V, LLC",owned_by
+vessel_10132,"owner_CHARCA FISH IV, LLC",owned_by
+vessel_10131,"owner_CHARCA FISH VI, LLC",owned_by
+vessel_4267,owner_PACIFIC HORIZON FISHING LLC,owned_by
+vessel_3849,"owner_CHEN, SHIN-DEAN",owned_by
+vessel_3496,"owner_CHEN, CHIH-PIN",owned_by
+vessel_10156,"owner_TSAI HUANG, MEI-KUEI",owned_by
+vessel_3402,"owner_LIN, JHIH-SHENG",owned_by
+vessel_9533,owner_FRABELLE FISHING CORPORATION,owned_by
+vessel_3545,"owner_LI, WOEI-REN",owned_by
+vessel_11544,owner_Fujian Changfeng Fishery Co. Ltd,owned_by
+vessel_11545,owner_Fujian Changfeng Fishery Co. Ltd,owned_by
+vessel_3845,"owner_LIN, CHIH-HSIEN",owned_by
+vessel_8850,"owner_JI SUNG SHIPPING CO., LTD.",owned_by
+vessel_7148,owner_RRCS Marine and Indistrial Development Corporation,owned_by
+vessel_7149,owner_Rell and Renn Fishing Corporation,owned_by
+vessel_919,"owner_AGNES FISHERIES CO.,LTD",owned_by
+vessel_11108,"owner_Qingdao Furui Fisheries Co.,Ltd",owned_by
+vessel_11107,"owner_Qingdao Furui Fisheries Co.,Ltd",owned_by
+vessel_11106,"owner_Qingdao Furui Fisheries Co.,Ltd",owned_by
+vessel_11105,"owner_Qingdao Furui Fisheries Co.,Ltd",owned_by
+vessel_11104,"owner_Qingdao Furui Fisheries Co.,Ltd",owned_by
+vessel_9031,owner_Sunshine Fisheries Pte Ltd,owned_by
+vessel_9470,"owner_JI SUNG SHIPPING CO., LTD.",owned_by
+vessel_7167,owner_Rell and Renn Fishing Corporation,owned_by
+vessel_9284,owner_RELL & RENN FISHING CORPORATION,owned_by
+vessel_7174,owner_RRCS Marine and Industrial Development Corporation,owned_by
+vessel_11177,owner_LI XINGFU,owned_by
+vessel_11178,owner_ZHENG YUNFANG,owned_by
+vessel_11179,owner_LIN ZUOWEI,owned_by
+vessel_11180,owner_CHEN XIANZHONG,owned_by
+vessel_11181,owner_WU MINGGUI,owned_by
+vessel_7155,owner_Rell and Renn Fishing Corporation,owned_by
+vessel_11182,owner_LIN CHUNHUA,owned_by
+vessel_11184,owner_YAN KEMIAO,owned_by
+vessel_11185,owner_CHEN XINLAI,owned_by
+vessel_11186,owner_CHEN XINGUO,owned_by
+vessel_11188,owner_MAO GENYUN,owned_by
+vessel_11189,owner_JIANG XIAOEN,owned_by
+vessel_11190,owner_JIANG YUFANG,owned_by
+vessel_11192,owner_TANG ZUOSEN,owned_by
+vessel_11194,owner_WU LUOFU,owned_by
+vessel_11195,owner_SUN ZHONGYUAN,owned_by
+vessel_11187,owner_SUN XIAO FU,owned_by
+vessel_7173,owner_RRCS Marine and Industrial Development Corporation,owned_by
+vessel_11874,owner_RELL & RENN FISHING CORPORATION,owned_by
+vessel_11103,"owner_Qingdao Furui Fisheries Co.,Ltd",owned_by
+vessel_2863,"owner_LI, NAN-TIEN",owned_by
+vessel_5595,owner_SCA TUANUI,owned_by
+vessel_5600,owner_SCA VOLUNTAS DEI,owned_by
+vessel_5156,owner_Hangton Pacific Co Pte Ltd,owned_by
+vessel_8714,owner_WISTAR FIJI LTD,owned_by
+vessel_2140,"owner_SEA SKY MULSAN CO., LTD.",owned_by
+vessel_9304,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_1026,owner_FRABELLE FISHING CORPORATION,owned_by
+vessel_1013,owner_FRABELLE FISHING CORPORATION,owned_by
+vessel_9028,owner_Sunshine Fisheries Pte Ltd,owned_by
+vessel_11449,"owner_SEONGWON SHIPPING CO., LTD.",owned_by
+vessel_12052,owner_Shanghai Ocean University,owned_by
+vessel_10748,owner_LU QINGSONG,owned_by
+vessel_12053,owner_DAIKOKUMARU SUISAN,owned_by
+vessel_1660,"owner_SEA SKY MULSAN CO., LTD.",owned_by
+vessel_9303,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_9302,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_92,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_90,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_88,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_9747,owner_Fuzhou Honglong Ocean Fishery Co.Ltd,owned_by
+vessel_1555,"owner_TANAKA FISHERIES CO., Ltd",owned_by
+vessel_12024,"owner_Fujian Pingtan County Ocean Fishery Group Co.,Ltd.",owned_by
+vessel_10960,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_12023,"owner_Fujian Pingtan County Ocean Fishery Group Co.,Ltd.",owned_by
+vessel_11252,owner_FATIMA FISHING/SANCHO S. VILLAGONZALO,owned_by
+vessel_10959,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_10640,owner_RLGFI CORPORATION,owned_by
+vessel_11203,owner_RLGFI CORPORATION,owned_by
+vessel_11202,owner_RLGFI CORPORATION,owned_by
+vessel_10932,owner_ROSEMARIE A. VILLAGONZALO,owned_by
+vessel_11781,"owner_Multi Indofish, PT.",owned_by
+vessel_11780,"owner_Multi Indofish, PT.",owned_by
+vessel_11489,"owner_Multi Indofish, PT.",owned_by
+vessel_8957,owner_JV3 MARINE CORPORATION,owned_by
+vessel_1051,owner_FRABELLE FISHING CORPORATION,owned_by
+vessel_1039,owner_FRABELLE FISHING CORPORATION,owned_by
+vessel_10493,owner_FRABELLE FISHING CORPORATION,owned_by
+vessel_10942,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_10568,"owner_SHANGHAI DEEP SEA FISHERIES CO.,LTD",owned_by
+vessel_10567,"owner_SHANGHAI DEEP SEA FISHERIES CO.,LTD",owned_by
+vessel_4875,"owner_SHANGHAI DEEPSEA FISHIERES CO.,LTD",owned_by
+vessel_10943,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_10944,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_10945,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_10947,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_10956,owner_TRANS-PACIFIC JOURNEY FISHING CORP.,owned_by
+vessel_3611,"owner_CHERN, HUEY-FANG",owned_by
+vessel_4405,"owner_Dalian Jinguang Fishery Co., Ltd.",owned_by
+vessel_4404,"owner_Dalian Jinguang Fishery Co., Ltd.",owned_by
+vessel_7150,"owner_SOUTHERN PHILIPPINES TUNA VENTURES, INC.",owned_by
+vessel_66,"owner_Dalian Ocean Fishing Co.,Ltd",owned_by
+vessel_69,"owner_Dalian Ocean Fishing Co.,Ltd",owned_by
+vessel_10730,owner_Chen HaiGuo,owned_by
+vessel_9532,owner_FRABELLE FISHING CORPORATION,owned_by
+vessel_12009,owner_NAVIMON,owned_by
+vessel_11940,owner_Navimon,owned_by
+vessel_11941,owner_Navimon,owned_by
+vessel_12010,owner_Navimon,owned_by
+vessel_11960,owner_Navimon,owned_by
+vessel_12020,owner_Navimon,owned_by
+vessel_11773,owner_Navimon,owned_by
+vessel_11772,owner_Navimon,owned_by
+vessel_11849,owner_Armement Du Nord,owned_by
+vessel_11848,owner_Armement Du Nord,owned_by
+vessel_11847,owner_Armement Du Nord,owned_by
+vessel_11528,"owner_ISIDRO B. UY, JR.",owned_by
+vessel_11522,"owner_ISIDRO B. UY, JR.",owned_by
+vessel_10777,owner_Trinity Home Industrial Development Corporation,owned_by
+vessel_9777,owner_Rising Fisheries Pte Ltd,owned_by
+vessel_11204,owner_RLGFI CORPORATION,owned_by
+vessel_10916,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_10865,owner_Yang Junhai,owned_by
+vessel_2129,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_12025,owner_Fuzhou Honglong Ocean Fishery Co.Ltd,owned_by
+vessel_2120,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_5416,"owner_LAY, WEY-NENG",owned_by
+vessel_11088,"owner_Shanghai Deepsea Fisheries Co.,Ltd.",owned_by
+vessel_98,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_12016,"owner_ZHUHAI DONGGANGXING OCEAN FISHING CO.,LTD.",owned_by
+vessel_12012,"owner_ZHUHAI DONGGANGXING OCEAN FISHING CO.,LTD.",owned_by
+vessel_12013,"owner_ZHUHAI DONGGANGXING OCEAN FISHING CO.,LTD.",owned_by
+vessel_9828,owner_HANGTON PACIFIC COMPANY PTE LTD,owned_by
+vessel_10737,owner_ShengWanLin,owned_by
+vessel_10390,"owner_SEA SKY MULSAN CO., LTD.",owned_by
+vessel_11991,"owner_GSM CO., LTD",owned_by
+vessel_5664,owner_MASADA HOLDINGS LTD.,owned_by
+vessel_7637,owner_MASADA HOLDINGS LTD,owned_by
+vessel_5792,owner_SNOWFALL FISHING CO. LTD.,owned_by
+vessel_11984,owner_David Jennings,owned_by
+vessel_1119,"owner_SOUTH SEA FISHING VENTURES PHILIPPINES, INC.",owned_by
+vessel_3901,owner_WU MING LANG,owned_by
+vessel_1114,"owner_RD TUNA VENTURES, INC.",owned_by
+vessel_11988,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_7218,owner_RRCS Marine and Indistrial Development Corporation,owned_by
+vessel_11979,owner_KANZAKI SUISAN KABUSHIKI KAISHA,owned_by
+vessel_10627,"owner_Dalian Ocean Fishing Co.,ltd",owned_by
+vessel_2122,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_2117,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_7802,owner_RED SKY FISHING CO LTD,owned_by
+vessel_6973,owner_R. MICHAELS INC.,owned_by
+vessel_11089,"owner_SHANGHAI DEEPSEA FISHERIES CO.,LTD.",owned_by
+vessel_11080,owner_HOKKAIDO RESEARCH ORGANIZATION,owned_by
+vessel_11947,"owner_Fuzhou Honglong Ocean Fishery Co.,Ltd.",owned_by
+vessel_68,"owner_Dalian Ocean Fishing Co.,Ltd",owned_by
+vessel_11536,"owner_FUJIAN PINGTAN COUNTY OCEAN FISHERY GROUP CO.,LTD",owned_by
+vessel_11535,"owner_FUJIAN PINGTAN COUNTY OCEAN FISHERY GROUP CO.,LTD",owned_by
+vessel_11534,"owner_FUJIAN PINGTAN COUNTY OCEAN FISHERY GROUP CO.,LTD",owned_by
+vessel_11533,"owner_FUJIAN PINGTAN COUNTY OCEAN FISHERY GROUP CO.,LTD",owned_by
+vessel_11537,"owner_FUZHOU HONGLONG OCEAN FISHING CO.,LTD",owned_by
+vessel_11538,"owner_FUZHOU HONGLONG OCEAN FISHING CO.,LTD",owned_by
+vessel_10806,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_2119,"owner_DONGWON INDUSTRIES Co., Ltd",owned_by
+vessel_10498,owner_TRANS-PACIFIC JOURNEY FISHING CORPORATION,owned_by
+vessel_11919,owner_EUTHYNNUS VENTURE CORPORATION,owned_by
+vessel_11523,"owner_ISIDRO B. UY, JR.",owned_by
+vessel_1056,owner_Newport Fishing Corporation,owned_by
+vessel_1040,owner_FRABELLE FISHING CORPORATION,owned_by
+vessel_1054,owner_FFC SUBIC SEAFOODS CORPORATION,owned_by
+vessel_9587,owner_DIAMOND EXPORT CORPORATION,owned_by
+vessel_109,"owner_Dalian Changhai Ocean-going Fisheries Co.,Ltd",owned_by
+vessel_10899,"owner_Qingdao Furui Fisheries Co.,Ltd",owned_by
+vessel_11886,"owner_Fujian Pingtan County Ocean Fishery Group Co.,Ltd.",owned_by
+vessel_10743,owner_Jin XiaoWa,owned_by
+vessel_9216,owner_Sirichai Shipping Lines Company Limited,owned_by
+vessel_11877,"owner_Fuzhou Honglong Ocean Fishery Co.,Ltd.",owned_by
+vessel_11876,"owner_Fuzhou Honglong Ocean Fishery Co.,Ltd.",owned_by
+vessel_11875,"owner_Fuzhou Honglong Ocean Fishery Co.,Ltd.",owned_by
+vessel_10745,owner_Chen DeLang,owned_by
+vessel_7261,"owner_SOUTHERN PHILIPPINES TUNA VENTURES, INC.",owned_by
+vessel_29,"owner_DALIAN OCEAN FISHING CO.,LTD.",owned_by
+vessel_112,"owner_DALIAN CHANGHAI OCEAN-GOING FISHERIES CO.,LTD",owned_by
+vessel_10602,"owner_QINGDAO FURUI FISHERIES CO.,LTD",owned_by
+vessel_10744,owner_jin ju fen,owned_by
+vessel_11441,owner_Lin Yue zu,owned_by
+vessel_10742,owner_Liu BinYong,owned_by
+vessel_10739,owner_Lin AZhong,owned_by
+vessel_9590,"owner_FUJIAN PROVINCE CHANGFU FISHERY CO.,LTD",owned_by
+vessel_9589,"owner_FUJIAN PROVINCE CHANGFU FISHERY CO.,LTD",owned_by
+vessel_9746,"owner_FUJIAN PROVINCE CHANGFU FISHERY CO.,LTD",owned_by
+vessel_9554,"owner_FUJIAN PROVINCE CHANGFU FISHERY CO.,LTD",owned_by
+vessel_9553,"owner_FUJIAN PROVINCE CHANGFU FISHERY CO.,LTD",owned_by
+vessel_2266,owner_SAS Pescana,owned_by
+vessel_10649,owner_SAS Baby Blue,owned_by
+vessel_10648,owner_SAS Baby Blue,owned_by
+vessel_2,"owner_DALIAN OCEAN FISHING CO.,LTD.",owned_by
+vessel_3,"owner_DALIAN OCEAN FISHING CO.,LTD.",owned_by
+vessel_10629,"owner_Dalian Ocean Fishing Co.,ltd",owned_by
+vessel_10628,"owner_Dalian Ocean Fishing Co.,ltd",owned_by
+vessel_10626,"owner_Dalian Ocean Fishing Co.,ltd",owned_by
+vessel_25,"owner_Dalian Ocean Fishing CO.,LTD",owned_by
+vessel_11385,owner_JJV FISHING,owned_by
+vessel_10458,owner_RLGFI CORPORATION,owned_by
+vessel_11794,"owner_SOUTHERN PHILIPPINES TUNA VENTURES, INC.",owned_by
+vessel_11491,"owner_SOUTHERN PHILIPPINES TUNA VENTURES, INC.",owned_by
+vessel_11345,owner_RLGFI CORPORATION,owned_by
+vessel_953,"owner_HAN CHANG FISHERIES CO., LTD.",owned_by
+vessel_4618,"owner_DALIAN OCEAN FISHING CO.,LTD.",owned_by
+vessel_4602,"owner_DALIAN OCEAN FISHING CO.,LTD.",owned_by
+vessel_7141,"owner_Southern Philippines Tuna Ventures, Inc.",owned_by
+vessel_11201,owner_RLGFI CORPORATION,owned_by
+vessel_10928,owner_ROSEMARIE A. VILLAGONZALO/FATIMA FISHING VENTURES,owned_by
+vessel_9570,owner_TSP Marine Industries,owned_by
+vessel_9535,owner_FRABELLE FISHING CORPORATION,owned_by
+vessel_2415,owner_TSP LIVESTOCK & DEVELOPMENT CORPORATION,owned_by
+vessel_1064,owner_Newport Fishing Corporation,owned_by
+vessel_1060,owner_Newport Fishing Corporation,owned_by
+vessel_7223,"owner_Southern Philippines Tuna Ventures, Inc.",owned_by
+vessel_7232,"owner_SOUTHERN PHILIPPINES TUNA VENTURES, INC.",owned_by
+vessel_2371,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_10491,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_11364,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_11363,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_11365,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_10849,"owner_Shenzhen Shengang Overseas Industrial Co., Ltd",owned_by
+vessel_11698,"owner_DALIAN OCEAN FISHING CO.,LTD.",owned_by
+vessel_74,"owner_Dalian Ocean Fishing Co.,Ltd",owned_by
+vessel_11506,owner_ROBERT P. ONG,owned_by
+vessel_10975,owner_JJV FISHING/JOSELITO P. VENDIVIL,owned_by
+vessel_11631,owner_ROBERT P. ONG,owned_by
+vessel_11254,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_10426,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_11466,owner_JJV FISHING/JOSELITO P. VENDIVIL,owned_by
+vessel_2370,"owner_NH AGRO INDUSTRIAL, INC.",owned_by
+vessel_11697,"owner_DALIAN OCEAN FISHING CO.,LTD.",owned_by
+vessel_9903,owner_SEA QUEST VESSEL LEASING LTD,owned_by
+vessel_75,"owner_Dalian Ocean Fishing Co.,Ltd",owned_by
+vessel_67,"owner_Dalian Ocean Fishing Co.,Ltd",owned_by
+vessel_28,"owner_DALIAN OCEAN FISHING CO.,LTD.",owned_by
+vessel_10734,owner_Ma GuoPing,owned_by
+vessel_23,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_22,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_4594,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_9009,"owner_CNFC OVERSEAS FISHERIES CO., LTD",owned_by
+vessel_957,"owner_HYESEUNG FISHERIES CO.,LTD",owned_by
+vessel_10726,owner_Chen YongPing,owned_by
+vessel_7201,owner_TSP LIVESTOCK & DEV`T. CORP./TSP MARINE INDUSTRIES,owned_by
+vessel_10930,owner_ROSEMARIE A. VILLAGONZALO/FATIMA FISHING VENTURES,owned_by
+vessel_10864,owner_Wang Jianli,owned_by
+vessel_10854,owner_Luo Haijun,owned_by
+vessel_10996,owner_JJV FISHING/JOSELITO P. VENDIVIL,owned_by
+vessel_10977,owner_JJV FISHING/JOSELITO P. VENDIVIL,owned_by
+vessel_10976,owner_JJV FISHING/JOSELITO P. VENDIVIL,owned_by
+vessel_10513,owner_ROYAL PACIFIC RIM FISHING CORP.,owned_by
+vessel_9047,owner_SHANGHAI JINYOU DEEP SEA FISHERIES CO.LTD,owned_by
+vessel_11442,owner_Tang xiu guo,owned_by
+vessel_10872,owner_Wang Shiguo,owned_by
+vessel_10871,owner_Chen Pingan,owned_by
+vessel_10870,owner_Wang Rulun,owned_by
+vessel_10868,owner_Jin Fengping,owned_by
+vessel_10867,owner_Luo Meiliang,owned_by
+vessel_10731,owner_Shen Xianfeng,owned_by
+vessel_10862,owner_Zhu Hekuan,owned_by
+vessel_10856,owner_Zhong Rongyang,owned_by
+vessel_10738,owner_Xie YunFang,owned_by
+vessel_11183,owner_LIN LINGBIN,owned_by
+vessel_11198,owner_XU FUYUN,owned_by
+vessel_11191,owner_CHEN YUYOU,owned_by
+vessel_11193,owner_Li Enfu,owned_by
+vessel_11196,owner_XU YEMING,owned_by
+vessel_11197,owner_XU XIAOQING,owned_by
+vessel_11176,owner_RUAN JINSHENG,owned_by
+vessel_4599,"owner_Shandong Zhonglu Oceanic Fisheries Co., Ltd.",owned_by
+vessel_4598,"owner_Shandong Zhonglu Oceanic Fisheries Co., Ltd.",owned_by
+vessel_10826,"owner_SHANDONG ZHONGLU OCEANIC FISHERIES CO., LTD",owned_by
+vessel_10674,"owner_RONGCHENG YONGJIN AQUATIC CO.,LTD",owned_by
+vessel_10673,"owner_RONGCHENG YONGJIN AQUATIC CO.,LTD",owned_by
+vessel_113,"owner_Dalian Changhai Ocean-going Fisheries Co.,ltd",owned_by
+vessel_9048,owner_SHANGHAI DEEP SEA FISHERIES CO.LTD,owned_by
+vessel_110,"owner_Dalian Changhai Ocean Fisheries Co.,Ltd",owned_by
+vessel_108,"owner_Dalian Changhai Ocean-Going Fisheries Co.,Ltd",owned_by
+vessel_10281,"owner_Shanghai Deepsea Fisheries Co,ltd",owned_by
+vessel_10280,"owner_Shanghai Deepsea Fisheries Co,ltd",owned_by
+vessel_10898,owner_LIAONING GOLDENSTAR OCEAN FISHING CO.,owned_by
+vessel_8948,"owner_LIAONING KIMLINER OCEANFISHING CO.,LTD",owned_by
+vessel_8947,"owner_LIAONING KIMLINER OCEANFISHING CO.,LTDLength: LIAONING KIMLINER OCEANFISHING CO.,LTD",owned_by
+vessel_8902,owner_UNIOCEAN S.A.,owned_by
+vessel_8903,owner_Pesquera Ugavi S.A,owned_by
