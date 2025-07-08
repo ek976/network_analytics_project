@@ -67,3 +67,13 @@ A 2018 paper @ford_chasing_2018 utilized Social Network Analysis (SNA) to identi
 Another paper @mulvaney_casting_2015 utilized survey data to establish connections between players in the Great Lake's local fisheries network. The paper discussed heavily their methodology constraints with the survey, but also concluded that the fisheries network included many informal and formal relationships, with the informal relationships forming a significant portion of the edges.
 
 This paper @varlamis_building_2021 was interesting and was a deep dive on how they utilized AIS to create vessel traffic networks, but ultimately not helpful for this topic. 
+
+@marin_network_2010 examined co-management networks in Chilean small-scale fisheries, finding that power was highly centralized in government institutions, with limited cooperation among fisher associations, and recommending policy changes for more participatory governance.
+
+@dellapa_international_2013 used SNA to analyze trade flows of spiny dogfish, revealing how global trade relationships impact regional conservation outcomes and suggesting that trade regulations could promote sustainability.
+
+@dellapa2014dogfish expanded on previous work to explore how stakeholder networks influence fishery management policies for spiny dogfish, showing the importance of network structures in shaping effective governance.
+
+@nogueira2023dynamics analyzed fisheries in the Azores by converting time-series catch data into network structures, identifying key species associations and critical fishing nodes relevant for sustainable management strategies.
+
+@nogueira_dynamics_2025 applied complex network metrics to fisheries data from the Azores Islands, uncovering structural patterns in the ecosystem and offering insights for sustainable policy and marine resource management.
