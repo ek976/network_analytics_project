@@ -33,7 +33,7 @@ format:
     toc-position: left  
     number-sections: true
     math: mathjax
-bibliography: ../articles/fisheries_lib.bib
+bibliography: fisheries_lib.bib
 ---
 
 
@@ -44,23 +44,56 @@ A "teaser" paragraphs summarizing the work (see below for more detail).
   * An abstract is a 150 to 250-word paragraph that provides readers with a quick overview of your essay or report and its organization. It should express your thesis (or central idea) and your key points; it should also suggest any implications or applications of the research you discuss in the paper.
   * The function of an abstract is to describe, not to evaluate or defend, the paper.
   * The abstract should begin with a brief but precise statement of the problem or issue, followed by a description of the research method and design, the major findings, and the conclusions reached.
-  * For more see: https://writingcenter.gmu.edu/guides/writing-an-abstract#:~:text=The%20function%20of%20an%20abstract,findings%2C%20and%20the%20conclusions%20reached.
 
 ## Keywords
 
-Provide a list of keywords relevant to your work. 
-  * Think of these as "search terms" that other researchers might google to find your paper. 
+Fisheries; Illegal, Unreported, and Unregulated Fisheries; IUU Fishing; IUUF; Network Analysis; Western and Central Fisheries Commission; WCPFC; RFMO; fishing vessel registry
 
 # Introduction
 
 * Summary of the topic, why it is important, why the reader should continue, what work has been done in the past by other research groups, what are the “different points of views”/interpretations in the literature, what are you exploring, what questions are you trying to address, what are your goals and hypothesis, etc
-  * Part of the introduction is a concise literature review. Therefore, along with the points mentioned above, make sure to summarize the nine publications (three per person) that you discussed in HW-1. 
 
+
+Over 90 million tons of seafood is fished from our oceans every year[@global_fish_watch_2024], collected by the nearly 3 million fishing boats scattered across the globe.  [@poortvliet_sustainable_2024] With the immense amount of fishing, there is also a distinct need for regulation of fishing activities to maintain the fish stocks for future generations. Many individual countries and regions have adopted conservative fishing practices and fish stock tracking for decades, but many countries and nefarious actors do not abide by these rules, causing increased global concern for Illegal, Unreported, and Unregulated (IUU) fishing. 
+
+This protein supply chain is unique in that there are a multitude of players across the fisheries enterprise at all different levels of procurement and production *in addition to* a complicated lattice of regulatory bodies that are meant to govern this sector. Unlike domestic  agriculture or meat production, commercial fishing is conduct hundreds if not thousands of miles from those running the operations and those government bodies overseeing the process.
+
+With that in mind, this paper will be utilizing Network Analysis to parse out the complicated relationships within the fisheries enterprise.
+
+***Insert more here***
 
 ## Background
 
+Certain fisheries, especially those which cross over multiple regions and jurisdictions are governed by Regional Fisheries Management Organizations, or RFMOs. RFMOs are bodies that set regulations for fisheries and are responsible for holding their registered fishing vessels accountable for following the regulations sent forth. RFMOs have designated regions and species within their field of management; @fig-tuna-rfmos is a map of the five tuna RFMOs[^1] that are responsible for managing fisheries covering 91 percent of the world's oceans.[@pew_faq_2012] 
 
-## Literature Review
+![Global overview of tuna managing Regional Fisheries Management Organizations.](images/tuna_rfmos.png){#fig-tuna-rfmos}
+
+For the purposes of this paper, we will be scoping the analysis to the RFMO responsible for the Western Pacific, the **Western and Central Pacific Fisheries Commission (WCPFC)**. In order for vessels to fish for highly migratory species of fish (i.e. all types of tuna, marlin, etc.) in the Western and Central Pacific, they must be registered with WCPFC and follow their regulations. The WCPFC Convention Area covers over 12 million square nautical miles, or 20% of the Earth’s oceans (@fig-wcpfc-ca). 
+
+![The WCPFC Convention Area spans the Pacific Ocean from roughly 141°E to 150°W.](images/wcpfc_ca.png){#fig-wcpfc-ca}
+
+There are currently over 3,000 vessels registered under the WCPFC, with the most prominent flag states[^3] of China, Japan, Chinese Taipei (Taiwan), and the Philippines.[@wcpfc_rfv] The WCPFC regulates when, where, what, and how these vessels are allowed to fish, but only on the High Seas outside any other country’s Exclusive Economic Zone (EEZ)[^4]. In order for a vessel to be registered with WCPFC, they must also be flagged[^3] in a country at that is a member of the WCPFC[^longnote].
+
+With 26 member states and over 3,000 vessels, along with large of number of owners, operators, and corporations, the web of associations within the fisheries sector for just this RFMO is vast. 
+
+***Struggling on how to bring it back***
+
+
+[^1]: Tuna is considered one of the most valuable fisheries in the world and all the tuna species are pelagic, ocean-going fish and considered highly migratory, making them a prime target for RFMOs. 
+
+[^3]: Flag State, or Flag State Jurisdiction, is defined as: "A State may exercise jurisdiction over a vessel that is registered with the State and flying its flag. This exercise of jurisdiction is based on the internationally recognized principle that a State may regulate the conduct of its nationals even when those nationals are acting outside of the State’s territory."[@noaa_jurisdiction_vessels]
+
+[^4]: Exclusive Economic Zone (EEZ): "A coastal State has sovereign rights to the management of natural resources and other economic activities within its EEZ. It does not have sovereignty within its EEZ, so foreign vessels possess the same non-economic rights within a State’s EEZ as on the high seas." [@noaa_jurisdiction_vessels] The EEZ extends from the country's baseline to 200NM (or when meeting another country's EEZ).
+
+[^longnote]: WCPFC Commission Members:
+Members - Australia, China, Canada, Cook Islands, European Union, Federated States of Micronesia, Fiji, France, Indonesia, Japan, Kiribati, Republic of Korea, Republic of Marshall Islands, Nauru, New Zealand, Niue, Palau, Papua New Guinea, Philippines, Samoa, Solomon Islands, Chinese Taipei, Tonga, Tuvalu, United States of America, Vanuatu.
+Participating Territories - American Samoa, Commonwealth of the Northern Mariana Islands, French     Polynesia, Guam, New Caledonia, Tokelau, Wallis and Futuna.
+Cooperating Non-member(s) - The Bahamas, Curacao, Ecuador, El Salvador, Liberia, Panama, Thailand, Vietnam.
+
+
+## Previous Work
+
+Talk about previous work done within this sphere.
 
 A 2018 paper @ford_chasing_2018 utilized Social Network Analysis (SNA) to identify key ships within the fishing industry in the Indian Ocean. The researchers utilized AIS data to infer relationships for vessel who operated in close proximity and found that Reefer (Refrigerated Cargo Vessels) and Bunkering (Fuel Resupply Ships) play a key role in the vessel network as identified by their eigenvector centrality.
 
@@ -77,3 +110,7 @@ This paper @varlamis_building_2021 was interesting and was a deep dive on how th
 @nogueira2023dynamics analyzed fisheries in the Azores by converting time-series catch data into network structures, identifying key species associations and critical fishing nodes relevant for sustainable management strategies.
 
 @nogueira_dynamics_2025 applied complex network metrics to fisheries data from the Azores Islands, uncovering structural patterns in the ecosystem and offering insights for sustainable policy and marine resource management.
+
+# Data Source
+
+WCPFC Registry of Fishing Vessels (RFV)
