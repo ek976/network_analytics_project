@@ -56,7 +56,7 @@ Fisheries; Illegal, Unreported, and Unregulated Fisheries; IUU Fishing; IUUF; Ne
 
 Over 90 million tons of seafood is fished from our oceans every year[@global_fish_watch_2024], collected by the nearly 3 million fishing boats scattered across the globe.  [@poortvliet_sustainable_2024] With the immense amount of fishing, there is also a distinct need for regulation of fishing activities to maintain the fish stocks for future generations. Many individual countries and regions have adopted conservative fishing practices and fish stock tracking for decades, but many countries and nefarious actors do not abide by these rules, causing increased global concern for Illegal, Unreported, and Unregulated (IUU) fishing. 
 
-This protein supply chain is unique in that there are a multitude of players across the fisheries enterprise at all different levels of procurement and production *in addition to* a complicated lattice of regulatory bodies that are meant to govern this sector. Unlike domestic  agriculture or meat production, commercial fishing is conduct hundreds if not thousands of miles from those running the operations and those government bodies overseeing the process.
+This protein supply chain is unique in that there are a multitude of players across the fisheries enterprise at all different levels of procurement and production *in addition to* a complicated lattice of regulatory bodies that are meant to govern this sector. Unlike domestic  agriculture or meat production, commercial fishing conduct hundreds if not thousands of miles from those running the operations and those government bodies overseeing the process.
 
 With that in mind, this paper will be utilizing Network Analysis to parse out the complicated relationships within the fisheries enterprise.
 
@@ -78,6 +78,8 @@ With 26 member states and over 3,000 vessels, along with large of number of owne
 
 ***Struggling on how to bring it back***
 
+Using publicly available data on ship registration and associated information, we hope to examine the files for relationships that might flag potential concerns or insight into the fishing practices of this area of the globe. 
+
 
 [^1]: Tuna is considered one of the most valuable fisheries in the world and all the tuna species are pelagic, ocean-going fish and considered highly migratory, making them a prime target for RFMOs. 
 
@@ -93,23 +95,21 @@ Cooperating Non-member(s) - The Bahamas, Curacao, Ecuador, El Salvador, Liberia,
 
 ## Previous Work
 
-Talk about previous work done within this sphere.
+Much previous research has used network analysis to examine fishing practices. Given the highly complex and layered relationships that can occur between different entities or information (e.g. in @dellapa_international_2013 the authors used SNA to analyze trade flows of spiny dogfish, revealing how global trade relationships impact regional conservation outcomes and suggesting that trade regulations could promote sustainability) that otherwise would be extremely hard to model simultaneously and understand. 
 
-A 2018 paper @ford_chasing_2018 utilized Social Network Analysis (SNA) to identify key ships within the fishing industry in the Indian Ocean. The researchers utilized AIS data to infer relationships for vessel who operated in close proximity and found that Reefer (Refrigerated Cargo Vessels) and Bunkering (Fuel Resupply Ships) play a key role in the vessel network as identified by their eigenvector centrality.
+Network analsis can be used to relate information like 'vehicle' (in this case, ship), such as the 2018 paper @ford_chasing_2018 where the authors utilized Social Network Analysis (SNA) to identify key ships within the fishing industry in the Indian Ocean. The researchers utilized AIS data to infer relationships for vessel who operated in close proximity and found that Reefer (Refrigerated Cargo Vessels) and Bunkering (Fuel Resupply Ships) play a key role in the vessel network as identified by their eigenvector centrality. Another paper @mulvaney_casting_2015 utilized survey data to establish connections between players in the Great Lake's local fisheries network. The paper discussed heavily their methodology constraints with the survey, but also concluded that the fisheries network included many informal and formal relationships, with the informal relationships forming a significant portion of the edges.
 
-Another paper @mulvaney_casting_2015 utilized survey data to establish connections between players in the Great Lake's local fisheries network. The paper discussed heavily their methodology constraints with the survey, but also concluded that the fisheries network included many informal and formal relationships, with the informal relationships forming a significant portion of the edges.
+Again and again, the layered relationship between complex variables in the oceanic and fishery world shows that different forms of these tools are highly effecitve. @varlamis_building_2021 go through an interesting deep dive on the utilization of AIS to create vessel traffic networks. While this paper may not ultimately be helpful for overfishing, these types of visualization and aggregation of data in a relationship format that can be analyzed is incredibly powerful.  
 
-This paper @varlamis_building_2021 was interesting and was a deep dive on how they utilized AIS to create vessel traffic networks, but ultimately not helpful for this topic. 
+Similarly in terms of applications that may not have merit in this initial data study, @marin_network_2010 examined co-management networks in Chilean small-scale fisheries, finding that power was highly centralized in government institutions, with limited cooperation among fisher associations, and recommending policy changes for more participatory governance - something that is far beyond classic data analysis and using qualitative data to reveal relationships. 
 
-@marin_network_2010 examined co-management networks in Chilean small-scale fisheries, finding that power was highly centralized in government institutions, with limited cooperation among fisher associations, and recommending policy changes for more participatory governance.
+The qualtitative element is important to remember for future work post quantitaive analysis, e.g. for intervation - @dellapa2014dogfish expanded on previous work to explore how stakeholder networks influence fishery management policies for spiny dogfish, showing the importance of network structures in shaping effective governance.
 
-@dellapa_international_2013 used SNA to analyze trade flows of spiny dogfish, revealing how global trade relationships impact regional conservation outcomes and suggesting that trade regulations could promote sustainability.
+These interventions can help us to not just implement policy, but to 'live-manage' its implementation in such a complex ecosystem. 
 
-@dellapa2014dogfish expanded on previous work to explore how stakeholder networks influence fishery management policies for spiny dogfish, showing the importance of network structures in shaping effective governance.
+A critical component of @nogueira2023dynamics analysis of fisheries in the Azores was converting time-series catch data into network structures. Their time sensitive identification of key species associations and critical fishing nodes relevant for sustainable management strategies show extreme promise not just for analysis and results, but for recommendations and a far more effective way to achieve our goal; which is to ultimately sustain healthy fish populations and protein sources for the future inhabitants of the planet.  
 
-@nogueira2023dynamics analyzed fisheries in the Azores by converting time-series catch data into network structures, identifying key species associations and critical fishing nodes relevant for sustainable management strategies.
-
-@nogueira_dynamics_2025 applied complex network metrics to fisheries data from the Azores Islands, uncovering structural patterns in the ecosystem and offering insights for sustainable policy and marine resource management.
+The previous work of many authors, @nogueira_dynamics_2025 included, is applying complex network analysis and metrics to fisheries data - whether in @nogueira_dynamics_2025 from the Azores Islands, which focused on uncovering structural patterns in the ecosystem and offering insights for sustainable policy and marine resource management, or whether in the social dynamics that can help facilitate a different form of management. 
 
 # Data Source
 
