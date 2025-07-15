@@ -23,6 +23,7 @@ format:
     number-sections: true
     math: mathjax
   pdf:
+    pdf-engine: lualatex 
     df-print: kable
     embed-resources: true
     link-external-newwindow: true
@@ -33,35 +34,24 @@ format:
     toc-position: left  
     number-sections: true
     math: mathjax
+    keep-abstract: true
+    include-before-body: keywords.tex
 bibliography: fisheries_lib.bib
+abstract: Illegal, Unreported, and Unregulated (IUU) fishing remains one of the most significant threats to the sustainability of global fisheries and ocean ecosystems. While various nations and Regional Fisheries Management Organizations (RFMOs) have implemented measures to regulate fishing activities, the fishing sector continues to exhibit highly complex and opaque networks of relationships among vessels, companies, and regulatory bodies. These complexities challenge efforts to monitor fishing activity and detect potential illicit practices, particularly in regions such as the Western and Central Pacific, where over 3,000 vessels operate under the governance of the Western and Central Pacific Fisheries Commission (WCPFC). Network analysis has emerged as a valuable tool for mapping and analyzing the relationships within fisheries systems, providing insights that are often obscured in traditional datasets. Prior research has demonstrated applications of network analysis in examining vessel interactions, trade flows, and social and governance structures related to fisheries management. This paper reviews the existing literature on network analysis in fisheries contexts and explores how these methods might be applied to publicly available fisheries data from the WCPFC region. This work seeks to establish a framework for future research aimed at identifying structural patterns, potential risk indicators, and opportunities for more effective fisheries governance and enforcement.
+keyword: [Fisheries; Illegal, Unreported, and Unregulated Fisheries; IUU Fishing; IUUF; Network Analysis; Western and Central Fisheries Commission; WCPFC; RFMO; fishing vessel registry]
 ---
 
+::: {.content-visible when-format="html"}
+**Keywords**: Fisheries; Illegal, Unreported, and Unregulated Fisheries; IUU Fishing; IUUF; Network Analysis; Western and Central Fisheries Commission; WCPFC; RFMO; fishing vessel registry
 
-# Abstract
-
-A "teaser" paragraphs summarizing the work (see below for more detail). 
-  * The work isn't finished so this can just be an initial draft
-  * An abstract is a 150 to 250-word paragraph that provides readers with a quick overview of your essay or report and its organization. It should express your thesis (or central idea) and your key points; it should also suggest any implications or applications of the research you discuss in the paper.
-  * The function of an abstract is to describe, not to evaluate or defend, the paper.
-  * The abstract should begin with a brief but precise statement of the problem or issue, followed by a description of the research method and design, the major findings, and the conclusions reached.
-
-Illegal, Unreported, and Unregulated (IUU) fishing remains one of the most significant threats to the sustainability of global fisheries and ocean ecosystems. While various nations and Regional Fisheries Management Organizations (RFMOs) have implemented measures to regulate fishing activities, the fishing sector continues to exhibit highly complex and opaque networks of relationships among vessels, companies, and regulatory bodies. These complexities challenge efforts to monitor fishing activity and detect potential illicit practices, particularly in regions such as the Western and Central Pacific, where over 3,000 vessels operate under the governance of the Western and Central Pacific Fisheries Commission (WCPFC).
-
-Network analysis has emerged as a valuable tool for mapping and analyzing the relationships within fisheries systems, providing insights that are often obscured in traditional datasets. Prior research has demonstrated applications of network analysis in examining vessel interactions, trade flows, and social and governance structures related to fisheries management.
-
-This paper reviews the existing literature on network analysis in fisheries contexts and explores how these methods might be applied to publicly available fisheries data from the WCPFC region. This work seeks to establish a framework for future research aimed at identifying structural patterns, potential risk indicators, and opportunities for more effective fisheries governance and enforcement.
-
-## Keywords
-
-Fisheries; Illegal, Unreported, and Unregulated Fisheries; IUU Fishing; IUUF; Network Analysis; Western and Central Fisheries Commission; WCPFC; RFMO; fishing vessel registry
+**Affiliations**: Georgetown University - Data Science and Analytics Masters Program
+:::
 
 # Introduction
 
-* Summary of the topic, why it is important, why the reader should continue, what work has been done in the past by other research groups, what are the “different points of views”/interpretations in the literature, what are you exploring, what questions are you trying to address, what are your goals and hypothesis, etc
-
 Over 90 million tons of seafood is harvested from our oceans every year [@global_fish_watch_2024], collected by nearly 3 million fishing vessels operating worldwide [@poortvliet_sustainable_2024]. With this immense level of fishing activity, there is a critical need for regulation to sustain fish stocks for future generations. While many nations and regions have implemented sustainable fishing practices and monitoring systems for decades, numerous countries and nefarious actors do not abide by these rules, contributing to growing global concern over Illegal, Unreported, and Unregulated (IUU) fishing.
 
-This protein supply chain is unique in that it encompasses a diverse range of actors across the fisheries enterprise at multiple levels of procurement, production, and governance. Moreover, these actors are embedded in a complex web of regulatory frameworks that vary across jurisdictions and regions. Unlike domestic agriculture or meat production, commercial fishing often takes place hundreds—or even thousands—of miles away from the companies running operations and from the governmental bodies charged with oversight.
+This protein supply chain is unique in that it encompasses a diverse range of actors across the fisheries enterprise at multiple levels of procurement, production, and governance. Moreover, these actors are embedded in a complex web of regulatory frameworks that vary across jurisdictions and regions. Unlike domestic agriculture or meat production, commercial fishing often takes place hundreds—of even thousands—of miles away from the companies running operations and from the governmental bodies charged with oversight.
 
 Understanding this complex system requires analytical methods capable of mapping the relationships and interactions among diverse stakeholders, vessels, and regulatory entities. With that in mind, this paper explores the potential of Network Analysis as a tool to show the intricate structures and connections within the fisheries sector.
 
@@ -81,7 +71,7 @@ There are currently over 3,000 vessels registered under the WCPFC, with the most
 
 With 26 member states and over 3,000 vessels, along with a large number of owners, operators, and corporations, the web of associations within the fisheries sector for just this RFMO is vast.
 
-Using publicly available data on ship registration and associated information, we hope to examine the data for relationships that might flag potential concerns or provide insight into the fishing practices of this area of the globe.
+Using publicly available data on ship registration and associated information, we hope to examine the data for relationships that might indicate potential concerns or provide insight into the commercial fishing enterprise for this area of the globe.
 
 [^1]: Tuna is considered one of the most valuable fisheries in the world and all the tuna species are pelagic, ocean-going fish and considered highly migratory, making them a prime target for RFMOs.
 
@@ -99,22 +89,25 @@ Cooperating Non-member(s) - The Bahamas, Curacao, Ecuador, El Salvador, Liberia,
 
 Previous research has applied network analysis to study fishing practices and fisheries governance. Given the complex and layered relationships that exist between different entities and information flows, network-based approaches provide a way to model and visualize systems that would otherwise be extremely difficult to capture holistically. For instance, @dellapa_international_2013 used Social Network Analysis (SNA) to analyze trade flows of spiny dogfish, revealing how global trade relationships impact regional conservation outcomes and suggesting that trade regulations could promote sustainability.
 
-Network analysis has been used to relate information tied to vessels and their activities. For example, in @ford_chasing_2018, researchers used SNA to identify key ships operating in the Indian Ocean fishing industry. By analyzing AIS data, they inferred relationships between vessels operating in close proximity and found that refrigerated cargo vessels (reefers) and bunkering ships played pivotal roles within the network, as evidenced by high eigenvector centrality scores.
-
-Another study, @mulvaney_casting_2015, employed survey data to establish connections among stakeholders in the Great Lakes’ local fisheries network. While the study highlighted methodological constraints due to reliance on survey responses, it also showed that informal relationships accounted for a significant share of network connections, revealing an underexplored layer of fisheries governance.
-
-Various studies demonstrate that network analysis is flexible and powerful for understanding fisheries systems. @varlamis_building_2021, for example, explored the use of AIS data to build vessel-traffic networks. While their work focused more on visualizing maritime traffic patterns than directly addressing overfishing, it underscores how network-based data structures can enable analysis across diverse fisheries contexts.
+Network analysis has been used to relate information tied to vessels and their activities. For example, in @ford_chasing_2018, researchers used SNA to identify key ships operating in the Indian Ocean fishing industry. By analyzing AIS data, they inferred relationships between vessels operating in close proximity and found that refrigerated cargo vessels (reefers) and bunkering ships played pivotal roles within the network, as evidenced by high eigenvector centrality scores. Network Analysis has also been used to understand vessel movements and behaviors outside of the fisheries scope. The highly cited @varlamis_building_2021, explored the use of AIS data to build vessel-traffic networks. While their work focused more on visualizing maritime traffic patterns than directly addressing overfishing, it underscores how network-based data structures can enable analysis across diverse fisheries contexts.
 
 Network analysis has also been applied to social and governance networks. For instance, @marin_network_2010 examined co-management networks in Chilean small-scale fisheries, finding that power was highly centralized among government institutions and recommending policy changes to promote participatory governance. Such qualitative analyses underscore how network methods can extend beyond purely quantitative data to reveal institutional and social dynamics relevant to fisheries management.
 
 The qualitative dimension remains important for future work that might follow quantitative analysis. As an example, @dellapa2014dogfish expanded on earlier research to explore how stakeholder networks influence fishery management policies for spiny dogfish, highlighting the role of network structures in shaping effective governance.
 
+Another study, @mulvaney_casting_2015, employed survey data to establish connections among stakeholders in the Great Lakes’ local fisheries network. While the study highlighted methodological constraints due to reliance on survey responses, it also showed that informal relationships accounted for a significant share of network connections, revealing an under-explored layer of fisheries governance.
+
 A particularly promising area involves transforming fisheries data into network structures to reveal hidden dynamics. A critical component of @nogueira2023dynamics’s analysis of fisheries in the Azores was the conversion of time-series catch data into network graphs. This time-sensitive approach enabled identification of key species associations and critical fishing nodes relevant to sustainable management strategies. Such techniques illustrate the potential for network analysis not only to describe existing systems but also to support proactive recommendations for sustainability.
 
-Across this body of work, researchers have applied diverse network approaches—from social networks and trade networks to vessel proximity networks—to uncover the structure and function of complex fisheries systems. These examples underscore the versatility of network analysis as a framework for exploring fisheries data. While each study focuses on a particular region or problem, collectively they demonstrate the value of network perspectives in understanding the multi-layered realities of marine resource use and governance.
+Across this body of work, researchers have applied diverse network approaches -- from social networks and trade networks to vessel proximity networks -- to uncover the structure and function of complex fisheries systems. These examples underscore the versatility of network analysis as a framework for exploring fisheries data. While each study focuses on a particular region or problem, collectively they demonstrate the value of network perspectives in understanding the multi-layered realities of marine resource use and governance.
 
 This paper builds on these foundations by exploring how network analysis might be applied to the WCPFC fisheries context. However, our initial focus remains on developing methods and understanding the available data, rather than drawing definitive conclusions at this stage.
 
 # Data Source
 
 WCPFC Registry of Fishing Vessels (RFV)
+
+
+::: {.content-visible when-format="pdf"}
+# References
+:::
