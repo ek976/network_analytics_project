@@ -1,4 +1,4 @@
-flag,vessel_name,mmsi,imo,rmi_eez_fishing_hours,tonga_eez_fishing_hours,nauru_eez_fishing_hours,vanuatu_eez_fishing_hours,hsp2_fishing_hours,hsp3_fishing_hours,hsp1_fishing_hours,usa2_eez_fishing_hours,hsp4_fishing_hours,hsp5_fishing_hours,usa_eez_fishing_hours,hsp7_fishing_hours,hsp6_fishing_hours,palau_eez_fishing_hours,fsm_eez_fishing_hours,kirbati2_eez_fishing_hours,png_eez_fishing_hours,fiji_eez_fishing_hours,tuvalu_eez_fishing_hours,kiribati1_eez_fishing_hours,solomon_islands_eez_fishing_hours
+flag,vessel_name,mmsi,imo,rmi_eez,tonga_eez,nauru_eez,vanuatu_eez,hsp2,hsp3,hsp1,usa2_eez,hsp4,hsp5,usa_eez,hsp7,hsp6,palau_eez,fsm_eez,kirbati2_eez,png_eez,fiji_eez,tuvalu_eez,kiribati1_eez,solomon_islands_eez
 ALB,08106,201708106,,,,,,1204.1,,943.85,,,,,,,,,,,,,,
 ALB,XIN MING CAI,201601665,,,,,,2640.31,,171.96,,,,,,,,2.04,,,,,,
 AUS,D&D,503062760,,,,,83.43,,,,,,,,,,,,,,,,,
