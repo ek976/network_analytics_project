@@ -108,6 +108,37 @@ This paper builds on these foundations by exploring how network analysis might b
 WCPFC Registry of Fishing Vessels (RFV)
 
 
+# Appendix
+
+## Appendix 1: Fishing Areas
+
+The AIS data collected for the apparent fishing activity was broken down by area, primarily Exclusive Economic Zones (EEZ) but also High Seas Pockets. The centroids of the EEZs were computed from @vliz2023maritime. For this analysis, the following areas were observed:
+
+
+| Observed Area  |  Description | Centroid  |
+|---|---|
+| Fiji EEZ  | Exclusive Economic Zone of Fiji  |    |
+| Federated States of Micronesia (FSM) EEZ |   |    |
+| Kiribati EEZ - 1 - Gilbert Islands Group  |   |    |
+| Kiribati EEZ - 2 - Phoenix Islands Group |   |    |
+| Nauru EEZ  |   |    |
+|  Palau EEZ |   |    |
+|  Papua New Guinea (PNG) EEZ |   |    |
+|  Republic of the Marshall Islands (RMI) EEZ |   |    |
+|  Solomon Islands EEZ |   |    |
+|  Tonga EEZ |   |    |
+|  Tuvalu EEZ |   |    |
+|  United States of America (USA) EEZ - 1 - Guam |   |    |
+|  United States of America (USA)  EEZ - 2 - Commonwealth of the Northern Marianas Islands |   |    |
+|  Vanuatu EEZ |   |    |
+|  High Seas Pocket 1 | Bounded by Japan's, USA's, Palau's, FSM's, and Philippines' EEZs|    |
+|  High Seas Pocket 2 |  Bounded by FSM's, PNG's, Indonesia's, and Palau's EEZs |    |
+|  High Seas Pocket 3 | Bounded by 20° N to the North and RMI's, FSM's, and USA's EEZs |    |
+|  High Seas Pocket 4 | Bounded by FSM's, Nauru's, RMI's, Kiribati's (Gilbert Islands), Tuvalu's, Fiji's, Solomon Islands', and PNG's EEZs  |    |
+|  High Seas Pocket 5 |  Bounded by Fiji's, Vanuatu's, and Solomon Islands' EEZs |    |
+|  High Seas Pocket 6 |  Bounded by the Equator (0°) to the North and Howland and Baker Islands' (USA), Kiribati's (Phoenix Islands), Tokelau's (New Zealand), Wallis and Fortuna's (France), Tuvalu's, and Kiribati's (Gilbert Islands) EEZs |    |
+|  High Seas Pocket 7 | Bounded by the Equator (0°) to the North and Howland and Baker Islands' (USA), Kiribati's (Phoenix Islands), Tokelau's (New Zealand), Cook Islands' (New Zealand), Jarvis Islands' (USA), and Kiribati's (Line Islands) EEZs  |    |
+
 ::: {.content-visible when-format="pdf"}
 # References
 :::
