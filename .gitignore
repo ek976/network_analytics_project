@@ -1,4 +1,8 @@
 *.DS_Store
 *__pycache__
 
+# geo files are too big
 code/geo_files/World_EEZ_v12_20231025_0_360
+
+# ignore API key
+code/api-keys.json
