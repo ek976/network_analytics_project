@@ -1,0 +1,58 @@
+Code,Vessel Type,Standard Abbreviation Code
+01.0.0,Trawler,TO
+01.1.0,Side trawler,TS
+01.1.1,Side trawler wet-fish,TSW
+01.1.2,Side trawler freezer,TSF
+01.2.0,Stern trawler,TT
+01.2.1,Stern trawler wet-fish,TTW
+01.2.2,Stern trawler freezer,TTF
+01.2.3,Stern trawler factory,TTP
+01.3.0,Outrigger trawler,TU
+01.9.0,Trawler nei,TOX
+02.0.0,Seiner,SO
+02.1.0,Purse seiner,SP
+02.1.1,North American type purse seiner,SPA
+02.1.2,European type purse seiner,SPE
+02.1.3,Tuna purse seiner,SPT
+02.2.0,Seiner netter,SN
+02.9.0,Seiner nei,SOX
+03.0.0,Dredger,DO
+03.1.0,Boat dredge user,DB
+03.2.0,Mechanical dredge user,DM
+03.9.0,Dredger nei,DOX
+04.0.0,Lift netter,NO
+04.1.0,Boat-operated net user,NB
+04.9.0,Lift netter nei,BOX
+05.0.0,Gillnetter,GO
+06.0.0,Trap setter,WO
+06.1.0,Pot vessel,WOP
+06.9.0,Trap setter nei,WOX
+07.0.0,Liner,LO
+07.1.0,Handliner,LH
+07.2.0,Longliner,LL
+07.2.1,Tuna longliner,LLT
+07.3.0,Pole and line vessel,LP
+07.3.1,Japanese type pole and line vessel,LPJ
+07.3.2,American type pole and line vessel,LPA
+07.4.0,Troller,LT
+07.9.0,Liner nei,LOX
+08.0.0,Vessel using pump for fishing,PO
+09.0.0,Multipurpose vessel,MO
+09.1.0,Seiner-handliner,MSN
+09.2.0,Trawler-purse seiner,MTS
+09.3.0,Trawler-drifter,MTG
+09.9.0,Multipurpose vessel nei,MOX
+10.0.0,Recreational fishing vessel,RO
+49.0.0,Fishing vessel not specified,FX
+11.0.0,Mothership,HO
+11.1.0,Salted-fish mothership,HSS
+11.2.0,Factory mothership,HSF
+11.3.0,Tuna mothership,HST
+11.4.0,Mothership for two-boat purse seining,HSP
+11.9.0,Mothership nei,HOX
+12.0.0,Fish carrier,FO
+13.0.0,Hospital ship,KO
+14.0.0,Protection and survey vessel,BO
+15.0.0,Fishery research vessel,ZO
+16.0.0,Fishery training vessel,CO
+99.0.0,Non-fishing vessel nei,VOX

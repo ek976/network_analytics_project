@@ -1,0 +1,491 @@
+﻿ID,Port Code,Port Name,Location Country,State-Province
+3,US-GHR,Aberdeen,United States of America,WA
+509,JP-ABU,Aburatsu,Japan,45
+4,JP-120,Abuta,Japan,
+5,CA-001,Ahousat,Canada,
+6,JP-001,Ainan,Japan,
+7,JP-002,Aki,Japan,
+8,JP-003,Akita,Japan,05
+9,JP-121,Akkeshi,Japan,01
+436,US-NGZ,Alameda,United States of America,CA
+10,US-001,"Albion, CA",United States of America,CA
+11,ES-ALG,Algeciras,Spain,
+472,JP-004,Amakusa,Japan,
+462,TW-APG,An Ping,Chinese Taipei,
+12,US-OTS,Anacortes,United States of America,WA
+498,PT-ANC,Ancora,Portugal,
+13,GU-APR,Apra (Agana),Guam,
+14,US-APO,Aptos,United States of America,CA
+15,US-002,"Arch Cape, OR",United States of America,OR
+394,US-AZZ,Arlington,United States of America,WA
+16,US-AST,Astoria,United States of America,OR
+17,NZ-AKL,Auckland,New Zealand,AUK
+18,CK-RAR,Avatiu,Cook Islands,Rarotonga
+19,PT-AVE,Aveiro,Portugal,01
+21,GB-AYR,Ayr,United Kingdom,STD
+450,ID-001,Bagansiapiapi,Indonesia,
+22,US-BDY,Bandon,United States of America,OR
+412,TH-BKK,Bangkok,Thailand,10
+395,ES-BDF,Barbate de Franco,Spain,CA
+23,US-003,Barnegat Light,United States of America,
+425,KN-BAS,Basseterre,Saint Kitts And Nevis,
+24,PH-BTG,Batangas/Luzon,Philippines,BTG
+25,US-YIY,Bay City,United States of America,OR
+482,US-BYU,Bayou la Batre,United States of America,AL
+26,CN-BHY,Beihai,China,45
+27,BZ-BZE,Belize City,Belize,
+28,US-BLI,Bellingham,United States of America,WA
+422,US-BZO,Bend,United States of America,OR
+399,ID-BOA,"Benoa, Bali",Indonesia,
+29,AU-001,Bermagui,Australia,NSW
+30,ES-BRM,Bermeo,Spain,BI
+499,KI-001,Betio,Kiribati,
+441,ID-BIK,"Biak, Irian Jaya",Indonesia,
+31,US-BIX,Biloxi,United States of America,MS
+398,ID-BIT,"Bitung, Sulawesi",Indonesia,
+32,US-DHB,Bodega Bay,United States of America,CA
+33,AU-BTB,Botany Bay,Australia,NSW
+466,NL-BRS,Breskens,Netherlands,
+34,AU-002,Bridport,Australia,TAS
+35,AU-BNE,Brisbane,Australia,QLD
+36,GB-BRX,Brixham,United Kingdom,
+37,US-BOK,Brookings,United States of America,OR
+38,AU-003,Brunswick Heads,Australia,NSW
+39,AU-BDB,Bundaberg,Australia,QLD
+40,ES-BRL,Burela,Spain,
+42,KR-PUS,Busan,Korea (Republic of),26
+43,ES-CAD,Cadiz,Spain,
+44,AU-CNS,Cairns,Australia,QLD
+45,CA-CAM,Campbell River,Canada,BC
+46,US-CLD,Carlsbad,United States of America,CA
+47,PH-CEB,Cebu,Philippines,
+48,ES-CEU,Ceuta,Spain,
+49,US-004,"Channel Islands, CA",United States of America,CA
+50,US-CJT,Charleston,United States of America,OR
+51,JP-005,Chiba,Japan,12
+53,US-CJC,Chinook,United States of America,WA
+54,JP-006,Choshi,Japan,12
+480,KI-CXI,Christmas Island,Kiribati,
+406,FM-TKK,Chuuk,Federated States of Micronesia,
+55,ES-001,Cillero,Spain,
+483,ID-CBN,Cirebon (Tjeribon),Indonesia,
+56,AU-CFS,Coffs Harbour,Australia,NSW
+57,FR-COC,Concarneau,France,29
+58,US-COB,Coos Bay,United States of America,OR
+59,US-CDV,Cordova,United States of America,AK
+60,US-CRP,Corpus Christi,United States of America,TX
+61,PH-CBO,"Cotabato, Mindanao",Philippines,
+62,US-TGG,Cottage Grove,United States of America,OR
+63,US-CEC,Crescent City,United States of America,CA
+64,AU-004,Crowdy Head,Australia,NSW
+65,US-UOF,Cut Off,United States of America,LA
+66,CN-DLC,Dalian,China,21
+446,AU-DRW,Darwin,Australia,NT
+67,PH-DVO,"Davao, Mindanao",Philippines,
+68,US-YDI,Denair,United States of America,CA
+69,AU-DPO,Devonport,Australia,TAS
+484,ID-DUM,Dumai,Indonesia,
+70,AU-005,Dunalley,Australia,TAS
+71,AU-QDN,Eden,Australia,NSW
+72,US-EOW,Edmonds,United States of America,WA
+73,JP-122,Ehime,Japan,
+74,JP-123,Esashi,Japan,
+75,US-EKA,Eureka,United States of America,CA
+427,AU-EVH,Evans Head,Australia,NSW
+76,US-PAE,Everett,United States of America,WA
+77,GB-FAL,Falmouth,United Kingdom,CON
+78,US-FLG,Flagstaff,United States of America,AZ
+79,AU-FLS,Flinders Island,Australia,TAS
+80,US-FQE,Florence,United States of America,OR
+81,AU-FOT,Forster,Australia,NSW
+82,US-FOB,Fort Bragg,United States of America,CA
+83,US-FTQ,Fortuna,United States of America,CA
+421,SL-FNA,Freetown,Sierra Leone,
+84,AU-FRE,Fremantle,Australia,WA
+85,US-FRD,Friday Harbor,United States of America,WA
+508,JP-FKR,"Fukaura, Ehime",Japan,38
+86,JP-007,Fukuoka,Japan,40
+87,TV-FUN,Funafuti,Tuvalu,
+88,CN-FOC,Fuzhou,China,35
+89,JP-008,Gamagori,Japan,23
+90,US-005,"Garibaldi, OR",United States of America,OR
+91,PH-GES,General Santos,Philippines,
+92,AU-GET,Geraldton,Australia,WA
+458,AU-GLT,Gladstone,Australia,QLD
+454,ID-GTO,"Gorontalo, Sulawesi",Indonesia,
+93,AU-GOS,Gosford,Australia,NSW
+94,JP-009,Goto,Japan,
+95,US-006,"Grayland, WA",United States of America,WA
+96,AU-006,Greenwell Point,Australia,NSW
+434,NL-GRQ,Groningen,Netherlands,
+97,CN-CAN,Guangzhou,China,44
+417,EC-GYE,Guayaquil,Ecuador,G
+98,KR-GYS,Gyeongsan,Korea (Republic of),47
+99,JP-010,Hachinohe,Japan,02
+100,JP-011,Hagi,Japan,35
+485,US-HNS,"Haines, AK",United States of America,AK
+101,JP-012,Hakodate,Japan,01
+102,US-HAF,Half Moon Bay,United States of America,CA
+103,US-HXB,Hammond,United States of America,OR
+104,US-HOI,Harbor,United States of America,OR
+105,JP-013,Hasaki,Japan,
+106,JP-014,Heda,Japan,22
+107,JP-124,Hetamura,Japan,
+438,US-ITO,Hilo,United States of America,HI
+108,JP-015,Hirado,Japan,42
+109,JP-016,Hiroshima,Japan,34
+110,JP-017,Hitachinaka,Japan,08
+430,VN-SGN,Ho Chi Minh City,Viet Nam,
+111,AU-HBA,Hobart,Australia,TAS
+112,SB-HIR,Honiara,Solomon Islands,
+113,US-HNL,Honolulu,United States of America,HI
+114,US-HQM,Hoquiam,United States of America,WA
+115,TW-HUN,Hualien,Chinese Taipei,
+116,JP-018,Hyuga,Japan,45
+117,JP-125,Iburi,Japan,39
+118,JP-019,Ichikikushikino,Japan,46
+119,JP-020,Ie-son,Japan,
+120,JP-126,Ikitsuki,Japan,42
+121,US-IQL,Ilwaco,United States of America,WA
+122,JP-021,Ise,Japan,24
+473,JP-022,Ishigaki,Japan,
+123,JP-023,Ishinomaki,Japan,04
+474,JP-024,Itoigawa,Japan,
+124,JP-025,Itoman,Japan,
+125,JP-026,Iwaki,Japan,07
+126,JP-027,Iwate,Japan,
+400,ID-JKT,Jakarta,Indonesia,
+127,MH-UIT,Jaluit Island,Marshall Islands,JAL
+128,US-JAL,Jamul,United States of America,CA
+129,KR-CHA,Jeju,Korea (Republic of),49
+131,US-JNU,Juneau,United States of America,AK
+132,JP-028,Kadogawa,Japan,
+133,JP-029,Kagoshima,Japan,46
+134,JP-127,Kaifu,Japan,
+456,US-KHH,Kailua-Kona,United States of America,HI
+475,JP-030,Kaiyo,Japan,
+135,JP-031,Kamaishi,Japan,03
+404,JP-032,Kamisu-Shi,Japan,
+506,JP-KRA,Kannoura,Japan,39
+136,TW-KHH,Kaohsiung,Chinese Taipei,
+137,JP-128,Karakuwa,Japan,
+138,JP-033,Karatsu,Japan,41
+494,JP-KUR,"Katsuura, Chiba",Japan,12
+496,JP-KAT,"Katsuura, Wakayama",Japan,30
+481,PG-KVG,Kavieng,Papua New Guinea,
+139,JP-034,Kawaminami,Japan,
+140,TW-KEL,Keelung,Chinese Taipei,
+479,ID-KLP,Kelapa,Indonesia,
+141,JP-035,Kesennuma,Japan,04
+393,US-KTN,Ketchikan,United States of America,AK
+143,JP-036,Kihoku,Japan,
+144,JP-129,Kiinagashima,Japan,
+145,AU-KNS,King Island,Australia,TAS
+146,US-AKN,King Salmon,United States of America,AK
+147,LT-KLJ,Klaipeda,Lithuania,
+148,JP-037,Kobe,Japan,28
+149,JP-038,Kochi,Japan,39
+507,JP-KCZ,Kochi,Japan,39
+150,US-ADQ,Kodiak,United States of America,AK
+152,US-007,"Koolina, HI",United States of America,HI
+409,JP-039,Koroshio,Japan,
+405,FM-KSA,Kosrae,Federated States of Micronesia,
+153,JP-040,Kouchi,Japan,
+154,NC-KOC,Koumac,New Caledonia,
+155,JP-041,Kumano,Japan,
+156,JP-130,Kurobe,Japan,
+157,JP-042,Kuroshio,Japan,
+158,AU-007,Kurumba,Australia,QLD
+159,JP-043,Kushima,Japan,
+160,JP-044,Kushimoto,Japan,30
+161,JP-045,Kushiro,Japan,01
+162,ES-LKN,La Coruna,Spain,GC
+163,ES-AGD,La Guardia,Spain,PO
+165,SV-LUN,La Union,El Salvador,
+429,PG-LAE,Lae,Papua New Guinea,
+166,AU-LEN,Lakes Entrance,Australia,VIC
+167,US-LGL,Langley,United States of America,WA
+168,ES-LPG,Las Palmas,Spain,TF
+169,US-008,Las Vegas,United States of America,
+170,AU-LST,Launceston,Australia,TAS
+171,PT-LEI,Leixoes,Portugal,13
+397,CY-LMS,Limassol,Cyprus,
+172,US-YOC,Lincoln City,United States of America,OR
+174,US-YBH,Long Beach,United States of America,WA
+173,US-LGB,"Long Beach, CA",United States of America,CA
+420,CN-LKU,Longkou,China,37
+175,US-LOG,Longview,United States of America,WA
+176,US-LAX,Los Angeles,United States of America,CA
+177,US-OVS,Los Osos,United States of America,CA
+178,GB-LOW,Lowestoft,United Kingdom,SFK
+445,PG-MAG,Madang,Papua New Guinea,
+179,MH-MAJ,Majuro,Marshall Islands,MAJ
+463,TW-MZG,Makung,Chinese Taipei,
+180,JP-046,Makurazaki,Japan,46
+181,ES-AGP,Malaga,Spain,
+448,ID-MDC,Manado,Indonesia,
+182,PH-MNL,Manila,Philippines,
+435,EC-MEC,Manta,Ecuador,M
+183,ES-MPG,"Marin, Pontevedra",Spain,
+184,JP-047,Matsue,Japan,32
+185,US-KNY,McKinleyville,United States of America,CA
+186,AU-MEL,Melbourne,Australia,VIC
+187,US-MND,Mendocino,United States of America,CA
+188,US-MIA,Miami,United States of America,FL
+189,GB-MLF,Milford Haven,United Kingdom,DFD
+190,US-MKE,Milwaukee,United States of America,WI
+191,JP-048,Minabe,Japan,
+192,JP-049,Minamiise,Japan,
+193,JP-050,Minamisanriku,Japan,
+511,JP-MIK,"Misaki, Kanagawa",Japan,14
+194,JP-051,Miura,Japan,
+195,JP-052,Miyako,Japan,
+196,JP-131,Miyama,Japan,
+197,JP-053,Miyazaki,Japan,
+439,KR-MOK,Mokpo,Korea (Republic of),46
+426,LR-MLW,Monrovia,Liberia,MO
+198,US-MY3,Monterey,United States of America,CA
+199,AU-MLL,Mooloolaba,Australia,QLD
+200,US-MJK,Morro Bay,United States of America,CA
+201,US-MLG,Moss Landing,United States of America,CA
+202,JP-054,Motobu,Japan,47
+203,JP-055,Muroto,Japan,
+505,JP-MRJ,Murotomisaki,Japan,39
+204,JP-132,Nachikatsuura,Japan,
+205,JP-056,Nagasaki,Japan,42
+206,JP-057,Naha,Japan,
+207,JP-058,Nahari,Japan,39
+504,JP-NMT,Nakaminato,Japan,08
+503,JP-NKX,Nakanosaku,Japan,07
+208,JP-059,Nakatane,Japan,
+209,JP-060,Nakatosa,Japan,
+210,CA-NNO,Nanaimo,Canada,BC
+211,JP-061,Nango,Japan,
+476,JP-062,Nanjo,Japan,
+212,JP-133,Nansei,Japan,
+490,CN-NTG,Nantong,China,45
+213,NZ-NPE,Napier,New Zealand,HKB
+214,AU-QRX,Narooma,Australia,NSW
+413,BS-NAS,Nassau,Bahamas (the),NP
+487,NR-INU,Nauru,Nauru,
+215,JP-063,Nayaura,Japan,
+216,JP-134,Naze,Japan,46
+217,US-NEB,Neah Bay,United States of America,WA
+218,NZ-NSN,Nelson,New Zealand,NSN
+219,AU-008,Nelson Bay,Australia,NSW
+220,JP-135,Nemuro,Japan,01
+221,NZ-NPL,New Plymouth,New Zealand,TKI
+222,CA-NWE,New Westminster,Canada,BC
+223,AU-NTL,Newcastle,Australia,NSW
+224,US-NPO,Newport,United States of America,OR
+225,JP-064,Nichinan,Japan,45
+226,JP-065,Niigata,Japan,15
+459,CN-NGB,Ningbo,China,33
+227,JP-136,Nobeoka,Japan,45
+477,JP-066,Nobeoka,Japan,
+228,US-OTH,North Bend,United States of America,OR
+229,JP-137,Noto,Japan,
+230,JP-138,Nou,Japan,
+231,NC-NOU,Nouméa,New Caledonia,
+233,TO-TBU,Nuku'alofa,Tonga,
+234,JP-067,Numazu,Japan,22
+235,JP-068,Nyuzen,Japan,
+236,US-ODW,Oak Harbor,United States of America,WA
+237,JP-069,Obama,Japan,
+238,US-009,"Ocean Park, WA",United States of America,WA
+502,JP-OFO,Ofunato,Japan,03
+239,JP-139,Ogatsu,Japan,04
+513,JP-149,Ogawa,Japan,
+403,JP-070,Okinawa,Japan,47
+489,PT-OLH,Olhão,Portugal,08
+240,JP-071,Omaezaki,Japan,22
+241,JP-072,Onagawa,Japan,04
+500,JP-ONA,Onahama,Japan,07
+242,JP-073,Ooita,Japan,
+243,JP-074,Ootsuki,Japan,
+244,JP-140,Otaga,Japan,
+512,JP-OTR,Otaru,Japan,01
+516,CA-OTT,Ottawa,Canada,ON
+245,JP-075,Owase,Japan,24
+246,US-PFC,Pacific City,United States of America,OR
+247,AS-PPG,Pago Pago,American Samoa,
+248,PA-PTY,Panama,Panama,
+515,US-PFN,Panama City,United States of America,FL
+249,PF-PPT,Papeete,French Polynesia,
+437,US-PEA,Pearl Harbor,United States of America,HI
+250,US-PBA,Pebble Beach,United States of America,CA
+251,US-PEC,Pelican,United States of America,AK
+488,CN-PLI,Penglai,China,37
+252,US-PSG,Petersburg,United States of America,AK
+253,US-PHL,"Philadelphia, PA",United States of America,PA
+416,KH-PNH,Phnom Penh,Cambodia,
+424,TW-PIF,Pingtung,Chinese Taipei,
+254,KR-KPO,Pohang,Korea (Republic of),47
+255,FM-PNI,Pohnpei,Federated States of Micronesia,
+256,US-PPM,Pompano Beach,United States of America,FL
+257,PT-PDL,Ponta Delgada,Portugal,20
+451,ID-PNK,"Pontianak, Kalimantan",Indonesia,
+258,AU-PAE,Port Adelaide,Australia,SA
+259,CA-PAB,Port Alberni,Canada,BC
+260,US-CLM,Port Angeles,United States of America,WA
+262,AU-009,Port Hacking,Australia,NSW
+263,AU-PJK,Port Jackson,Australia,NSW
+264,AU-PLO,Port Lincoln,Australia,SA
+265,AU-POR,Port Melbourne,Australia,VIC
+266,PG-POM,Port Moresby,Papua New Guinea,
+267,US-PXO,Port Orchard,United States of America,WA
+268,AU-PTE,Port Stephens,Australia,NSW
+269,US-TWD,Port Townsend,United States of America,WA
+270,VU-VLI,Port Vila,Vanuatu,
+271,PT-PRM,Portimao,Portugal,08
+272,US-PDX,Portland,United States of America,OR
+457,AU-PTJ,Portland,Australia,VIC
+273,US-PUL,Poulsbo,United States of America,WA
+274,CA-PRR,Prince Rupert,Canada,BC
+402,CN-TAO,Qingdao,China,37
+275,CN-SHP,Qinhuangdao,China,13
+440,PG-RAB,Rabaul,Papua New Guinea,
+277,US-ACC,Raymond,United States of America,WA
+278,US-010,"Reedsport, OR",United States of America,OR
+279,JP-076,Rikuzentakata,Japan,
+280,US-RBG,Roseburg,United States of America,OR
+281,MP-ROP,Rota,Commonwealth of the Northern Mariana Islands,
+492,CN-RSN,Rushankou,China,
+282,JP-141,Ryugatake,Japan,
+283,JP-077,Saga,Japan,
+284,JP-078,Sagara,Japan,22
+321,AU-HLS,Saint Helens,Australia,TAS
+396,MP-SPN,Saipan,Commonwealth of the Northern Mariana Islands,
+285,JP-079,Sakaiminato,Japan,31
+286,JP-080,Sakata,Japan,06
+287,JP-142,Samani,Japan,01
+288,US-IOR,Samoa,United States of America,CA
+289,US-SAN,San Diego,United States of America,CA
+290,US-SFO,San Francisco,United States of America,CA
+291,US-SJC,San Jose,United States of America,CA
+292,US-SPQ,San Pedro,United States of America,CA
+293,US-SBA,Santa Barbara,United States of America,CA
+294,US-SRU,Santa Cruz,United States of America,CA
+295,ES-EUG,Santa Eugenia,Spain,C
+296,ES-SDR,Santander,Spain,
+297,JP-081,Sasebo,Japan,42
+460,NL-SCE,Scheveningen,Netherlands,
+298,US-SLH,Seal Beach,United States of America,CA
+299,US-YSE,Seaside,United States of America,OR
+300,US-SEA,Seattle,United States of America,WA
+301,US-011,"Seaview, WA",United States of America,WA
+302,JP-143,Seiyo,Japan,
+452,ID-SRG,Semarang,Indonesia,
+303,JP-082,Sendai,Japan,
+304,CN-SHA,Shanghai,China,31
+305,CN-SHK,Shekou,China,44
+306,US-012,"Shelter Cove, CA",United States of America,CA
+307,CN-SZX,Shenzhen,China,44
+308,JP-083,Shichigahama,Japan,
+309,CN-SHD,Shidao,China,37
+310,JP-084,Shima,Japan,
+311,JP-085,Shimizu,Japan,22
+312,JP-086,Shimonoseki,Japan,35
+313,JP-087,Shinkamigoto,Japan,
+314,JP-088,Shiogama,Japan,
+315,JP-089,Shiriuchi,Japan,
+419,JP-090,Shishikui,Japan,36
+316,JP-091,Shizuoka,Japan,22
+411,SG-SIN,Singapore,Singapore,
+317,US-SIT,Sitka,United States of America,AK
+318,US-SZB,Solana Beach,United States of America,CA
+453,ID-SOQ,Sorong,Indonesia,
+319,AU-SHQ,Southport,Australia,QLD
+320,US-PGY,"Spring Valley, San Diego",United States of America,CA
+322,CA-SVN,Steveston,Canada,BC
+323,AU-SRN,Strahan,Australia,TAS
+464,TW-SUO,Suao,Chinese Taipei,
+324,CN-SUX,Suixi,China,44
+325,JP-092,Sukumo,Japan,
+326,US-UIQ,Suquamish,United States of America,WA
+328,JP-093,Susaki,Japan,39
+327,FJ-SUV,Suva,Fiji,
+329,JP-094,Suzu,Japan,
+330,AU-SYD,Sydney,Australia,NSW
+331,US-TIW,Tacoma,United States of America,WA
+332,TW-TXG,Taichung,Chinese Taipei,
+333,JP-095,Taiji,Japan,
+465,TW-TPE,Taipei,Chinese Taipei,
+470,TW-TTT,Taitung,Chinese Taipei,
+334,JP-096,Takamatsu,Japan,37
+335,JP-097,Takaoka,Japan,16
+336,JP-098,Tanabe,Japan,30
+455,ID-TPP,Tanjung Priok,Indonesia,
+337,KI-TRW,Tarawa,Kiribati,
+449,ID-TTE,"Ternate, Halmahera",Indonesia,
+338,AU-010,Terrigal,Australia,NSW
+486,CN-TNJ,Tianjin,China,
+339,JP-144,Toda,Japan,
+340,US-013,"Tokeland, WA",United States of America,WA
+341,JP-099,Tokushima,Japan,36
+342,JP-100,Tokyo,Japan,13
+343,US-TDX,Toledo,United States of America,OR
+344,JP-101,Tomari,Japan,
+497,KR-TYG,Tongyeong,Korea (Republic of),Yeongnam
+469,JP-102,Tosa,Japan,
+345,JP-103,Tosashimizu,Japan,39
+346,JP-104,Tottori,Japan,31
+501,FR-TLN,Toulon,France,83
+347,AU-TSV,Townsville,Australia,QLD
+348,JP-145,Toyama,Japan,16
+349,JP-105,Toyo,Japan,
+350,AU-011,Triabunna,Australia,TAS
+351,GB-TRN,Troon,United Kingdom,SAY
+352,JP-106,Tsu,Japan,24
+353,JP-107,Tsukumi,Japan,44
+354,JP-108,Tsuno,Japan,
+478,JP-109,Tsuruoka,Japan,
+356,AU-ULA,Ulladulla,Australia,NSW
+357,US-UAA,Unalaska,United States of America,AK
+358,JP-110,Uozu,Japan,
+359,JP-111,Ushibuka,Japan,43
+360,JP-112,Usuki,Japan,44
+361,AS-001,Utulei,American Samoa,
+362,JP-113,Uwajima,Japan,38
+401,MT-MLA,Valletta,Malta,
+363,CA-VAN,Vancouver,Canada,BC
+364,US-VNT,Ventura,United States of America,CA
+365,PT-VDC,Viana do Castelo,Portugal,16
+366,CA-VIC,Victoria,Canada,BC
+367,ES-VGO,Vigo,Spain,
+493,PT-VIC,Vila do Conde,Portugal,13
+368,ES-VIL,Villagarcía de Arosa,Spain,PO
+428,RU-FIP,Vladivostok,Russian Federation,PRI
+514,JP-150,Wagu,Japan,
+369,JP-114,Wakayama,Japan,30
+370,JP-115,Wakkanai,Japan,01
+371,US-WTO,Warrenton,United States of America,OR
+372,US-WVI,Watsonville,United States of America,CA
+461,CN-WEI,Weihai,China,37
+373,NZ-WLG,Wellington,New Zealand,WGN
+467,CN-WEN,Wenling,China,33
+374,US-014,Westport,United States of America,
+443,PG-WWK,Wewak,Papua New Guinea,
+375,NZ-WRE,Whangarei,New Zealand,NTL
+432,NL-WIS,Willemstad,Netherlands,
+491,CW-WIL,Willemstad,Curacao,
+377,US-015,Wilmington,United States of America,
+378,US-016,"Winchester Bay, OR",United States of America,OR
+379,AU-WOL,Wollongong,Australia,NSW
+517,CN-X01,Xiaoshidao,China,Shandong
+380,JP-116,Yaizu,Japan,22
+381,JP-146,Yamadamachi,Japan,
+510,JP-YAM,Yamagawa,Japan,46
+444,JP-147,Yamakawa,Japan,
+382,AU-YBA,Yamba,Australia,NSW
+383,CN-YNT,Yantai,China,37
+384,FM-YAP,Yap,Federated States of Micronesia,
+385,JP-148,Yasuda,Japan,
+386,JP-X29,Yokohama,Japan,14
+387,JP-117,Yokosuka,Japan,14
+388,JP-118,Yonabaru,Japan,
+389,JP-119,Yura,Japan,
+390,PH-ZAM,Zamboanga,Philippines,
+391,CN-ZHA,Zhanjiang,China,44
+392,CN-ZOS,Zhoushan,China,33
+495,CN-ZUH,Zhuhai,China,Guangdong
