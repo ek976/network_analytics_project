@@ -415,3 +415,54 @@ def isolate_GCC(G):
     nodes_in_giant_comp = comps[0]
     return nx.subgraph(G, nodes_in_giant_comp)
 
+
+#------------------------------
+# ANALYZE NETWORK FUNCTION
+#------------------------------
+def analyze_network(G, graph_name="Graph", top_n=10, seed=42):
+    """
+    Compute betweenness centrality, detect communities, and visualize the network.
+
+    Parameters:
+    - G: networkx.Graph
+    - graph_name: str, label for the graph in plots and printouts
+    - top_n: int, number of top nodes to display by betweenness
+    - seed: int, seed for layout reproducibility
+    """
+    print(f"\nAnalysis for {graph_name}")
+    
+    # --- Betweenness Centrality ---
+    bet_centrality = nx.betweenness_centrality(G, weight='weight', normalized=True)
+    top_bet = sorted(bet_centrality.items(), key=lambda x: x[1], reverse=True)[:top_n]
+    print("Top nodes by betweenness centrality:")
+    for node, score in top_bet:
+        print(f"  {node}: {score:.4f}")
+    
+    # --- Community Detection ---
+    try:
+        communities = list(nx.algorithms.community.greedy_modularity_communities(G))
+        print(f"Detected {len(communities)} communities")
+
+        # Assign community label to nodes
+        community_map = {}
+        for i, community in enumerate(communities):
+            for node in community:
+                community_map[node] = i
+        nx.set_node_attributes(G, community_map, "community")
+
+        # --- Visualization ---
+        plt.figure(figsize=(10, 8))
+        pos = nx.spring_layout(G, seed=seed)
+        node_color = [community_map.get(node, 0) for node in G.nodes()]
+        nx.draw_networkx_nodes(G, pos, node_size=50, node_color=node_color, cmap=plt.cm.tab10)
+        nx.draw_networkx_edges(G, pos, alpha=0.2)
+        plt.title(f"{graph_name}: Network with Community Coloring")
+        plt.axis('off')
+        plt.show()
+    except Exception as e:
+        print("Community detection or visualization failed:", e)
+
+    return {
+        "betweenness": bet_centrality,
+        "communities": communities if 'communities' in locals() else []
+    }
