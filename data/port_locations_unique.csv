@@ -1,0 +1,83 @@
+original_home_port,clean_home_port,home_port_providence_state,home_port_country,home_port_latitude,home_port_longitude
+"('Zhoushan', 'CHN')",Zhoushan,Zhejiang,CHN,29.99,122.2
+"('Ningbo', 'CHN')","Ningbo, China",Zhejiang Province,CHN,29.8682,121.5494
+"('Guangzhou', 'CHN')",Guangzhou,Guangdong Province,CHN,23.12911,113.26436
+"('Shidao', 'CHN')",Shidao,Providence/State: 不明 (Unknown),Country (three letter abbreviation): CHN,25.18109,119.43783
+"('Shanghai', 'CHN')",Shanghai,Shanghai,CHN,31.2304,121.4737
+"('Shekou', 'CHN')",Shekou,Guangdong,CHN,22.49472,113.92615
+"('Qinhuangdao', 'CHN')",Qinhuangdao,Hebei Province,CHN,38.41889,117.57167
+"('Rushankou', 'CHN')",Rushankou,CHN,CHN,27.0,113.0
+"('Weihai', 'CHN')",Weihai,Shandong,CHN,37.513611,122.117222
+"('Xiaoshidao', 'CHN')",Xiaoshidao,CHN,CHN,32.0,118.0
+"('Shenzhen', 'CHN')",Shenzhen,Guangdong,CHN,22.543099,114.057865
+"('Dalian', 'CHN')",Dalian,Liaoning Province,CHN,38.914,121.614
+"('Qingdao', 'CHN')",Qingdao,Shandong,CHN,36.0671,120.38264
+"('Yantai', 'CHN')",Yantai,Shandong Province,CHN,37.5368,121.3898
+"('Avatiu', 'COK')",Avatiu,Cook Islands (COK),COK,-21.21,-159.775
+"('Guayaquil', 'ECU')","Guayaquil, Ecuador",Guayas,ECU,-2.17,-79.922
+"('Bermeo', 'ESP')","Bermeo, Spain",Basque Country,ESP,43.68889,-2.72444
+"('Cillero', 'ESP')",Cillero,Asturias,ESP,43.30944,-6.71063
+"('Vigo', 'ESP')",Vigo,Galicia/Spain,ESP,42.24055,-8.72072
+"('Suva', 'FJI')",Suva,Central Division,FJI,-18.1416,178.4419
+"('Pohnpei', None)",Pohnpei,Pohnpei State,FSM,6.9685,158.2154
+"('Kosrae', None)",Kosrae,Kosrae,FSM,5.0,162.0
+"('Yap', None)",Yap,Yap/State of Yap,USY,9.5167,138.1167
+"('Semarang', 'IDN')",Semarang,Central Java,ID,-6.96627,110.41921
+"('Cirebon (Tjeribon)', 'IDN')",Cirebon (Tjeribon),West Java,ID,-6.73333,108.55
+"('Jakarta', 'IDN')",Jakarta,Jakarta,IDN,-6.2085,106.8456
+"('Makurazaki', 'JPN')",Makurazaki,Kagoshima,JPN,31.35833,130.305
+"('Muroto', 'JPN')","Muroto, Kochi Prefecture",Japan,JPN,33.29666,133.18567
+"('Okinawa', 'JPN')",Okinawa,JPN,JPN,26.3344,127.8058
+"('Shishikui', 'JPN')",Shishikui,Tokushima Prefecture,JPN,33.49667,134.13
+"('Numazu', 'JPN')",Numazu,Shizuoka Prefecture,JPN,35.11916,138.85306
+"('Tosashimizu', 'JPN')",Tosashimizu,Kochi,JPN,32.79,133.2375
+"('Yaizu', 'JPN')",Yaizu,Shizuoka,JPN,34.88333,138.26667
+"('Kesennuma', 'JPN')",Kesennuma,Miyagi,JPN,38.92333,141.57306
+"('Nichinan', 'JPN')",Nichinan,Miyazaki,JPN,31.2425,131.5725
+"('Shima', 'JPN')",Shima,Mie,JPN,34.475,136.84972
+"('Hirado', 'JPN')",Hirado,Nagasaki,JPN,33.39944,129.49083
+"('Ishinomaki', 'JPN')",Ishinomaki,Miyagi,JPN,38.43389,141.29361
+"('Kochi', 'JPN')",Kochi,Kochi,JPN,33.5617,133.2812
+"('Naha', 'JPN')","Naha, Okinawa",Okinawa,JPN,26.2125,127.6811
+"('Nyuzen', 'JPN')",Nyuzen,Toyama,JPN,36.83833,137.29944
+"('Kamisu-Shi', 'JPN')",Kamisu-Shi,Ibaraki Prefecture,JPN,35.91667,140.61667
+"('Itoman', 'JPN')",Itoman,Okinawa,JPN,26.11667,127.68194
+"('Kagoshima', 'JPN')",Kagoshima,Kagoshima,JPN,31.596139,130.557799
+"('Susaki', 'JPN')",Susaki,Kochi,JPN,33.19,133.19944
+"('Minamiise', 'JPN')",Minamiise,Mie,JPN,34.265,136.6325
+"('Fukuoka', 'JPN')",Fukuoka,Fukuoka Prefecture,JPN,33.590355,130.401716
+"('Tokushima', 'JPN')",Tokushima,Tokushima,JPN,34.07,134.554444
+"('Nango', 'JPN')",Nango,Japan (JPN),Country (JPN),38.19444,140.95
+"('Kamaishi', 'JPN')",Kamaishi,Iwate Prefecture,JPN,39.29167,141.89
+"('Sakaiminato', 'JPN')",Sakaiminato,Tottori,JPN,35.545,133.24444
+"('Shiogama', 'JPN')",Shiogama,Miyagi,JPN,38.27218,141.02604
+"('Onagawa', 'JPN')",Onagawa,Miyagi Prefecture,JPN,38.36472,141.72361
+"('Omaezaki', 'JPN')",Omaezaki,Shizuoka Prefecture,JPN,34.52972,138.2175
+"('Kushimoto', 'JPN')",Kushimoto,Wakayama Prefecture,JPN,33.4175,135.75417
+"('Kawaminami', 'JPN')",Kawaminami,Miyazaki,JPN,32.09444,131.44972
+"('Miyako', 'JPN')",Miyako,Iwate,JPN,39.62278,141.94972
+"('Niigata', 'JPN')",Niigata,Niigata Prefecture,JPN,37.91018,138.93367
+"('Owase', 'JPN')",Owase,Mie,JPN,34.0625,136.205
+"('Matsue', 'JPN')",Matsue,Shimane,JPN,35.4675,133.0525
+"('Hakodate', 'JPN')",Hakodate,Hokkaido,JPN,41.7684,140.7371
+"('Nakatane', 'JPN')","Nakatane, Japan",Kagoshima,JPN,30.54722,130.73278
+"('Shizuoka', 'JPN')",Shizuoka,Shizuoka,JPN,34.97694,138.38333
+"('Tsukumi', 'JPN')",Tsukumi,Oita,JPN,33.32278,131.85528
+"('Nachikatsuura', 'JPN')",Nachikatsuura,Wakayama,JPN,33.59,135.835
+"('Betio', 'KIR')",Betio,Kiribati,KIR,-0.365,179.0
+"('Tarawa', 'KIR')",Tarawa,Kiribati,KIR,-1.428417,173.178343
+"('Busan', None)",Busan,South Korea,KOR,35.1796,129.0756
+"('Jaluit Island', 'MHL')",Jaluit Island,Marshall Islands (MHL),MHL,8.74,169.5
+"('Nauru', 'NRU')",Nauru,Nauru,NRU,-0.5478,166.92
+"('Manila', 'PHL')",Manila,National Capital Region,PHL,14.599512,120.984222
+"('General Santos', 'PHL')",General Santos,South Cotabato,PHL,6.1025,125.1691
+"('Port Moresby', 'PNG')",Port Moresby,Papua New Guinea (PNG),PNG,-9.4433,147.18
+"('Honiara', 'SLB')",Honiara,Solomon Islands,SLB,-9.42944,159.95123
+"('La Union', 'SLV')",La Union,San Luis Talpa,SLV,13.515,-89.16056
+"('Funafuti', 'TUV')",Funafuti,Tuvalu,TUV,-7.10933,179.19445
+"('Kaohsiung', None)",Kaohsiung,Taiwan (TW),TW,22.6167,120.3133
+"('Keelung', None)",Keelung,Taiwan (Province: Keelung City),TWN,25.1261,121.74154
+"('Pingtung', None)",Pingtung,Pingtung,TWN,22.455,120.4875
+"('Pago Pago', 'ASM')",Pago Pago,American Samoa,ASM,-14.275,-170.7025
+"('Honolulu', None)",Honolulu,Hawaii,USA,21.306944,-157.858333
+"('Port Vila', 'VUT')",Port Vila,Efate,VUT,-17.73333,168.3275
