@@ -3262,10 +3262,27 @@ window.Quarto = {
   <li><a href="#background" id="toc-background" class="nav-link" data-scroll-target="#background"><span class="header-section-number">1.1</span> Background</a></li>
   <li><a href="#previous-work" id="toc-previous-work" class="nav-link" data-scroll-target="#previous-work"><span class="header-section-number">1.2</span> Previous Work</a></li>
   </ul></li>
-  <li><a href="#data-source" id="toc-data-source" class="nav-link" data-scroll-target="#data-source"><span class="header-section-number">2</span> Data Source</a></li>
-  <li><a href="#appendix" id="toc-appendix" class="nav-link" data-scroll-target="#appendix"><span class="header-section-number">3</span> Appendix</a>
+  <li><a href="#data" id="toc-data" class="nav-link" data-scroll-target="#data"><span class="header-section-number">2</span> Data</a>
   <ul class="collapse">
-  <li><a href="#appendix-1-fishing-areas" id="toc-appendix-1-fishing-areas" class="nav-link" data-scroll-target="#appendix-1-fishing-areas"><span class="header-section-number">3.1</span> Appendix 1: Fishing Areas</a></li>
+  <li><a href="#data-collection" id="toc-data-collection" class="nav-link" data-scroll-target="#data-collection"><span class="header-section-number">2.1</span> Data Collection</a></li>
+  <li><a href="#data-cleaning" id="toc-data-cleaning" class="nav-link" data-scroll-target="#data-cleaning"><span class="header-section-number">2.2</span> Data Cleaning</a>
+  <ul class="collapse">
+  <li><a href="#geo-spatial-data-preparation" id="toc-geo-spatial-data-preparation" class="nav-link" data-scroll-target="#geo-spatial-data-preparation"><span class="header-section-number">2.2.1</span> Geo-Spatial Data Preparation</a></li>
+  <li><a href="#network-data-preparation" id="toc-network-data-preparation" class="nav-link" data-scroll-target="#network-data-preparation"><span class="header-section-number">2.2.2</span> Network Data Preparation</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#methodology" id="toc-methodology" class="nav-link" data-scroll-target="#methodology"><span class="header-section-number">3</span> Methodology</a>
+  <ul class="collapse">
+  <li><a href="#network-construction" id="toc-network-construction" class="nav-link" data-scroll-target="#network-construction"><span class="header-section-number">3.1</span> Network Construction</a></li>
+  </ul></li>
+  <li><a href="#results-or-findings" id="toc-results-or-findings" class="nav-link" data-scroll-target="#results-or-findings"><span class="header-section-number">4</span> Results (or Findings?)</a>
+  <ul class="collapse">
+  <li><a href="#geo-spatial-analysis-results" id="toc-geo-spatial-analysis-results" class="nav-link" data-scroll-target="#geo-spatial-analysis-results"><span class="header-section-number">4.1</span> Geo-Spatial Analysis Results</a></li>
+  </ul></li>
+  <li><a href="#outlook" id="toc-outlook" class="nav-link" data-scroll-target="#outlook"><span class="header-section-number">5</span> Outlook</a></li>
+  <li><a href="#appendix" id="toc-appendix" class="nav-link" data-scroll-target="#appendix"><span class="header-section-number">6</span> Appendix</a>
+  <ul class="collapse">
+  <li><a href="#sec-appendix1" id="toc-sec-appendix1" class="nav-link" data-scroll-target="#sec-appendix1"><span class="header-section-number">6.1</span> Appendix 1: Fishing Areas</a></li>
   </ul></li>
   </ul>
 <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="../Network_Analysis_Paper.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
@@ -3324,110 +3341,256 @@ Figure 2: The WCPFC Convention Area spans the Pacific Ocean from roughly 141°E
 <p>This paper builds on these foundations by exploring how network analysis might be applied to the WCPFC fisheries context. However, our initial focus remains on developing methods and understanding the available data, rather than drawing definitive conclusions at this stage.</p>
 </section>
 </section>
-<section id="data-source" class="level1" data-number="2">
-<h1 data-number="2"><span class="header-section-number">2</span> Data Source</h1>
-<p>WCPFC Registry of Fishing Vessels (RFV)</p>
+<section id="data" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Data</h1>
+<p>Understanding the fisheries landscape in the Wester Pacific requires integrating information from multiple domains. A large part of this analysis was creating this robust data set, which enabled the construction of a fisheries network and the application of network analysis methods to address the problem. Accordingly, we relied on datasets from international organizations, satellite-based monitoring platforms, and open-source geospatial repositories.</p>
+<section id="data-collection" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="data-collection"><span class="header-section-number">2.1</span> Data Collection</h2>
+<p>The first data source was the WCPFC’s Registry of Fishing Vessels (RFV) <span class="citation" data-cites="wcpfc_rfv">(<a href="#ref-wcpfc_rfv" role="doc-biblioref"><span>“WCPFC RFV”</span> n.d.</a>)</span>. This is a list of approximately 3,000 vessels that are authorized to fish within the WCPFC’s Convention Area. The RFV contains the whole of the vessels’ registration information, including official name, flag state, identification numbers, home port, vessel type, and owner information.</p>
+<p>Since the goal was to look at the actual fishing vessel activity, rather than just the registration of vessels, a second primary data source was introduced to create the network. Automatic Identification System, or AIS, is a near real-time record of the location of vessels. AIS was originally a collision avoidance tool for vessels over 300 tons, but some fishing vessels also utilize it. While many AIS viewing and collection sources are paid services, this analysis utilized open-source AIS information from <span class="citation" data-cites="gloabl_fishing_watch_map">(<a href="#ref-gloabl_fishing_watch_map" role="doc-biblioref"><strong>gloabl_fishing_watch_map?</strong></a>)</span> to identify vessels that fished within the Western Pacific.</p>
+<p>Global Fishing Watch applies their own “fishing detection algorithm based on changes in vessel speed and direction”, so that only the Apparent Fishing Effort was collected <span class="citation" data-cites="gfw_fishing_actiivty_guide">(<a href="#ref-gfw_fishing_actiivty_guide" role="doc-biblioref">Global Fishing Watch 2025b</a>)</span>. Fishing vessel AIS activity was collected from the major fishing areas, EEZs and High Seas Pockets<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a>, within the Western Pacific. The exact areas and their boundaries can be found in <a href="#sec-appendix1" class="quarto-xref">Section 6.1</a>. The activity was collected for each individual area from 01JUL2024 to 01JUL2025, with each observation identifying the vessel and how many hours they exhibited fishing activity in that time period. The full breakdown of Global Fishing Watch’s fishing vessel activity algorithm can be found in their 2018 paper, <span class="citation" data-cites="Kroodsma2018TrackingGlobalFootprint">Kroodsma et al. (<a href="#ref-Kroodsma2018TrackingGlobalFootprint" role="doc-biblioref">2018</a>)</span>.</p>
+<p>It should also be noted that WCPFC also requires the use of Vessel Monitoring Systems, or VMS, for vessels fishing on the High Seas within the Convention Area. However, VMS is only accessible by those member states and agencies and organizations dedicated to fishers and is not publicly available. For that reason, VMS was not included in this analysis.</p>
 </section>
-<section id="appendix" class="level1" data-number="3">
-<h1 data-number="3"><span class="header-section-number">3</span> Appendix</h1>
-<section id="appendix-1-fishing-areas" class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="appendix-1-fishing-areas"><span class="header-section-number">3.1</span> Appendix 1: Fishing Areas</h2>
-<p>The AIS data collected for the apparent fishing activity was broken down by area, primarily Exclusive Economic Zones (EEZ) but also High Seas Pockets. The centroids of the EEZs were computed from <span class="citation" data-cites="vliz2023maritime">Flanders Marine Institute (<a href="#ref-vliz2023maritime" role="doc-biblioref">2023</a>)</span>. For this analysis, the following areas were observed:</p>
+<section id="data-cleaning" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="data-cleaning"><span class="header-section-number">2.2</span> Data Cleaning</h2>
+<p>Before analysis, the data required several cleaning and preprocessing steps to ensure consistency and usability, along with preparing it for network creation. The Registry of Fishing Vessels was a complete data set, in that all the fields were filled out, but there was some variation of the completeness within the fields. The field with the most inconsistency was the fishing vessels’ owner’s address field. Since the AIS data set that is be paired with RFV has a significant spatial aspect, the locations of the owners/companies were of interest. The inconsistencies with this field stem from the fact that owners are spread throughout Asia (and the world) and many countries have different ways of writing addresses. To create uniformity in the owner location, this field was cleaned utilizing OpenAI’s API, specifically the gpt-4o-mini model’s chat responses <span class="citation" data-cites="OpenAI2025API">(<a href="#ref-OpenAI2025API" role="doc-biblioref">OpenAI 2025</a>)</span>, to extract the approximate latitude and longitude location of the owner/company.</p>
+<p>For readability, additional cleaning and standardization was conducted on the RFV. The fishing vessel types were extracted from <span class="citation" data-cites="FAO_fishery_vessels">Food and United Nations (FAO) (<a href="#ref-FAO_fishery_vessels" role="doc-biblioref">2019</a>)</span> and the home port information was cross referenced with WCPFC’s list of full port names <span class="citation" data-cites="WCPFC2025PortsRFV">(<a href="#ref-WCPFC2025PortsRFV" role="doc-biblioref">Western and Central Pacific Fisheries Commission (WCPFC) 2025</a>)</span>. OpenAI’s API was utilized again to extract the approximate latitude and longitude location of the home port as well.</p>
+<section id="geo-spatial-data-preparation" class="level3" data-number="2.2.1">
+<h3 data-number="2.2.1" class="anchored" data-anchor-id="geo-spatial-data-preparation"><span class="header-section-number">2.2.1</span> Geo-Spatial Data Preparation</h3>
+<p>Given the spatial nature of the problem, a key objective of the analysis was to map the fishing vessel activity network in relation to each vessel’s home port and ownership location. Achieving this required precise spatial coordinates for all network nodes.</p>
+<p>To establish node locations, fishing area geometries were used as a foundation. For Exclusive Economic Zones (EEZs), centroids<a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a> were calculated from shapefiles provided by the Maritime Boundaries Geodatabase <span class="citation" data-cites="maritime_boundaries2023">(<a href="#ref-maritime_boundaries2023" role="doc-biblioref">Flanders Marine Institute 2023</a>)</span>. High Seas Pocket geometries were manually delineated and extracted from the Global Fishing Watch map <span class="citation" data-cites="global_fishing_watch_map">(<a href="#ref-global_fishing_watch_map" role="doc-biblioref">Global Fishing Watch 2025a</a>)</span>, and their centroids were similarly computed. Finally, the vessel ownership locations were calculated by spatial joins with the world’s administrative boundaries of states and provinces <span class="citation" data-cites="NaturalEarth_Admin1_StatesProvinces_v2">(<a href="#ref-NaturalEarth_Admin1_StatesProvinces_v2" role="doc-biblioref">Earth and Society 2012</a>)</span>. This allowed ownership locations to be grouped together on some level for easier visualization.</p>
+</section>
+<section id="network-data-preparation" class="level3" data-number="2.2.2">
+<h3 data-number="2.2.2" class="anchored" data-anchor-id="network-data-preparation"><span class="header-section-number">2.2.2</span> Network Data Preparation</h3>
+<p>The final data set merged together the AIS data from the fishing areas and the vessel information from the RFV. To facilitate the network construction, each observation was a singular vessel fishing in a singular fishing area, with the vessel and area attributes included. Ultimately, this data set is an edge list with additional node and edge attributes. Here are the final fields of the dataset:</p>
+<div id="tbl-dataset" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-dataset-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table 1: Final Data Set Edge List Fields
+</figcaption>
+<div aria-describedby="tbl-dataset-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <table class="caption-top table">
 <colgroup>
-<col style="width: 50%">
-<col style="width: 50%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Vessel Name</td>
+<td>Flag State</td>
+<td>Fishing Area</td>
+<td>Fishing Hours</td>
+</tr>
+<tr class="even">
+<td>Vessel Type</td>
+<td>Homeport Name</td>
+<td>Homeport Province/State</td>
+<td>Homeport Country</td>
+</tr>
+<tr class="odd">
+<td>Owner Name</td>
+<td>Owner Address</td>
+<td>Owner Province/State</td>
+<td>Owner Country</td>
+</tr>
+<tr class="even">
+<td>Owner Latitude</td>
+<td>Owner Longitude</td>
+<td>Homeport Latitude</td>
+<td>Homeport Longitude</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+</section>
+</section>
+</section>
+<section id="methodology" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Methodology</h1>
+<p>Here is what we are planning on doing</p>
+<section id="network-construction" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="network-construction"><span class="header-section-number">3.1</span> Network Construction</h2>
+<p>Talk about about the network itself</p>
+<div id="tbl-network-summary" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-network-summary-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table 2: Node and Edge Types for all networks
+</figcaption>
+<div aria-describedby="tbl-network-summary-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Node Type 1</th>
+<th>Node Type 2</th>
+<th>Edge Relationship</th>
+<th>Edge Attribute</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A</td>
+<td>B</td>
+<td>C</td>
+<td>G</td>
+</tr>
+<tr class="even">
+<td>E</td>
+<td>F</td>
+<td>G</td>
+<td>G</td>
+</tr>
+<tr class="odd">
+<td>A</td>
+<td>G</td>
+<td>G</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+</section>
+</section>
+<section id="results-or-findings" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Results (or Findings?)</h1>
+<p>Results of our analysis</p>
+<section id="geo-spatial-analysis-results" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="geo-spatial-analysis-results"><span class="header-section-number">4.1</span> Geo-Spatial Analysis Results</h2>
+<p>MAPS!!</p>
+</section>
+</section>
+<section id="outlook" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Outlook</h1>
+<p>Outlook rather than Conclusion? I think that makes more sense for our kind of paper, but I could be wrong.</p>
+</section>
+<section id="appendix" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Appendix</h1>
+<section id="sec-appendix1" class="level2" data-number="6.1">
+<h2 data-number="6.1" class="anchored" data-anchor-id="sec-appendix1"><span class="header-section-number">6.1</span> Appendix 1: Fishing Areas</h2>
+<p>The AIS data collected for the apparent fishing activity was broken down by area, primarily Exclusive Economic Zones (EEZ) but also High Seas Pockets. The centroids of the EEZs were computed from <span class="citation" data-cites="maritime_boundaries2023">Flanders Marine Institute (<a href="#ref-maritime_boundaries2023" role="doc-biblioref">2023</a>)</span> using geopandas. For this analysis, the following areas were observed:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
 </colgroup>
 <thead>
 <tr class="header">
 <th>Observed Area</th>
 <th>Description</th>
+<th>Centroid</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Fiji EEZ</td>
 <td>Exclusive Economic Zone of Fiji</td>
+<td>177.689346, -17.94847097</td>
 </tr>
 <tr class="even">
 <td>Federated States of Micronesia (FSM) EEZ</td>
-<td></td>
+<td>Exclusive Economic Zone of FSM</td>
+<td>150.3224817, 6.768434442</td>
 </tr>
 <tr class="odd">
-<td>Kiribati EEZ - 1 - Gilbert Islands Group</td>
-<td></td>
+<td>Kiribati EEZ - 1</td>
+<td>Exclusive Economic Zone of Kiribati (Gilbert Islands Group)</td>
+<td>173.8878893, -0.25912361</td>
 </tr>
 <tr class="even">
-<td>Kiribati EEZ - 2 - Phoenix Islands Group</td>
-<td></td>
+<td>Kiribati EEZ - 2</td>
+<td>Exclusive Economic Zone of of Kiribati (Phoenix Islands Group)</td>
+<td>187.5460348, -3.731812109</td>
 </tr>
 <tr class="odd">
 <td>Nauru EEZ</td>
-<td></td>
+<td>Exclusive Economic Zone of Nauru</td>
+<td>166.1239638, -0.591130617</td>
 </tr>
 <tr class="even">
 <td>Palau EEZ</td>
-<td></td>
+<td>Exclusive Economic Zone of Palau</td>
+<td>133.069498, 6.443930362</td>
 </tr>
 <tr class="odd">
 <td>Papua New Guinea (PNG) EEZ</td>
+<td>Exclusive Economic Zone of PNG</td>
 <td></td>
 </tr>
 <tr class="even">
 <td>Republic of the Marshall Islands (RMI) EEZ</td>
-<td></td>
+<td>Exclusive Economic Zone of RMI</td>
+<td>167.4854677, 10.15136115</td>
 </tr>
 <tr class="odd">
 <td>Solomon Islands EEZ</td>
-<td></td>
+<td>Exclusive Economic Zone of the Solomon Islands</td>
+<td>163.6853914, -10.04465238</td>
 </tr>
 <tr class="even">
 <td>Tonga EEZ</td>
-<td></td>
+<td>Exclusive Economic Zone of Tonga</td>
+<td>185.2341392, -20.22174869</td>
 </tr>
 <tr class="odd">
 <td>Tuvalu EEZ</td>
-<td></td>
+<td>Exclusive Economic Zone of Tuvalu</td>
+<td>178.1828785, -7.812542137</td>
 </tr>
 <tr class="even">
-<td>United States of America (USA) EEZ - 1 - Guam</td>
-<td></td>
+<td>United States of America (USA) EEZ - 1</td>
+<td>Exclusive Economic Zone of Guam</td>
+<td>144.0026079, 12.9295752</td>
 </tr>
 <tr class="odd">
-<td>United States of America (USA) EEZ - 2 - Commonwealth of the Northern Marianas Islands</td>
-<td></td>
+<td>United States of America (USA) EEZ - 2</td>
+<td>Exclusive Economic Zone of Commonwealth of the Northern Marianas Islands</td>
+<td>145.7393322, 18.28659832</td>
 </tr>
 <tr class="even">
 <td>Vanuatu EEZ</td>
-<td></td>
+<td>Exclusive Economic Zone of Vanuatu</td>
+<td>168.5574292, -16.58523096</td>
 </tr>
 <tr class="odd">
 <td>High Seas Pocket 1</td>
 <td>Bounded by Japan’s, USA’s, Palau’s, FSM’s, and Philippines’ EEZs</td>
+<td>133.2661348, 16.03818414</td>
 </tr>
 <tr class="even">
 <td>High Seas Pocket 2</td>
 <td>Bounded by FSM’s, PNG’s, Indonesia’s, and Palau’s EEZs</td>
+<td>142.8799343, 3.058219655</td>
 </tr>
 <tr class="odd">
 <td>High Seas Pocket 3</td>
 <td>Bounded by 20° N to the North and RMI’s, FSM’s, and USA’s EEZs</td>
+<td>155.9543427, 16.04415883</td>
 </tr>
 <tr class="even">
 <td>High Seas Pocket 4</td>
 <td>Bounded by FSM’s, Nauru’s, RMI’s, Kiribati’s (Gilbert Islands), Tuvalu’s, Fiji’s, Solomon Islands’, and PNG’s EEZs</td>
+<td>165.9243784, -3.385867731</td>
 </tr>
 <tr class="odd">
 <td>High Seas Pocket 5</td>
 <td>Bounded by Fiji’s, Vanuatu’s, and Solomon Islands’ EEZs</td>
+<td>173.0194775, -15.37523716</td>
 </tr>
 <tr class="even">
 <td>High Seas Pocket 6</td>
 <td>Bounded by the Equator (0°) to the North and Howland and Baker Islands’ (USA), Kiribati’s (Phoenix Islands), Tokelau’s (New Zealand), Wallis and Fortuna’s (France), Tuvalu’s, and Kiribati’s (Gilbert Islands) EEZs</td>
+<td>-165.3957946, -4.886868152</td>
 </tr>
 <tr class="odd">
 <td>High Seas Pocket 7</td>
 <td>Bounded by the Equator (0°) to the North and Howland and Baker Islands’ (USA), Kiribati’s (Phoenix Islands), Tokelau’s (New Zealand), Cook Islands’ (New Zealand), Jarvis Islands’ (USA), and Kiribati’s (Line Islands) EEZs</td>
+<td>-164.5540955, -4.161049605</td>
 </tr>
 </tbody>
 </table>
@@ -3447,11 +3610,26 @@ Dell’Apa, Andrea, Jeffrey C. Johnson, David G. Kimmel, and Roger A. Rulifson. 
 <div id="ref-dellapa2014dogfish" class="csl-entry" role="listitem">
 ———. 2014. <span>“The International Trade and Fishery Management of Spiny Dogfish: A Social Network Approach.”</span> <em>Ocean &amp; Coastal Management</em> 96: 165–72. <a href="https://doi.org/10.1016/j.ocecoaman.2014.05.007">https://doi.org/10.1016/j.ocecoaman.2014.05.007</a>.
 </div>
-<div id="ref-vliz2023maritime" class="csl-entry" role="listitem">
+<div id="ref-NaturalEarth_Admin1_StatesProvinces_v2" class="csl-entry" role="listitem">
+Earth, Natural, and North American Cartographic Information Society. 2012. <span>“Admin 1 – States &amp; Provinces (Cultural Vector, 1:10 m, Version 2.0.0).”</span> ESRI Shapefile. <a href="https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-1-states-provinces/">https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-1-states-provinces/</a>.
+</div>
+<div id="ref-maritime_boundaries2023" class="csl-entry" role="listitem">
 Flanders Marine Institute. 2023. <span>“Maritime Boundaries Geodatabase: Maritime Boundaries and Exclusive Economic Zones (200NM), Version 12.”</span> <a href="https://www.marineregions.org/" class="uri">https://www.marineregions.org/</a>. <a href="https://doi.org/10.14284/632">https://doi.org/10.14284/632</a>.
+</div>
+<div id="ref-FAO_fishery_vessels" class="csl-entry" role="listitem">
+Food, and Agriculture Organization of the United Nations (FAO). 2019. <span>“INTERNATIONAL STANDARD STATISTICAL CLASSIFICATION OF FISHERY VESSELS BY VESSEL TYPES.”</span> FAO Fisheries and Aquaculture Report. FAO.
 </div>
 <div id="ref-ford_chasing_2018" class="csl-entry" role="listitem">
 Ford, Jessica H., Brock Bergseth, and Chris Wilcox. 2018. <span>“Chasing the Fish Oil—Do Bunker Vessels Hold the Key to Fisheries Crime Networks?”</span> <em>Frontiers in Marine Science</em> 5 (August). <a href="https://doi.org/10.3389/fmars.2018.00267">https://doi.org/10.3389/fmars.2018.00267</a>.
+</div>
+<div id="ref-global_fishing_watch_map" class="csl-entry" role="listitem">
+Global Fishing Watch. 2025a. <span>“Custom Map View: Fishing Effort and EEZ Boundaries in the Western Pacific.”</span> Interactive web map. <a href="https://globalfishingwatch.org/map/index?longitude=156.81440410472072&amp;latitude=-1.6107084045585427&amp;zoom=3.749255682384149">https://globalfishingwatch.org/map/index?longitude=156.81440410472072&amp;latitude=-1.6107084045585427&amp;zoom=3.749255682384149</a>.
+</div>
+<div id="ref-gfw_fishing_actiivty_guide" class="csl-entry" role="listitem">
+———. 2025b. <span>“User Guide — <span>‘Activity – Fishing’</span>.”</span> Web page, Global Fishing Watch user guide. <a href="https://globalfishingwatch.org/user-guide/#Activity%20-%20Fishing">https://globalfishingwatch.org/user-guide/#Activity%20-%20Fishing</a>.
+</div>
+<div id="ref-Kroodsma2018TrackingGlobalFootprint" class="csl-entry" role="listitem">
+Kroodsma, David A., Juan Mayorga, Timothy Hochberg, Nathan A. Miller, Kristina Boerder, Francesco Ferretti, Alex Wilson, et al. 2018. <span>“Tracking the Global Footprint of Fisheries.”</span> <em>Science</em> 359 (6378): 904–8. <a href="https://doi.org/10.1126/science.aao5646">https://doi.org/10.1126/science.aao5646</a>.
 </div>
 <div id="ref-marin_network_2010" class="csl-entry" role="listitem">
 Marín, Andrés, and Fikret Berkes. 2010. <span>“Network Approach for Understanding Small-Scale Fisheries Governance: The Case of the Chilean Coastal Co-Management System.”</span> <em>Marine Policy</em> 34 (5): 851–58. <a href="https://doi.org/10.1016/j.marpol.2010.01.007">https://doi.org/10.1016/j.marpol.2010.01.007</a>.
@@ -3465,6 +3643,9 @@ National Oceanic and Atmospheric Administration. 2024. <span>“Jurisdiction ove
 <div id="ref-nogueira2023dynamics" class="csl-entry" role="listitem">
 Nogueira, Brenda, Ana Torres, Nuno Moniz, and Gui M. Menezes. 2023. <span>“Dynamics of Fisheries in the Azores Islands: A Network Analysis Approach.”</span> <a href="https://arxiv.org/abs/2309.09378">https://arxiv.org/abs/2309.09378</a>.
 </div>
+<div id="ref-OpenAI2025API" class="csl-entry" role="listitem">
+OpenAI. 2025. <span>“OpenAI API (GPT-4).”</span> <a href="https://platform.openai.com/" class="uri">https://platform.openai.com/</a>.
+</div>
 <div id="ref-poortvliet_sustainable_2024" class="csl-entry" role="listitem">
 Poortvliet, Dave. 2024. <span>“Sustainable Fisheries Management Begins with Vessel Tracking. Global Fishing Watch.”</span> October 24, 2024. <a href="https://globalfishingwatch.org/fact-sheet/sustainable-fisheries-management-begins-with-vessel-tracking/">https://globalfishingwatch.org/fact-sheet/sustainable-fisheries-management-begins-with-vessel-tracking/</a>.
 </div>
@@ -3473,6 +3654,9 @@ Varlamis, Iraklis, Ioannis Kontopoulos, Konstantinos Tserpes, Mohammad Etemad, A
 </div>
 <div id="ref-wcpfc_rfv" class="csl-entry" role="listitem">
 <span>“WCPFC RFV.”</span> n.d. Accessed April 23, 2025. <a href="https://vessels.wcpfc.int/statistics/by-vessel-type">https://vessels.wcpfc.int/statistics/by-vessel-type</a>.
+</div>
+<div id="ref-WCPFC2025PortsRFV" class="csl-entry" role="listitem">
+Western and Central Pacific Fisheries Commission (WCPFC). 2025. <span>“List of Ports for RFV.”</span> WCPFC. <a href="https://www.wcpfc.int/doc/list-ports-rfv">https://www.wcpfc.int/doc/list-ports-rfv</a>.
 </div>
 <div id="ref-pew_faq_2012" class="csl-entry" role="listitem">
 <span>“What Is a Regional Fishery Management Organization. Pew.”</span> 2012. February 23, 2012. <a href="http://bit.ly/102wBKa">http://bit.ly/102wBKa</a>.
@@ -3488,6 +3672,8 @@ Varlamis, Iraklis, Ioannis Kontopoulos, Konstantinos Tserpes, Mohammad Etemad, A
 Members - Australia, China, Canada, Cook Islands, European Union, Federated States of Micronesia, Fiji, France, Indonesia, Japan, Kiribati, Republic of Korea, Republic of Marshall Islands, Nauru, New Zealand, Niue, Palau, Papua New Guinea, Philippines, Samoa, Solomon Islands, Chinese Taipei, Tonga, Tuvalu, United States of America, Vanuatu.<br>
 Participating Territories - American Samoa, Commonwealth of the Northern Mariana Islands, French Polynesia, Guam, New Caledonia, Tokelau, Wallis and Futuna.<br>
 Cooperating Non-member(s) - The Bahamas, Curacao, Ecuador, El Salvador, Liberia, Panama, Thailand, Vietnam.<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6"><p>High Seas Pockets are areas between county’s Exclusive Economic Zones.<a href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7"><p>Note: The centroids are used just for visual representation and no distances were computed from these figures.<a href="#fnref7" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main>
 <!-- /main column -->

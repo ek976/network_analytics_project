@@ -103,41 +103,110 @@ Across this body of work, researchers have applied diverse network approaches --
 
 This paper builds on these foundations by exploring how network analysis might be applied to the WCPFC fisheries context. However, our initial focus remains on developing methods and understanding the available data, rather than drawing definitive conclusions at this stage.
 
-# Data Source
+# Data
 
-WCPFC Registry of Fishing Vessels (RFV)
+Understanding the fisheries landscape in the Wester Pacific requires integrating information from multiple domains. A large part of this analysis was creating this robust data set, which enabled the construction of a fisheries network and the application of network analysis methods to address the problem. Accordingly, we relied on datasets from international organizations, satellite-based monitoring platforms, and open-source geospatial repositories.
+
+## Data Collection
+
+The first data source was the WCPFC's Registry of Fishing Vessels (RFV) [@wcpfc_rfv]. This is a list of approximately 3,000 vessels that are authorized to fish within the WCPFC's Convention Area. The RFV contains the whole of the vessels' registration information, including official name, flag state, identification numbers, home port, vessel type, and owner information.
+
+Since the goal was to look at the actual fishing vessel activity, rather than just the registration of vessels, a second primary data source was introduced to create the network. Automatic Identification System, or AIS, is a near real-time record of the location of vessels. AIS was originally a collision avoidance tool for vessels over 300 tons, but some fishing vessels also utilize it. While many AIS viewing and collection sources are paid services, this analysis utilized open-source AIS information from @gloabl_fishing_watch_map to identify vessels that fished within the Western Pacific. 
+
+Global Fishing Watch applies their own "fishing detection algorithm based on changes in vessel speed and direction", so that only the Apparent Fishing Effort was collected [@gfw_fishing_actiivty_guide]. Fishing vessel AIS activity was collected from the major fishing areas, EEZs and High Seas Pockets[^5], within the Western Pacific. The exact areas and their boundaries can be found in @sec-appendix1. The activity was collected for each individual area from 01JUL2024 to 01JUL2025, with each observation identifying the vessel and how many hours they exhibited fishing activity in that time period. The full breakdown of Global Fishing Watch's fishing vessel activity algorithm can be found in their 2018 paper, @Kroodsma2018TrackingGlobalFootprint.
+
+It should also be noted that WCPFC also requires the use of Vessel Monitoring Systems, or VMS, for vessels fishing on the High Seas within the Convention Area. However, VMS is only accessible by those member states and agencies and organizations dedicated to fishers and is not publicly available. For that reason, VMS was not included in this analysis.
+
+[^5]: High Seas Pockets are areas between county's Exclusive Economic Zones.
+
+## Data Cleaning
+
+Before analysis, the data required several cleaning and preprocessing steps to ensure consistency and usability, along with preparing it for network creation. The Registry of Fishing Vessels was a complete data set, in that all the fields were filled out, but there was some variation of the completeness within the fields. The field with the most inconsistency was the fishing vessels' owner's address field. Since the AIS data set that is be paired with RFV has a significant spatial aspect, the locations of the owners/companies were of interest. The inconsistencies with this field stem from the fact that owners are spread throughout Asia (and the world) and many countries have different ways of writing addresses. To create uniformity in the owner location, this field was cleaned utilizing OpenAI's API, specifically the gpt-4o-mini model's chat responses [@OpenAI2025API], to extract the approximate latitude and longitude location of the owner/company.
+
+For readability, additional cleaning and standardization was conducted on the RFV. The fishing vessel types were extracted from @FAO_fishery_vessels and the home port information was cross referenced with WCPFC's list of full port names [@WCPFC2025PortsRFV]. OpenAI's API was utilized again to extract the approximate latitude and longitude location of the home port as well. 
+
+### Geo-Spatial Data Preparation
+
+Given the spatial nature of the problem, a key objective of the analysis was to map the fishing vessel activity network in relation to each vessel’s home port and ownership location. Achieving this required precise spatial coordinates for all network nodes.
+
+To establish node locations, fishing area geometries were used as a foundation. For Exclusive Economic Zones (EEZs), centroids[^6] were calculated from shapefiles provided by the Maritime Boundaries Geodatabase [@maritime_boundaries2023]. High Seas Pocket geometries were manually delineated and extracted from the Global Fishing Watch map [@global_fishing_watch_map], and their centroids were similarly computed. Finally, the vessel ownership locations were calculated by spatial joins with the world's administrative boundaries of states and provinces [@NaturalEarth_Admin1_StatesProvinces_v2]. This allowed ownership locations to be grouped together on some level for easier visualization.
+
+[^6]: Note: The centroids are used just for visual representation and no distances were computed from these figures.
+
+### Network Data Preparation
+
+The final data set merged together the AIS data from the fishing areas and the vessel information from the RFV. To facilitate the network construction, each observation was a singular vessel fishing in a singular fishing area, with the vessel and area attributes included. Ultimately, this data set is an edge list with additional node and edge attributes. Here are the final fields of the dataset:
+
+|      |      |      |      |
+|------|------|------|------|
+| Vessel Name   | Flag State     | Fishing Area             | Fishing Hours      |
+| Vessel Type   | Homeport Name  | Homeport Province/State  | Homeport Country   |
+| Owner Name    | Owner Address  | Owner Province/State     | Owner Country      |
+| Owner Latitude| Owner Longitude| Homeport Latitude        | Homeport Longitude |
+
+: Final Data Set Edge List Fields {#tbl-dataset}
 
 
-# Appendix
+# Methodology
 
-## Appendix 1: Fishing Areas
+Here is what we are planning on doing
 
-The AIS data collected for the apparent fishing activity was broken down by area, primarily Exclusive Economic Zones (EEZ) but also High Seas Pockets. The centroids of the EEZs were computed from @vliz2023maritime. For this analysis, the following areas were observed:
+## Network Construction
+
+Talk about about the network itself
 
 
-| Observed Area  |  Description | Centroid  |
-|---|---|
-| Fiji EEZ  | Exclusive Economic Zone of Fiji  |    |
-| Federated States of Micronesia (FSM) EEZ |   |    |
-| Kiribati EEZ - 1 - Gilbert Islands Group  |   |    |
-| Kiribati EEZ - 2 - Phoenix Islands Group |   |    |
-| Nauru EEZ  |   |    |
-|  Palau EEZ |   |    |
-|  Papua New Guinea (PNG) EEZ |   |    |
-|  Republic of the Marshall Islands (RMI) EEZ |   |    |
-|  Solomon Islands EEZ |   |    |
-|  Tonga EEZ |   |    |
-|  Tuvalu EEZ |   |    |
-|  United States of America (USA) EEZ - 1 - Guam |   |    |
-|  United States of America (USA)  EEZ - 2 - Commonwealth of the Northern Marianas Islands |   |    |
-|  Vanuatu EEZ |   |    |
-|  High Seas Pocket 1 | Bounded by Japan's, USA's, Palau's, FSM's, and Philippines' EEZs|    |
-|  High Seas Pocket 2 |  Bounded by FSM's, PNG's, Indonesia's, and Palau's EEZs |    |
-|  High Seas Pocket 3 | Bounded by 20° N to the North and RMI's, FSM's, and USA's EEZs |    |
-|  High Seas Pocket 4 | Bounded by FSM's, Nauru's, RMI's, Kiribati's (Gilbert Islands), Tuvalu's, Fiji's, Solomon Islands', and PNG's EEZs  |    |
-|  High Seas Pocket 5 |  Bounded by Fiji's, Vanuatu's, and Solomon Islands' EEZs |    |
-|  High Seas Pocket 6 |  Bounded by the Equator (0°) to the North and Howland and Baker Islands' (USA), Kiribati's (Phoenix Islands), Tokelau's (New Zealand), Wallis and Fortuna's (France), Tuvalu's, and Kiribati's (Gilbert Islands) EEZs |    |
-|  High Seas Pocket 7 | Bounded by the Equator (0°) to the North and Howland and Baker Islands' (USA), Kiribati's (Phoenix Islands), Tokelau's (New Zealand), Cook Islands' (New Zealand), Jarvis Islands' (USA), and Kiribati's (Line Islands) EEZs  |    |
+| Node Type 1 | Node Type 2 | Edge Relationship | Edge Attribute |
+|------|------|------|------|
+| A    | B    | C    |  G   |
+| E    | F    | G    |  G   |
+| A    | G    | G    |  NA  |
+
+: Node and Edge Types for all networks {#tbl-network-summary}
+
+
+# Results (or Findings?)
+
+Results of our analysis
+
+## Geo-Spatial Analysis Results
+
+MAPS!!
+
+# Outlook
+
+Outlook rather than Conclusion? I think that makes more sense for our kind of paper, but I could be wrong.
+
+
+# Appendix 
+
+## Appendix 1: Fishing Areas {#sec-appendix1}
+
+The AIS data collected for the apparent fishing activity was broken down by area, primarily Exclusive Economic Zones (EEZ) but also High Seas Pockets. The centroids of the EEZs were computed from @maritime_boundaries2023 using geopandas. For this analysis, the following areas were observed:
+
+| Observed Area  |  Description | Centroid |
+|---|---|---|
+| Fiji EEZ  | Exclusive Economic Zone of Fiji  |  177.689346, -17.94847097  |
+| Federated States of Micronesia (FSM) EEZ |  Exclusive Economic Zone of FSM |  150.3224817, 6.768434442  |
+| Kiribati EEZ - 1  | Exclusive Economic Zone of Kiribati (Gilbert Islands Group) |  173.8878893, -0.25912361  |
+| Kiribati EEZ - 2  | Exclusive Economic Zone of of Kiribati (Phoenix Islands Group)  |  187.5460348, -3.731812109  |
+| Nauru EEZ  | Exclusive Economic Zone of Nauru  |  166.1239638, -0.591130617  |
+|  Palau EEZ |  Exclusive Economic Zone of Palau |  133.069498, 6.443930362  |
+|  Papua New Guinea (PNG) EEZ | Exclusive Economic Zone of PNG  |    |
+|  Republic of the Marshall Islands (RMI) EEZ | Exclusive Economic Zone of RMI  |  167.4854677, 10.15136115  |
+|  Solomon Islands EEZ |  Exclusive Economic Zone of the Solomon Islands |  163.6853914, -10.04465238  |
+|  Tonga EEZ |  Exclusive Economic Zone of Tonga |  185.2341392, -20.22174869  |
+|  Tuvalu EEZ | Exclusive Economic Zone of Tuvalu  |  178.1828785, -7.812542137  |
+|  United States of America (USA) EEZ - 1 | Exclusive Economic Zone of Guam  |  144.0026079, 12.9295752  |
+|  United States of America (USA)  EEZ - 2 | Exclusive Economic Zone of Commonwealth of the Northern Marianas Islands |  145.7393322, 18.28659832  |
+|  Vanuatu EEZ | Exclusive Economic Zone of Vanuatu  |  168.5574292, -16.58523096  |
+|  High Seas Pocket 1 | Bounded by Japan's, USA's, Palau's, FSM's, and Philippines' EEZs|  133.2661348, 16.03818414  |
+|  High Seas Pocket 2 |  Bounded by FSM's, PNG's, Indonesia's, and Palau's EEZs |  142.8799343, 3.058219655  |
+|  High Seas Pocket 3 | Bounded by 20° N to the North and RMI's, FSM's, and USA's EEZs | 155.9543427, 16.04415883   |
+|  High Seas Pocket 4 | Bounded by FSM's, Nauru's, RMI's, Kiribati's (Gilbert Islands), Tuvalu's, Fiji's, Solomon Islands', and PNG's EEZs  |  165.9243784, -3.385867731  |
+|  High Seas Pocket 5 |  Bounded by Fiji's, Vanuatu's, and Solomon Islands' EEZs |  173.0194775, -15.37523716  |
+|  High Seas Pocket 6 |  Bounded by the Equator (0°) to the North and Howland and Baker Islands' (USA), Kiribati's (Phoenix Islands), Tokelau's (New Zealand), Wallis and Fortuna's (France), Tuvalu's, and Kiribati's (Gilbert Islands) EEZs |  -165.3957946, -4.886868152  |
+|  High Seas Pocket 7 | Bounded by the Equator (0°) to the North and Howland and Baker Islands' (USA), Kiribati's (Phoenix Islands), Tokelau's (New Zealand), Cook Islands' (New Zealand), Jarvis Islands' (USA), and Kiribati's (Line Islands) EEZs  |  -164.5540955, -4.161049605  |
 
 ::: {.content-visible when-format="pdf"}
 # References
