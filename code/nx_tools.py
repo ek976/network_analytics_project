@@ -155,6 +155,90 @@ def ave_degree(G):
 
 
 #------------------------------
+# PLOT CENTRALITY MEASURES
+#------------------------------
+
+def plot_centrality_distributions(G,path="",fit=False):
+    # init figure
+    fig = plt.figure("Network Centrality Measures", figsize=(40,10))
+
+    # Create a gridspec for adding subplots of different sizes
+    axgrid = fig.add_gridspec(1, 3)
+
+    N = len(G.nodes)
+
+    def bin_values(values, num_bins=int(N/10)):
+        
+        # create histogram
+        counts, bin_edges = np.histogram(values, bins=num_bins)
+        
+        # calculate bin centers
+        bin_centers = (bin_edges[:-1] + bin_edges[1:]) / 2
+        
+        # calculate probabs
+        bin_widths = bin_edges[1:] - bin_edges[:-1]
+        probs = counts / (len(values) * bin_widths) 
+
+        cdf = np.cumsum(probs * bin_widths)
+
+        # filter out zero-probability bins
+        mask = probs > 0
+        bin_centers = bin_centers[mask]
+        probs = probs[mask]
+        cdf = cdf[mask]
+        
+        # return values
+        return bin_centers, probs, cdf
+    
+    degree_sequence = [deg for _, deg in G.degree()]
+    bet_centrality = nx.betweenness_centrality(G, weight='fishing_hours', normalized=True)
+    between_sequence = [bet_centrality[node] for node in G.nodes()]
+    close_centrality = nx.closeness_centrality(G)
+    close_sequence = [close_centrality[node] for node in G.nodes()]
+
+    # DEGREE PLOTS
+    degree_sequence = sorted(degree_sequence, reverse=True)
+
+    #  compute probs and cdf
+    bin_degree, probs_degree, cdf_degree = bin_values(degree_sequence)
+
+    # PLOTS
+    # PDF
+    ax0 = fig.add_subplot(axgrid[0,0])
+    ax0.hist(degree_sequence, bins=30, density = True, color='cadetblue')
+    ax0.set_ylabel("Probability", fontsize=16)
+    ax0.set_xlabel("Degree", fontsize=16)
+    ax0.set_title("Degree Distribution", fontsize=16)
+
+    # BETWEENESS PLOTS
+    between_sequence = sorted(between_sequence, reverse=True)
+    #  compute probs and cdf
+    bin_bet, probs_bet, cdf_bet = bin_values(between_sequence)
+
+    ax1 = fig.add_subplot(axgrid[0,1])
+    ax1.hist(between_sequence, bins=30, density = True, color='mediumturquoise')
+    ax1.set_ylabel("Count", fontsize=16)
+    ax1.set_xlabel("Betweenness", fontsize=16)
+    ax1.set_title("Betweeness Distribution", fontsize=16)
+
+    # CLOSENESS PLOTS
+    close_sequence = sorted(close_sequence, reverse=True)
+    #  compute probs and cdf
+    bin_close, probs_close, cdf_close = bin_values(close_sequence)
+
+    ax2 = fig.add_subplot(axgrid[0,2])
+    ax2.hist(close_sequence, bins=30, density = True, color='lightskyblue')
+    ax2.set_ylabel("Count", fontsize=16)
+    ax2.set_xlabel("Closeness", fontsize=16)
+    ax2.set_title("Closeness Distribution", fontsize=16)
+
+    plt.show()
+
+    # save to output
+    if path != "":
+        fig.savefig(path)
+
+#------------------------------
 # PLOT DEGREE DISTRIBUTION
 #------------------------------
 def plot_degree_distribution(G,type="in",path="",fit=False):
@@ -419,16 +503,7 @@ def isolate_GCC(G):
 #------------------------------
 # ANALYZE NETWORK FUNCTION
 #------------------------------
-def analyze_network(G, graph_name="Graph", top_n=10, seed=42):
-    """
-    Compute betweenness centrality, detect communities, and visualize the network.
-
-    Parameters:
-    - G: networkx.Graph
-    - graph_name: str, label for the graph in plots and printouts
-    - top_n: int, number of top nodes to display by betweenness
-    - seed: int, seed for layout reproducibility
-    """
+def analyze_network(G, graph_name="Graph", label = False, top_n=10, seed=64):
     print(f"\nAnalysis for {graph_name}")
     
     # --- Betweenness Centrality ---
@@ -456,6 +531,9 @@ def analyze_network(G, graph_name="Graph", top_n=10, seed=42):
         node_color = [community_map.get(node, 0) for node in G.nodes()]
         nx.draw_networkx_nodes(G, pos, node_size=50, node_color=node_color, cmap=plt.cm.tab10)
         nx.draw_networkx_edges(G, pos, alpha=0.2)
+        if label == True:
+             nx.draw_networkx_labels(G, font_size=8)
+
         plt.title(f"{graph_name}: Network with Community Coloring")
         plt.axis('off')
         plt.show()
