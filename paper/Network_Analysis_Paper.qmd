@@ -113,7 +113,9 @@ The first data source was the WCPFC's Registry of Fishing Vessels (RFV) [@wcpfc_
 
 Since the goal was to look at the actual fishing vessel activity, rather than just the registration of vessels, a second primary data source was introduced to create the network. Automatic Identification System, or AIS, is a near real-time record of the location of vessels. AIS was originally a collision avoidance tool for vessels over 300 tons, but some fishing vessels also utilize it. While many AIS viewing and collection sources are paid services, this analysis utilized open-source AIS information from @gloabl_fishing_watch_map to identify vessels that fished within the Western Pacific. 
 
-Global Fishing Watch applies their own "fishing detection algorithm based on changes in vessel speed and direction", so that only the Apparent Fishing Effort was collected [@gfw_fishing_actiivty_guide]. Fishing vessel AIS activity was collected from the major fishing areas, EEZs and High Seas Pockets[^5], within the Western Pacific. The exact areas and their boundaries can be found in @sec-appendix1. The activity was collected for each individual area from 01JUL2024 to 01JUL2025, with each observation identifying the vessel and how many hours they exhibited fishing activity in that time period. The full breakdown of Global Fishing Watch's fishing vessel activity algorithm can be found in their 2018 paper, @Kroodsma2018TrackingGlobalFootprint.
+Global Fishing Watch (GFW) applies their own "fishing detection algorithm based on changes in vessel speed and direction", so that only the Apparent Fishing Effort was collected [@gfw_fishing_actiivty_guide]. Fishing vessel AIS activity was collected from the major fishing areas, EEZs and High Seas Pockets[^5], within the Western Pacific. The exact areas and their boundaries can be found in @sec-appendix1. The activity was collected for each individual area from 01JUL2024 to 01JUL2025, with each observation identifying the vessel and how many hours they exhibited fishing activity in that time period. GFW's map from this same period can be seen in @fig-GFWmap. The full breakdown of Global Fishing Watch's fishing vessel activity algorithm can be found in their 2018 paper, @Kroodsma2018TrackingGlobalFootprint.
+
+![Global Fishing Watch Map with Apparent Fishing Efforts from 01JUL24 to 01JUL25.](images/global_fishing_watch_map.png){#fig-GFWmap}
 
 It should also be noted that WCPFC also requires the use of Vessel Monitoring Systems, or VMS, for vessels fishing on the High Seas within the Convention Area. However, VMS is only accessible by those member states and agencies and organizations dedicated to fishers and is not publicly available. For that reason, VMS was not included in this analysis.
 
@@ -129,7 +131,10 @@ For readability, additional cleaning and standardization was conducted on the RF
 
 Given the spatial nature of the problem, a key objective of the analysis was to map the fishing vessel activity network in relation to each vessel’s home port and ownership location. Achieving this required precise spatial coordinates for all network nodes.
 
-To establish node locations, fishing area geometries were used as a foundation. For Exclusive Economic Zones (EEZs), centroids[^6] were calculated from shapefiles provided by the Maritime Boundaries Geodatabase [@maritime_boundaries2023]. High Seas Pocket geometries were manually delineated and extracted from the Global Fishing Watch map [@global_fishing_watch_map], and their centroids were similarly computed. Finally, the vessel ownership locations were calculated by spatial joins with the world's administrative boundaries of states and provinces [@NaturalEarth_Admin1_StatesProvinces_v2]. This allowed ownership locations to be grouped together on some level for easier visualization.
+To establish node locations, fishing area geometries were used as a foundation. For Exclusive Economic Zones (EEZs), centroids[^6] were calculated from shapefiles provided by the Maritime Boundaries Geodatabase [@maritime_boundaries2023]. High Seas Pocket geometries were manually delineated and extracted from the Global Fishing Watch map [@global_fishing_watch_map], and their centroids were similarly computed. Finally, the vessel ownership locations were calculated by spatial joins with the world's administrative boundaries of states and provinces [@NaturalEarth_Admin1_StatesProvinces_v2]. This allowed ownership locations to be grouped together on some level for easier visualization. @fig-areas shows the areas assessed.
+
+![Fishing Areas assessed for AIS activity in the Western Pacific.](images/area_map.png){#fig-areas}
+
 
 [^6]: Note: The centroids are used just for visual representation and no distances were computed from these figures.
 
@@ -171,14 +176,37 @@ Results of our analysis
 
 ## Geo-Spatial Analysis Results
 
-MAPS!!
+Finally, a geo-spatial network was constructed utilizing the centroids of the areas and the approximate positions of the vessel's home ports. The geo-spatial visualization in @fig-FAtoHPmap with the fishing area nodes delineated from the home port nodes by color and the edge width characterized by the sum of fishing hours in that fishing area.
+
+![Fishing Area to Home Port Network Map.](images/fa_to_hp_network_map.png){#fig-FAtoHPmap}
+
+This map alone is telling of the fishing vessel habits in the Western Pacific and clear patterns emerge. For example, port and fishing area pairs such as Pohnpei, FSM & the Marshallese EEZ and Suva, FJI & the Tonga EEZ show that almost the entirety of that area's fishing efforts are by vessels home-ported in those ports, while other fishing areas have more varied vessel connections. Many of the regional relationships are what you would expect, with vessels sticking to areas that are closer to their home ports, however there are a few exceptions. Namely, the Papua New Guinea EEZ seems to be a popular fishing area for vessels from China, Taiwan, and Japan, with very little activity associated with PNG home-ported vessels. And alternatively, the Kiribati EEZ (Phoenix Islands) seems to be favored by Chinese and Taiwanese vessels and not the Japanese fleets.
+
+Utilizing a community detection algorithm, additional insight can be drawn from that network map, @fig-FAtoHPcomms. With just the fishing hours and their corresponding areas assessed, the algorithm found three communities. The communities describe the behavior of three distinct fleets of vessels: the Japanese Fleet, Chinese/Taiwanese Fleet, and Pacific Island Nation Fleet. While there are some miss-matches when looking geographically, this analysis shows that vessels from those ports may not exhibit the same behavior as those closest to it distance-wise, but their behavior is akin to one of the other fleets.
+
+![Fishing Area to Home Port Community Detection Map.](images/fa_to_hp_communities.png){#fig-FAtoHPcomms}
+
+This analysis also looked at the relationship between vessel owner location and the home port of the vessel, however there was very little insights to be drawn, as the home ports were typically synonymous with the location of ownership. This is likely due to the fact that many companies have subsidiaries that located where their vessels are home-ported and that is what is listed on the vessel registration. This relationship between ownership location and home port makes analysis of ownership to fishing area redundant with our original geo-spatial analysis and was not conducted. The home port to ownership location is displayed in @fig-HPtoOmap.
+
+![Home Port to Ownership Location Map.](images/hp_to_owner_map.png){#fig-HPtoOmap}
+
+# Conclusion 
+
+Do we do a conclusion? or 
 
 # Outlook
 
-Outlook rather than Conclusion? I think that makes more sense for our kind of paper, but I could be wrong.
+I think that makes more sense for our kind of paper, but I could be wrong.
 
+Additional analysis opportunities: 
 
-# Appendix 
+This analysis was conducted utilizing open-source AIS data, however these methods could produce more robust results if additional data is introduced. Specifically, if the data was expanded beyond AIS into RFMO's Vessel Monitoring Systems (VMS) and even electronic intelligence (ELINT) feeds (such as @crfs_elint_2022) further insights could be obtained. 
+
+Also one aspect that we did not touch on, but is relevant to this problem set is the role of fish carriers. Especially in relation to the geo-spatial analysis, where a vessel is home ported is not typically indicative of where the catch is landed. An additional analysis, using these same methods, focusing on fish carriers along with finding the proprietary information needed to determine where catch is actually landed would be highly beneficial to the fishing conservation community.
+
+{{< pagebreak >}}
+
+# Appendix
 
 ## Appendix 1: Fishing Areas {#sec-appendix1}
 
@@ -209,5 +237,6 @@ The AIS data collected for the apparent fishing activity was broken down by area
 |  High Seas Pocket 7 | Bounded by the Equator (0°) to the North and Howland and Baker Islands' (USA), Kiribati's (Phoenix Islands), Tokelau's (New Zealand), Cook Islands' (New Zealand), Jarvis Islands' (USA), and Kiribati's (Line Islands) EEZs  |  -164.5540955, -4.161049605  |
 
 ::: {.content-visible when-format="pdf"}
+{{< pagebreak >}}
 # References
 :::
