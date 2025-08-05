@@ -105,15 +105,15 @@ This paper builds on these foundations by exploring how network analysis might b
 
 # Data
 
-Understanding the fisheries landscape in the Wester Pacific requires integrating information from multiple domains. A large part of this analysis was creating this robust data set, which enabled the construction of a fisheries network and the application of network analysis methods to address the problem. Accordingly, we relied on datasets from international organizations, satellite-based monitoring platforms, and open-source geospatial repositories.
+Understanding the fisheries landscape in the Western Pacific requires integrating information from multiple domains. A large part of this analysis was creating this robust data set, which enabled the construction of a fisheries network and the application of network analysis methods to address the problem. Accordingly, we relied on datasets from international organizations, satellite-based monitoring platforms, and open-source geospatial repositories.
 
 ## Data Collection
 
 The first data source was the WCPFC's Registry of Fishing Vessels (RFV) [@wcpfc_rfv]. This is a list of approximately 3,000 vessels that are authorized to fish within the WCPFC's Convention Area. The RFV contains the whole of the vessels' registration information, including official name, flag state, identification numbers, home port, vessel type, and owner information.
 
-Since the goal was to look at the actual fishing vessel activity, rather than just the registration of vessels, a second primary data source was introduced to create the network. Automatic Identification System, or AIS, is a near real-time record of the location of vessels. AIS was originally a collision avoidance tool for vessels over 300 tons, but some fishing vessels also utilize it. While many AIS viewing and collection sources are paid services, this analysis utilized open-source AIS information from @gloabl_fishing_watch_map to identify vessels that fished within the Western Pacific. 
+Since the goal was to look at the actual fishing vessel activity, rather than just the registration of vessels, a second primary data source was introduced to create the network. Automatic Identification System, or AIS, is a near real-time record of the location of vessels. AIS was originally a collision avoidance tool for vessels over 300 tons, but some fishing vessels also utilize it. While many AIS viewing and collection sources are paid services, this analysis utilized open-source AIS information from Global Fishing Watch (GFW) to identify vessels that fished within the Western Pacific. 
 
-Global Fishing Watch (GFW) applies their own "fishing detection algorithm based on changes in vessel speed and direction", so that only the Apparent Fishing Effort was collected [@gfw_fishing_actiivty_guide]. Fishing vessel AIS activity was collected from the major fishing areas, EEZs and High Seas Pockets[^5], within the Western Pacific. The exact areas and their boundaries can be found in @sec-appendix1. The activity was collected for each individual area from 01JUL2024 to 01JUL2025, with each observation identifying the vessel and how many hours they exhibited fishing activity in that time period. GFW's map from this same period can be seen in @fig-GFWmap. The full breakdown of Global Fishing Watch's fishing vessel activity algorithm can be found in their 2018 paper, @Kroodsma2018TrackingGlobalFootprint.
+GFW applies their own "fishing detection algorithm based on changes in vessel speed and direction", so that only the Apparent Fishing Effort was collected [@gfw_fishing_actiivty_guide]. Fishing vessel AIS activity was collected from the major fishing areas, EEZs and High Seas Pockets[^5], within the Western Pacific. The exact areas and their boundaries can be found in @sec-appendix1. The activity was collected for each individual area from 01JUL2024 to 01JUL2025, with each observation identifying the vessel and how many hours they exhibited fishing activity in that time period. GFW's map from this same period can be seen in @fig-GFWmap. The full breakdown of Global Fishing Watch's fishing vessel activity algorithm can be found in their 2018 paper, @Kroodsma2018TrackingGlobalFootprint.
 
 ![Global Fishing Watch Map with Apparent Fishing Efforts from 01JUL24 to 01JUL25.](images/global_fishing_watch_map.png){#fig-GFWmap}
 
@@ -138,7 +138,49 @@ To establish node locations, fishing area geometries were used as a foundation. 
 
 [^6]: Note: The centroids are used just for visual representation and no distances were computed from these figures.
 
-### Network Data Preparation
+## Network Data Preparation
+
+Before selecting final networks for analysis, we explored a wide range of potential node and edge combinations based on the available dataset. The goal was to evaluate which relationships offered the most meaningful insight into vessel behavior, ownership structure, and geographic clustering.
+
+### Potential Nodes 
+
+| Node Type            | Columns of Interest                                   |
+| -------------------- | ----------------------------------------------------- |
+| **Vessel**           | VID, Name of fishing vessel, Registration number, IMO |
+| **Owner**            | Name of the owner or owners, Address of owner         |
+| **Master (Captain)** | Name of master, Nationality of master                 |
+| **Port**             | Port of registry                                      |
+| **Flag State**       | Flag of fishing vessel                                |
+| **Charterer**        | Name of charterer, Address of charterer               |
+| **Fishing Methods**  | Type of fishing method                                |
+| **Authorization**    | Authorization number, Areas/species authorized        |
+
+
+### Potential Edges 
+
+| From Node | To Node        | Relationship Type   |
+| --------- | -------------- | ------------------- |
+| Vessel    | Owner          | “owned by”          |
+| Vessel    | Flag State     | “flagged under”     |
+| Vessel    | Port           | “registered in”     |
+| Vessel    | Master         | “operated by”       |
+| Vessel    | Charterer      | “chartered by”      |
+| Vessel    | Fishing Method | “uses method”       |
+| Vessel    | Authorization  | “has authorization” |
+| Owner     | Address        | “located at”        |
+
+After exploratory construction and preliminary inspection of these pairings, we selected the following three relationship frames for quantitative analysis:
+
+* Vessel-Vessel via Shared Fishing Areas
+  * To examine spatial coordination and potential operational overlap
+* Vessel-Vessel via Shared Ownership
+  * To assess corporate control or flexibility/hierarchy of ownership.
+* Vessel-Port
+  * To evaluate the distribution of vessel registration.
+
+These three networks provided the most interpretable structure and were well-supported by available data. Other potential edges such as vessel-to-charterer or vessel-to-master were excluded due to data sparsity or inconsistent reporting - this field can largely be filled out as the data providers choose.
+
+### Incorporating AIS 
 
 The final data set merged together the AIS data from the fishing areas and the vessel information from the RFV. To facilitate the network construction, each observation was a singular vessel fishing in a singular fishing area, with the vessel and area attributes included. Ultimately, this data set is an edge list with additional node and edge attributes. Here are the final fields of the dataset:
 
@@ -151,15 +193,7 @@ The final data set merged together the AIS data from the fishing areas and the v
 
 : Final Data Set Edge List Fields {#tbl-dataset}
 
-
-# Methodology
-
-Here is what we are planning on doing
-
 ## Network Construction
-
-Talk about about the network itself
-
 
 | Node Type 1 | Node Type 2 | Edge Relationship | Edge Attribute |
 |------|------|------|------|
@@ -169,10 +203,89 @@ Talk about about the network itself
 
 : Node and Edge Types for all networks {#tbl-network-summary}
 
+# Methodology
 
-# Results (or Findings?)
+This study uses a mixed-methods approach that combines geospatial visualization and quantitative graph theory to analyze relationships among vessels, fishing areas, ports, and ownership groups in the Western and Central Pacific. The goal is to uncover non-obvious structure(s) in fishing activity and assess how vessels are organized.
 
-Results of our analysis
+To support this, we constructed three network frames:
+
+* Vessel–Vessel (Shared Fishing Areas): A unipartite network where nodes are vessels and edges indicate co-occurrence in the same fishing area, weighted by the number of shared zones.
+
+* Vessel–Vessel (Shared Ownership): A projection of a bipartite vessel–owner graph where vessels are linked if owned by the same entity.
+
+* Vessel–Port: A bipartite network linking vessels to their home ports, reflecting administrative geography and potential regulatory hubs.
+
+Each network was analyzed using centrality and community detection measures. Betweenness centrality helped identify potential bridge nodes that span otherwise disconnected parts of the network. A modularity-based algorithm was used to detect communities—clusters of vessels or ports that form tightly knit groups.
+
+The vessel–fishing area network was designed to explore operational co-location and behavioral overlap, asking whether vessels tend to cluster in coordinated fleets. The vessel–ownership network provided insight into how fragmented or centralized fleet ownership is across the region. The vessel–port network aimed to reveal logistical and jurisdictional clustering and pinpoint influential port hubs.
+
+All networks were constructed using Python’s networkx library. A custom utility function (analyze_network) was used to compute summary statistics and generate visualizations. This multi-perspective approach enables a layered understanding of the Western Pacific fisheries system, with each network offering a distinct lens on vessel coordination and control. Similar to previous studies performed, we sought to understand relationships or other elements of underlying data that could tell us about the relationships between vessels and fishing practices.
+
+## Findings
+
+While the analysis did not uncover direct evidence of illegal or unregulated fishing activity, it revealed meaningful structural patterns that provide a foundation for future investigation and monitoring.
+
+### Vessel-Vessel Network via Shared Fishing Areas
+
+This network had a highly interconnected structure, with 875 vessels linked by over 126,000 edges—indicating dense patterns of co-fishing activity. Centrality scores revealed a small number of vessels that act as structural bridges, connecting otherwise separate clusters. These vessels may represent highly mobile or multi-regional operators, possibly engaged in coordination across zones. However, these scores are still relatively weak overall, which is part of the (likely positive) finding that there did not seem to be much coordination. 
+
+The top 10 vessels by **betweenness centrality** are shown below:
+
+| Vessel Name         | Betweenness Centrality |
+|---------------------|------------------------|
+| ZHONGSHUI 917       | 0.0101                 |
+| YI MAN NO.8         | 0.0101                 |
+| ZHONGSHUI 927       | 0.0100                 |
+| DE CHAN NO.26       | 0.0085                 |
+| JIN FONG SHUUN      | 0.0074                 |
+| MAN YING CAI NO.6   | 0.0074                 |
+| CHIEN YUAN MING     | 0.0072                 |
+| YI RONG NO3         | 0.0069                 |
+| LIAOYUANYU101       | 0.0068                 |
+| SHUN RONG NO.268    | 0.0064                 |
+
+Community detection identified three major vessel groupings, likely aligned with regional fleets, operational routines, or flag state affiliations. These structural separations suggest organized fishing behavior at scale, with a small number of vessels linking the system together. The visualization of this network is shown in Figure @fig-vesselVesselNetwork.
+
+![Vessel–Vessel Network with Community Detection.](images/vessel_vessel_community.png){#fig-vesselVesselNetwork}
+
+### Vessel–Vessel Network via Shared Ownership
+
+This combination of vessels with shared ownership was to try and identify if vessels were registered commonly under a single 'name' or provider that might help us to link or aggregate by owner. This network was extremely disparate. Although the node set matched the previous network, it yielded only 1,204 edges and over 580 distinct communities. Most vessels were connected to just a few 'siblings' under the same owner, and no vessels had meaningful centrality scores.
+
+As all betweenness centrality values were effectively **0.0000**, this network confirmed that ownership structures are fragmented, which supports the interpretation that firms tend to manage vessels in isolation, without cross-ownership coordination. 
+
+### Vessel-Port Network
+
+The vessel-port network revealed moderate clustering and several key port hubs. Out of 957 total nodes and 882 edges, a few ports stood out: Kaohsiung exhibited the highest betweenness centrality in the entire network. Other significant ports included Zhoushan, Shidao, and Shekou.
+
+The top 10 nodes by betweenness centrality are shown below:
+
+| Node Name         | Betweenness Centrality |
+|-------------------|------------------------|
+| Kaohsiung, None   | 0.1160                 |
+| Shidao, CHN       | 0.0088                 |
+| Zhoushan, CHN     | 0.0086                 |
+| Shekou, CHN       | 0.0028                 |
+| Busan, None       | 0.0027                 |
+| Yantai, CHN       | 0.0015                 |
+| HONG YANG 8       | 0.0014                 |
+| HONG YANG 88      | 0.0014                 |
+| HONGYANG8         | 0.0014                 |
+| HONGYANG88        | 0.0014                 |
+
+Community detection revealed 79 port-based clusters, which largely aligned with national or sub-national jurisdictions. These clusters may reflect administrative boundaries, logistical corridors, or regulatory zones, but do not independently suggest problematic coordination.
+
+## Interpretation
+
+Across all three networks, we did not observe clear signals of illicit coordination or suspicious centralization. Instead, the results reflect a complex but largely modular system where vessels group around geographic or ownership-based features in expected ways.
+
+While exploratory, this analysis supports several key insights:
+
+* Central nodes such as Kaohsiung and a few high degree vessels may serve as critical network connectors.
+* Ownership structures appear siloed, lacking the cross-fleet ties that might indicate centralized control.
+* Operational clusters align with known EEZs and flag states, reinforcing the territorial logic of fishing activity.
+
+Given these observations, we interpret the results as establishing a structural baseline. The networks validate the underlying data relationships and may serve as a reference point for future anomaly detection, risk modeling, or governance design.
 
 ## Geo-Spatial Analysis Results
 
@@ -190,19 +303,17 @@ This analysis also looked at the relationship between vessel owner location and 
 
 ![Home Port to Ownership Location Map.](images/hp_to_owner_map.png){#fig-HPtoOmap}
 
-# Conclusion 
-
-Do we do a conclusion? or 
-
 # Outlook
 
-I think that makes more sense for our kind of paper, but I could be wrong.
+While this analysis does not make conclusive claims about illicit or unregulated behavior, it demonstrates the value of network-based approaches for mapping the structural landscape of industrial fisheries in the Western and Central Pacific. Through the integration of registry, ownership, and AIS-derived activity data, we were able to construct multiple interpretable network frames that revealed behavioral clustering, regional coordination patterns, and the modular nature of fleet ownership.
 
 Additional analysis opportunities: 
 
 This analysis was conducted utilizing open-source AIS data, however these methods could produce more robust results if additional data is introduced. Specifically, if the data was expanded beyond AIS into RFMO's Vessel Monitoring Systems (VMS) and even electronic intelligence (ELINT) feeds (such as @crfs_elint_2022) further insights could be obtained. 
 
 Also one aspect that we did not touch on, but is relevant to this problem set is the role of fish carriers. Especially in relation to the geo-spatial analysis, where a vessel is home ported is not typically indicative of where the catch is landed. An additional analysis, using these same methods, focusing on fish carriers along with finding the proprietary information needed to determine where catch is actually landed would be highly beneficial to the fishing conservation community.
+
+Ultimately, this work is intended to serve as both a baseline and a modular scaffold for future research. As more data sources become available and as monitoring technologies evolve, network analysis offers a scalable and adaptable method for surfacing systemic patterns in global fisheries governance.
 
 {{< pagebreak >}}
 
