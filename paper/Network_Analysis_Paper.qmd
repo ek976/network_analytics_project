@@ -55,7 +55,7 @@ This protein supply chain is unique in that it encompasses a diverse range of ac
 
 Understanding this complex system requires analytical methods capable of mapping the relationships and interactions among diverse stakeholders, vessels, and regulatory entities. With that in mind, this paper explores the potential of Network Analysis as a tool to show the intricate structures and connections within the fisheries sector.
 
-This study reviews existing research and describes an initial approach for applying network analysis to publicly available fisheries data, focusing on the Western and Central Pacific region as a case study. While specific findings are beyond the scope of this project status assignment, this work sets the stage for identifying patterns and relationships that may inform future research, policy development, and strategies to combat IUU fishing.
+This study reviews existing research and describes an initial approach for applying network analysis to publicly available fisheries data, focusing on the Western and Central Pacific region as a case study. This work sets the stage for identifying patterns and relationships that may inform future research, policy development, and strategies to combat IUU fishing.
 
 ## Background
 
@@ -89,7 +89,7 @@ Cooperating Non-member(s) - The Bahamas, Curacao, Ecuador, El Salvador, Liberia,
 
 Previous research has applied network analysis to study fishing practices and fisheries governance. Given the complex and layered relationships that exist between different entities and information flows, network-based approaches provide a way to model and visualize systems that would otherwise be extremely difficult to capture holistically. For instance, @dellapa_international_2013 used Social Network Analysis (SNA) to analyze trade flows of spiny dogfish, revealing how global trade relationships impact regional conservation outcomes and suggesting that trade regulations could promote sustainability.
 
-Network analysis has been used to relate information tied to vessels and their activities. For example, in @ford_chasing_2018, researchers used SNA to identify key ships operating in the Indian Ocean fishing industry. By analyzing AIS data, they inferred relationships between vessels operating in close proximity and found that refrigerated cargo vessels (reefers) and bunkering ships played pivotal roles within the network, as evidenced by high eigenvector centrality scores. Network Analysis has also been used to understand vessel movements and behaviors outside of the fisheries scope. The highly cited @varlamis_building_2021, explored the use of AIS data to build vessel-traffic networks. While their work focused more on visualizing maritime traffic patterns than directly addressing overfishing, it underscores how network-based data structures can enable analysis across diverse fisheries contexts.
+Network analysis has been used to relate information tied to vessels and their activities. For example, in @ford_chasing_2018, researchers used SNA to identify key ships operating in the Indian Ocean fishing industry. By analyzing Automatic Information System (AIS) data (a tracking system that uses VHF radio to automatically broadcast a ship's identification, position, course, speed, and other relevant information to other ships and shore stations), they inferred relationships between vessels operating in close proximity and found that refrigerated cargo vessels (reefers) and bunkering ships played pivotal roles within the network, as evidenced by high eigenvector centrality scores. Network Analysis has also been used to understand vessel movements and behaviors outside of the fisheries scope. The highly cited @varlamis_building_2021, explored the use of AIS data to build vessel-traffic networks. While their work focused more on visualizing maritime traffic patterns than directly addressing overfishing, it underscores how network-based data structures can enable analysis across diverse fisheries contexts.
 
 Network analysis has also been applied to social and governance networks. For instance, @marin_network_2010 examined co-management networks in Chilean small-scale fisheries, finding that power was highly centralized among government institutions and recommending policy changes to promote participatory governance. Such qualitative analyses underscore how network methods can extend beyond purely quantitative data to reveal institutional and social dynamics relevant to fisheries management.
 
@@ -123,7 +123,7 @@ It should also be noted that WCPFC also requires the use of Vessel Monitoring Sy
 
 ## Data Cleaning
 
-Before analysis, the data required several cleaning and preprocessing steps to ensure consistency and usability, along with preparing it for network creation. The Registry of Fishing Vessels was a complete data set, in that all the fields were filled out, but there was some variation of the completeness within the fields. The field with the most inconsistency was the fishing vessels' owner's address field. Since the AIS data set that is be paired with RFV has a significant spatial aspect, the locations of the owners/companies were of interest. The inconsistencies with this field stem from the fact that owners are spread throughout Asia (and the world) and many countries have different ways of writing addresses. To create uniformity in the owner location, this field was cleaned utilizing OpenAI's API, specifically the gpt-4o-mini model's chat responses [@OpenAI2025API], to extract the approximate latitude and longitude location of the owner/company.
+Before analysis, the data required several cleaning and preprocessing steps to ensure consistency and usability (along with preparing it for network creation). The Registry of Fishing Vessels was a complete data set, in that all the fields were filled out, but there was some variation of the completeness within the fields. The field with the most inconsistency was the fishing vessels' owner's address field. Since the AIS data set that is be paired with RFV has a significant spatial aspect, the locations of the owners/companies were of interest. The inconsistencies with this field stem from the fact that owners are spread throughout Asia (and the world) and many countries have different ways of writing addresses. To create uniformity in the owner location, this field was cleaned utilizing OpenAI's API, specifically the gpt-4o-mini model's chat responses [@OpenAI2025API], to extract the approximate latitude and longitude location of the owner/company.
 
 For readability, additional cleaning and standardization was conducted on the RFV. The fishing vessel types were extracted from @FAO_fishery_vessels and the home port information was cross referenced with WCPFC's list of full port names [@WCPFC2025PortsRFV]. OpenAI's API was utilized again to extract the approximate latitude and longitude location of the home port as well. 
 
@@ -172,13 +172,13 @@ Before selecting final networks for analysis, we explored a wide range of potent
 After exploratory construction and preliminary inspection of these pairings, we selected the following three relationship frames for quantitative analysis:
 
 * Vessel-Vessel via Shared Fishing Areas
-  * To examine spatial coordination and potential operational overlap
+  * To examine spatial coordination and potential operational overlap.
 * Vessel-Vessel via Shared Ownership
   * To assess corporate control or flexibility/hierarchy of ownership.
 * Vessel-Port
   * To evaluate the distribution of vessel registration.
 
-These three networks provided the most interpretable structure and were well-supported by available data. Other potential edges such as vessel-to-charterer or vessel-to-master were excluded due to data sparsity or inconsistent reporting - this field can largely be filled out as the data providers choose.
+These three networks provided the most interpretable structure and were well-supported by available data. Other potential edges such as vessel-to-charterer or vessel-to-master were excluded due to data sparsity or inconsistent reporting; this field could largely be filled out as the data providers choose.
 
 ### Incorporating AIS 
 
@@ -192,16 +192,6 @@ The final data set merged together the AIS data from the fishing areas and the v
 | Owner Latitude| Owner Longitude| Homeport Latitude        | Homeport Longitude |
 
 : Final Data Set Edge List Fields {#tbl-dataset}
-
-## Network Construction
-
-| Node Type 1 | Node Type 2 | Edge Relationship | Edge Attribute |
-|------|------|------|------|
-| A    | B    | C    |  G   |
-| E    | F    | G    |  G   |
-| A    | G    | G    |  NA  |
-
-: Node and Edge Types for all networks {#tbl-network-summary}
 
 # Methodology
 
@@ -244,7 +234,7 @@ The top 10 vessels by **betweenness centrality** are shown below:
 | LIAOYUANYU101       | 0.0068                 |
 | SHUN RONG NO.268    | 0.0064                 |
 
-Community detection identified three major vessel groupings, likely aligned with regional fleets, operational routines, or flag state affiliations. These structural separations suggest organized fishing behavior at scale, with a small number of vessels linking the system together. The visualization of this network is shown in Figure @fig-vesselVesselNetwork.
+Community detection identified three major vessel groupings, likely aligned with regional fleets, operational routines, or flag state affiliations. These structural separations suggest organized fishing behavior at scale, with a small number of vessels linking the system together. The visualization of this network is shown in @fig-vesselVesselNetwork.
 
 ![Vessel–Vessel Network with Community Detection.](images/vessel_vessel_community.png){#fig-vesselVesselNetwork}
 
@@ -252,7 +242,9 @@ Community detection identified three major vessel groupings, likely aligned with
 
 This combination of vessels with shared ownership was to try and identify if vessels were registered commonly under a single 'name' or provider that might help us to link or aggregate by owner. This network was extremely disparate. Although the node set matched the previous network, it yielded only 1,204 edges and over 580 distinct communities. Most vessels were connected to just a few 'siblings' under the same owner, and no vessels had meaningful centrality scores.
 
-As all betweenness centrality values were effectively **0.0000**, this network confirmed that ownership structures are fragmented, which supports the interpretation that firms tend to manage vessels in isolation, without cross-ownership coordination. 
+As all betweenness centrality values were effectively 0.0000, this network confirmed that ownership structures are fragmented, which supports the interpretation that firms tend to manage vessels in isolation, without cross-ownership coordination. 
+
+![Vessel–Vessel Shared Ownership Network with Maritime Theme. Nodes represent vessels and are colored by ownership community.](../paper/images/vessel_ownership_maritime.png){#fig-vesselOwnershipMaritime}
 
 ### Vessel-Port Network
 
@@ -274,6 +266,8 @@ The top 10 nodes by betweenness centrality are shown below:
 | HONGYANG88        | 0.0014                 |
 
 Community detection revealed 79 port-based clusters, which largely aligned with national or sub-national jurisdictions. These clusters may reflect administrative boundaries, logistical corridors, or regulatory zones, but do not independently suggest problematic coordination.
+
+![Vessel–Port Network with Port Labels and Maritime Theme. Ports are shown in dark cyan and labeled; vessels are shown in royal blue.](../paper/images/vessel_port_labeled.png){#fig-vesselPortLabeled}
 
 ## Interpretation
 
@@ -305,13 +299,11 @@ This analysis also looked at the relationship between vessel owner location and 
 
 # Outlook
 
-While this analysis does not make conclusive claims about illicit or unregulated behavior, it demonstrates the value of network-based approaches for mapping the structural landscape of industrial fisheries in the Western and Central Pacific. Through the integration of registry, ownership, and AIS-derived activity data, we were able to construct multiple interpretable network frames that revealed behavioral clustering, regional coordination patterns, and the modular nature of fleet ownership.
+While this analysis does not make conclusive claims about illicit or unregulated behavior, it demonstrates the value of network-based approaches for mapping the structural landscape of industrial fisheries in the Western and Central Pacific. Through the integration of registry, ownership, and AIS-derived activity data, we were able to construct multiple interpretable network frames that revealed behavioral clustering, regional coordination patterns, and the modular nature of fleet ownership. The initial results highlighted areas where future analysis could provide opportunity.
 
-Additional analysis opportunities: 
+The first is that while this analysis was conducted utilizing open-source AIS data, these methods could produce more robust results if additional data is introduced. Specifically, if the data was expanded beyond AIS into RFMO's Vessel Monitoring Systems (VMS) and even electronic intelligence (ELINT) feeds (such as @crfs_elint_2022) further insights could be obtained. 
 
-This analysis was conducted utilizing open-source AIS data, however these methods could produce more robust results if additional data is introduced. Specifically, if the data was expanded beyond AIS into RFMO's Vessel Monitoring Systems (VMS) and even electronic intelligence (ELINT) feeds (such as @crfs_elint_2022) further insights could be obtained. 
-
-Also one aspect that we did not touch on, but is relevant to this problem set is the role of fish carriers. Especially in relation to the geo-spatial analysis, where a vessel is home ported is not typically indicative of where the catch is landed. An additional analysis, using these same methods, focusing on fish carriers along with finding the proprietary information needed to determine where catch is actually landed would be highly beneficial to the fishing conservation community.
+Also one aspect that we did not touch on, but is relevant to this problem set, is the role of fish carriers. Especially in relation to the geo-spatial analysis, where a vessel is home ported is not typically indicative of where the catch is landed. A similar analysis using these methods, focusing on fish carriers along with finding the proprietary information needed to determine where catch is actually landed would be highly beneficial to the fishing conservation community.
 
 Ultimately, this work is intended to serve as both a baseline and a modular scaffold for future research. As more data sources become available and as monitoring technologies evolve, network analysis offers a scalable and adaptable method for surfacing systemic patterns in global fisheries governance.
 
